@@ -1,0 +1,28 @@
+version: 1
+web:
+  name: Curvenote
+  domains:
+    - blog.curve.space
+  logo: public/logo.svg
+  logoText: Curvenote
+  twitter: curvenote
+  nav:
+    - title: '2022'
+      url: /2022
+    - title: '2021'
+      url: /2021
+    - title: '2020'
+      url: /2020
+  sections:
+    - title: '2022'
+      folder: content/2022
+      path: content/2022
+    - title: '2021'
+      folder: content/2021
+      path: content/2021
+    - title: '2020'
+      folder: content/2020
+      path: content/2020
+  actions:
+    - title: Learn More
+      url: https://docs.curvenote.com/web

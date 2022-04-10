@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Presentations
+    chapters:
+      - file: jupyter-con
+      - file: software-underground
+  - caption: Release Notes
+    chapters:
+      - file: release-notes-q4
+      - file: release-notes-q3
+      - file: release-notes-q2

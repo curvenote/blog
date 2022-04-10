@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Articles
+    chapters:
+      - file: from-jupyter-notebook-to-scientific-paper
+      - file: code-mark
+  # - caption: Product Updates
+  #   chapters:
+  #     - file: reference-speed-improvements
+  #     - file: block-drag-and-drop
+  #     - file: author-list-improvements
+  - caption: Release Notes
+    chapters:
+      - file: release-notes-q2
+      - file: release-notes-q1

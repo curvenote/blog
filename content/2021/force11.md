@@ -1,0 +1,38 @@
+---
+title: FORCE11 2021 Conference
+description: ''
+date: 2021-11-16T20:43:30.986Z
+authors:
+  - name: Rowan Cockett
+    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
+    orcid: 0000-0002-7859-8394
+    corresponding: null
+    email: null
+    roles: null
+    affiliations: null
+name: force11-2021
+oxa: oxa:AVQ2dzLNloEd25Io8NbA/B4wmnvPyzVyBNQ8vHZpG
+---
+
+# FORCE11 2021 Conference
+
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/PZS359MBDVijTxcZbaLC.5"}
+
+I am thrilled to announce that Curvenote is a Gold Sponsor of the upcoming the FORCE11 2021 conference. Over the last decade, FORCE11 (the Future of Research Communication and e-Scholarship, started in 2011) has put forth [manifestos](https://www.force11.org/about/manifesto) and [principles](https://www.force11.org/community/community-outcomes) as well as promoting a vibrant community of scholars, librarians, publishers and research funders who [work together](https://www.force11.org/groups) to help facilitate a transition to modern scholarly communications through the effective use of technology.
+
+````{margin}
+```{figure} images/AVQ2dzLNloEd25Io8NbA-PVLw6iI1RmMrgDTagRbA-v1.png
+:name: VHPaCEUxZd
+
+The first “block” of Curvenote, thinking about addressable units of information that evolve over time. We originally called them “bricks” based on the paper “Chaos in the Brickyard” {cite:p}`Forscher1963Chaos`, which presented a metaphor of dysfunctional scientific communication.
+```
+
+````
+
+The core concepts for Curvenote, focused around reimagining the unit of scholarly communication, were developed when Lindsey Heagy and I attended their annual conference in 2016. We were working on open-textbooks, open-source software, and transitioning our research group to open-science practices. Throughout the conference we were exposed to many new ideas, principles, and a supportive community that was ambitious in bringing about system-wide changes in how science is communicated.
+
+The vision, inclusivity, and foundational changes presented throughout the first FORCE11 conference I attended was inspiring. In fact, I purposefully timed when I quit my last job to be one week before the FORCE11 annual conference in 2019. I had trouble filling out the “Affiliation” section on my name badge, but had no trouble soaking up the ideas and vision that became the foundation on which we have built Curvenote. It is quite meaningful to us that we are now in a place to help sponsor the conference a few years later, and an honour to be in such [excellent company](https://www.force11.org/meetings/force2021/force2021-sponsorship).
+
+## You should attend!
+
+Take a look at the the [conference schedule](https://force2021.sched.com/) and [register for free](https://www.eventbrite.com/e/force2021-tickets-94730321943) to attend the conference online. If you want a deep dive on the vision behind FORCE11, I suggest reading [their manifesto](https://www.force11.org/about/manifesto) — where they illuminate the challenges and the guideposts to changes in technology, incentives, and business practices that lead towards sustained and radical improvements to science.
