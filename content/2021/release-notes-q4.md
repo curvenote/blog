@@ -1,6 +1,6 @@
 ---
 title: 2021-Q4
-description: ""
+description: Rich text comments, notifications and more!
 date: 2021-10-07T18:02:24.421Z
 authors:
   - name: Rowan Cockett

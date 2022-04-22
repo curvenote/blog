@@ -2,11 +2,12 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
+root: from-jupyter-notebook-to-scientific-paper
 parts:
   - caption: Articles
     chapters:
       - file: from-jupyter-notebook-to-scientific-paper
+      - file: reusing-and-remixing-science
       - file: code-mark
   # - caption: Product Updates
   #   chapters:
