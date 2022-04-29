@@ -1,29 +1,32 @@
 ---
 title: From Jupyter Notebook to Scientific Paper
-description: ""
+description: ''
 date: 2022-02-01T22:50:00.000Z
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
     orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
+    corresponding: true
+    email: rowan@curvenote.com
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
   - name: Steve Purves
     userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     orcid: 0000-0002-0760-5497
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
   - name: Liz Maag-Capriotti
     userId: QK7zZmHaCkh43qvqCMRmV8zUZRC2
     orcid: 0000-0002-0445-4531
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: from-jupyter-notebook-to-scientific-paper
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/m2K31HsBqvCglJacduZU
 ---
@@ -32,9 +35,9 @@ oxa: oxa:AVQ2dzLNloEd25Io8NbA/m2K31HsBqvCglJacduZU
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/mjZ6q0dAwQHbdwmctsN0.11"}
 
-Jupyter Notebooks are a perfect tool for exploratory data analysis, data cleanup, and visualization. Jupyter is fantastic in creating rich, interactive visualizations, which are very different outputs than how most of science is communicated today — through PDFs, PPT Slides and WordDocs. This disconnect of how modern science is *completed*, using data analysis tools and high performance computing, and the way we *communicate* that work means it can be very difficult to share and to collaborate with stakeholders, especially if those stakeholders aren’t familiar with Jupyter!
+Jupyter Notebooks are a perfect tool for exploratory data analysis, data cleanup, and visualization. Jupyter is fantastic in creating rich, interactive visualizations, which are very different outputs than how most of science is communicated today — through PDFs, PPT Slides and WordDocs. This disconnect of how modern science is _completed_, using data analysis tools and high performance computing, and the way we _communicate_ that work means it can be very difficult to share and to collaborate with stakeholders, especially if those stakeholders aren’t familiar with Jupyter!
 
-At Curvenote, our mission is to help transition science out of PDFs — bringing science communication into the web: where data can be dynamic, linked to computation, and kept up to date. That vision is still a ways off, with most of science being communicated in PDFs (and still even behind paywalls!), and this disconnect is what we will address in this article: ***How to create a scientific paper using Jupyter Notebooks?***
+At Curvenote, our mission is to help transition science out of PDFs — bringing science communication into the web: where data can be dynamic, linked to computation, and kept up to date. That vision is still a ways off, with most of science being communicated in PDFs (and still even behind paywalls!), and this disconnect is what we will address in this article: **_How to create a scientific paper using Jupyter Notebooks?_**
 
 ## Copy-and-Paste stops Reproducibility
 
@@ -177,4 +180,3 @@ Curvenote maintains an active link between your Jupyter Notebook outputs and wri
 [Sign up for Curvenote](https://curvenote.com/) for free and start versioning, collaborating, and writing in your project! We’re keen to hear your feedback, suggestions, and help you get the most out of Curvenote.
 
 To learn more about writing a paper based on research from a Jupyter notebook, you can watch a [webinar that Curvenote recently hosted](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/Xw2zhkdzJSTDHC8EVQ4X). Steve Purves steps through the creation of his [La Palma Seismicity 2021](https://curvenote.com/oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp.8) paper, starting with earthquake data collected from the volcanic eruptions, creates visualizations in Jupyter, then demonstrates a how a paper can be brought together and exported to arXiv ready PDF using Curvenote.
-

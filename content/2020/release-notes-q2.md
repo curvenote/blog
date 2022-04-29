@@ -3,6 +3,7 @@ title: 2020-Q2
 description: Iooxa's (now Curvenote's) first ever release notes!
 date: 2020-09-02T21:18:48.688Z
 name: 2020-2
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/TdaZwt4zzTL0LECRXsCi
 ---
 

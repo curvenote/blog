@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: exporting-to-docx
 oxa: oxa:DOHMeg040aVXqR51yjBy/544kxF9tADUPDVyMYwS2
 ---

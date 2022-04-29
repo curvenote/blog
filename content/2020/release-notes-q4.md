@@ -3,6 +3,7 @@ title: 2020-Q4
 description: Jupyter extension, interactive outputs, thumbnails, nicer profiles!
 date: 2020-10-03T19:59:18.501Z
 name: 2020-4
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/gNZUCQqlapwbdzf2gel2
 ---
 

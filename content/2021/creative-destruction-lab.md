@@ -1,6 +1,6 @@
 ---
 title: Creative Destruction Lab
-description: ""
+description: ''
 date: 2021-11-10T20:02:51.152Z
 authors:
   - name: Rowan Cockett
@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: creative-destruction-lab
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/pqZtoOhdfTxTF1PR8COr
 ---
@@ -33,4 +34,3 @@ Our introductory video that we submitted to CDL is below - we will keep folks up
 :align: center
 :width: 100%
 ```
-

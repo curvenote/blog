@@ -3,15 +3,8 @@ title: 2021-Q3
 description: Releases in Q3! Export Templates, editor improments, bibtex, tables
   and much more to come!
 date: 2021-07-06T11:35:03.449Z
-authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
 name: 2021-3
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/pXFoSZgEIugklE5D3l4x
 ---
 
@@ -31,9 +24,9 @@ All articles and blocks now count the number of words in the document. A small, 
 
 ### 🐛 Bug Fixes & Quality of Life Improvements ❤️
 
-* Arrow keys and copy/paste of blocks got disabled on a previous update, these are now fixed
-* Bullet point spacing has been updated (smaller!)
-* Referencing sub-headers (e.g. `Section 2.1`) now shows the correct number
+- Arrow keys and copy/paste of blocks got disabled on a previous update, these are now fixed
+- Bullet point spacing has been updated (smaller!)
+- Referencing sub-headers (e.g. `Section 2.1`) now shows the correct number
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/vKgG5Rm8QXlO7vRfbMrF.2"}
 
@@ -41,11 +34,11 @@ All articles and blocks now count the number of words in the document. A small, 
 
 ### 🚀 New Table Capability
 
-* Insert using the `/table` command or from the insert menu
-* Add a row using `/add row` or explore other table-specific option menus
-* When selected, the table menu in the top menu is also activated, allowing some additional options like toggling header cells, or splitting and merging selected cells.
+- Insert using the `/table` command or from the insert menu
+- Add a row using `/add row` or explore other table-specific option menus
+- When selected, the table menu in the top menu is also activated, allowing some additional options like toggling header cells, or splitting and merging selected cells.
 
-~~~{list-table}
+```{list-table}
 :header-rows: 1
 :name: OxIDI44ilX
 
@@ -73,13 +66,13 @@ All articles and blocks now count the number of words in the document. A small, 
 
   - 112
 
-~~~
+```
 
 ### 🐛 Bug fixes
 
-* Improve `/` actions that are available in the context of where you are typing
-* Equations can now be created inside of callouts using `$$`
-* Tab in an equation now works the same as `Esc` or arrow-out ➡️
+- Improve `/` actions that are available in the context of where you are typing
+- Equations can now be created inside of callouts using `$$`
+- Tab in an equation now works the same as `Esc` or arrow-out ➡️
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/exSAyZdEIsuOSbUZntxV.2"}
 
@@ -93,7 +86,7 @@ If you signed up to Curvenote before today, you’ll be receiving an email short
 
 #### 🐛 Bug Fixes
 
-* Clicking on an export notification will now get you back to the right version of the article you exported. Previously this would case a 404 because of a malformed url.
+- Clicking on an export notification will now get you back to the right version of the article you exported. Previously this would case a 404 because of a malformed url.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/zsZ29XnERDhxExpp4bxu.1"}
 
@@ -109,19 +102,21 @@ This dialog contains your account settings, as well as project and team settings
 
 Settings dialog can be launched from:
 
-* The “gear cog” icon on the navigation panel
+- The “gear cog” icon on the navigation panel
 
   ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-MXiVMJyEdDGxE9LSZrtp-v1.png
   :name: a5c05c05
 
   ```
-* Personal Settings in the user menu (top right of the screen)
+
+- Personal Settings in the user menu (top right of the screen)
 
   ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-iYPaEUeii5tRL4sdHyj4-v1.png
   :name: a0568c1a
 
   ```
-* Edit Profile or Manage Team buttons on the profile pages
+
+- Edit Profile or Manage Team buttons on the profile pages
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-ZNucFWXSLhlqZCyzqLBO-v1.png
 :name: ad559099
@@ -133,13 +128,13 @@ Settings dialog can be launched from:
 
 ### Improvements
 
-* When you create a project from a template, you are now listed as an author!
+- When you create a project from a template, you are now listed as an author!
 
 ### 🐛 Bug Fixes:
 
-* Fixed an issue where you were unable to upload a notebook when the project is empty
-* Fixed a routing issue when deleting articles in project, you are now redirected to the main project page
-* When creating a new project *without* giving it a title, the project creation no longer fails
+- Fixed an issue where you were unable to upload a notebook when the project is empty
+- Fixed a routing issue when deleting articles in project, you are now redirected to the main project page
+- When creating a new project _without_ giving it a title, the project creation no longer fails
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/PcVClE0FC2wi2QLZY8wA.1"}
 
@@ -159,7 +154,7 @@ When a new user signs up to Curvenote, they now go through a better onboarding f
 
 ### 🐛 Bug Fixes
 
-* When you change the project name, the URL now updates properly.
+- When you change the project name, the URL now updates properly.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/6ezJ8x5guLHvIQ0BtyWL.1"}
 
@@ -175,7 +170,7 @@ We have updated our website to show off some of our new features! We also have a
 
 ## Aug 12, 2021
 
-* Added a new export template the [MDPI Energies Journal](https://www.mdpi.com/journal/energies). This is based on the standard MDPI $\LaTeX$ template that supports 300+ Journals across multiple fields and article types. For now, this is set to [Energies](https://www.mdpi.com/journal/energies) but once we have User Options available during the export process 🔜, we’ll be able to export to PDF for any MDPI journal. In the meantime, export as $\LaTeX$ and change the journal name for local builds.
+- Added a new export template the [MDPI Energies Journal](https://www.mdpi.com/journal/energies). This is based on the standard MDPI $\LaTeX$ template that supports 300+ Journals across multiple fields and article types. For now, this is set to [Energies](https://www.mdpi.com/journal/energies) but once we have User Options available during the export process 🔜, we’ll be able to export to PDF for any MDPI journal. In the meantime, export as $\LaTeX$ and change the journal name for local builds.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-XqKybYJydo6S2MZ18ajz-v1.png
 :name: ac0d3287
@@ -185,10 +180,10 @@ We have updated our website to show off some of our new features! We also have a
 
 ## Aug 11, 2021
 
-* There was a bug when the app was loading that the information panel would say that the block was not found, this has been fixed! 🐛
-* It was not possible to drag and drop reorder items in the Navigation tree, this is fixed ⚒️
-* The `< prev` | `next >` links now render for users that are viewing and not logged in, on items that are not at the base/root level of the tree. ⏮️ ⏭️
-* When you land on a page that has child pages grouped under it in the Navigation panel, the navigation will now be expanded to show the children. 📂
+- There was a bug when the app was loading that the information panel would say that the block was not found, this has been fixed! 🐛
+- It was not possible to drag and drop reorder items in the Navigation tree, this is fixed ⚒️
+- The `< prev` | `next >` links now render for users that are viewing and not logged in, on items that are not at the base/root level of the tree. ⏮️ ⏭️
+- When you land on a page that has child pages grouped under it in the Navigation panel, the navigation will now be expanded to show the children. 📂
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/ais6ynAB4zmdtotSC0k5.2"}
 
@@ -196,9 +191,9 @@ We have updated our website to show off some of our new features! We also have a
 
 When you land on a project, you are now redirected to the content immediately instead of first landing on a page that lists the articles in the project. We have also improved the experience when you land on an empty project. Some of the gallery aspects of the previous project page will be brought back in the future! 🔮
 
-* The navigation is also now published by default for all public projects (or partially public).
-* We have increased the performance of the navigation ⚡ this is especially noticeable for projects with many navigation items.
-* Some early projects did not have a nav version or draft created, this means some of the processing tasks didn’t work, this has been fixed! 🐛
+- The navigation is also now published by default for all public projects (or partially public).
+- We have increased the performance of the navigation ⚡ this is especially noticeable for projects with many navigation items.
+- Some early projects did not have a nav version or draft created, this means some of the processing tasks didn’t work, this has been fixed! 🐛
 
 This is what we have removed! 🚀
 
@@ -218,10 +213,10 @@ So that you now land on a page of your choosing!
 
 We have deployed a set of templates this week including:
 
-* arXix - single and two column
-* EarthArXiv - single and two column
-* AGU Journal format
-* Volcanica Journal
+- arXix - single and two column
+- EarthArXiv - single and two column
+- AGU Journal format
+- Volcanica Journal
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-ju3RyLSzP5hF3JsWTK7X-v1.gif
 :name: aa4e4721
@@ -233,7 +228,7 @@ We need to add some options to make these fully functional and submission-ready 
 
 ## Aug 4, 2021 - Export Templates
 
-* We have added thumbnails to the export templates with a hover popup, so you can see what you can expect before exporting. 🖼️
+- We have added thumbnails to the export templates with a hover popup, so you can see what you can expect before exporting. 🖼️
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-wI1L1HUzUMbzu9hfIs3u-v1.gif
 :name: a78903f6
@@ -241,11 +236,11 @@ We need to add some options to make these fully functional and submission-ready 
 
 ### Deploy #2
 
-* We’ve added 4 new export templates
-  * arXiv (NIPS based)
-  * arXiv (Two Column)
-  * EarthArXiv
-  * EarthArXiv (Two Column)
+- We’ve added 4 new export templates
+  - arXiv (NIPS based)
+  - arXiv (Two Column)
+  - EarthArXiv
+  - EarthArXiv (Two Column)
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-e08LG9FJHCQJEiKO20ld-v1.gif
 :name: a36292c1
@@ -253,8 +248,8 @@ We need to add some options to make these fully functional and submission-ready 
 
 ### 🐛 Bug Fixes
 
-* Made the `Abstract` marker for tagged block more subtle
-* Provided a little more space and a separator above the `< prev` and `next >` buttons
+- Made the `Abstract` marker for tagged block more subtle
+- Provided a little more space and a separator above the `< prev` and `next >` buttons
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/gn7RcIlwENDTwmOt6Nfd.2"}
 
@@ -276,8 +271,8 @@ that includes an **abstract** tag on the first block, exported to PDF:
 
 Also,
 
-* Tagging multiple blocks with the same tag will concatenate the content on export. So if you’re **abstract** is stretched over 3 blocks in Curvenote, tag all 3.
-* You can add a tag **no-export** to a block and it will be excluded from your pdf.
+- Tagging multiple blocks with the same tag will concatenate the content on export. So if you’re **abstract** is stretched over 3 blocks in Curvenote, tag all 3.
+- You can add a tag **no-export** to a block and it will be excluded from your pdf.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/a7cIVTmx6KizqSYdWgKf.2"}
 
@@ -301,11 +296,11 @@ We also introduced navigation links at the bottom of each article. These links c
 
 We have completely redone the navigation, improved the styles and spacing and given more information about when your content is public or private. 🔒
 
-* The nav items are now links `<a>`, and so `shift` or `cmd` click can open in new tabs, and your browser will show you the link as a preview
-* The navigation actions are now at the bottom of the panel!
-* There are hover tooltips to give you more information about an article before you click on it.
-* The titles will now always be up to date with the latest title of the article ⬆️
-  * They will also change as you are typing ⚡, before this worked, but was very slow! 🐌
+- The nav items are now links `<a>`, and so `shift` or `cmd` click can open in new tabs, and your browser will show you the link as a preview
+- The navigation actions are now at the bottom of the panel!
+- There are hover tooltips to give you more information about an article before you click on it.
+- The titles will now always be up to date with the latest title of the article ⬆️
+  - They will also change as you are typing ⚡, before this worked, but was very slow! 🐌
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-KWAA9DAyUO9sLx1RD45L-v1.gif
 :name: aab7ec88
@@ -319,18 +314,18 @@ If you have chosen to not make all articles in a project public, the ones that y
 
 ### 🐛 Bug Fixes
 
-* We have improved when comments are positioned 💬
-* Image are now loaded when there is less network traffic from first load of the page (waiting a few seconds) or are loaded if they are in the viewport. ⚡
-  * This also helps with numbering issues in CSS if you are at the bottom of an article. 🔢
+- We have improved when comments are positioned 💬
+- Image are now loaded when there is less network traffic from first load of the page (waiting a few seconds) or are loaded if they are in the viewport. ⚡
+  - This also helps with numbering issues in CSS if you are at the bottom of an article. 🔢
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/PW8UoMpMCI28IBMUHd7v.1"}
 
 ## Jul 28, 2021 - Export changes
 
-* We’ve deployed an updated version of the python client (responsible for exports) where the templating code is isolated in a sub-package. This is to prep for a release of that to template authors & contributors soon!
-* Other changes
-  * We’ve updated the Export dialog to show both Author and Contributor, and a link to the original source of the template
-  * If an export job fails the status indicator will now show you where it failed
+- We’ve deployed an updated version of the python client (responsible for exports) where the templating code is isolated in a sub-package. This is to prep for a release of that to template authors & contributors soon!
+- Other changes
+  - We’ve updated the Export dialog to show both Author and Contributor, and a link to the original source of the template
+  - If an export job fails the status indicator will now show you where it failed
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/okexKbEfJkoxJ54qPD9j.1"}
 
@@ -344,9 +339,9 @@ We have also released a new version of the Chrome Extension (`1.2.6`), which is 
 
 ## Jul 23, 2021 - App improvements
 
-* 🐛 Previously removing all authors from the author list and pressing submit caused the app to fail (white screen) this has now been fixed.
-* We’ve made improvements to the styling and overflow in hover cards on links, ensuring that text overflows nicely.
-* 🐛 There were cases where the hover information was not shown when the URL rather than oxaLink was used. This has been fixed! ✅
+- 🐛 Previously removing all authors from the author list and pressing submit caused the app to fail (white screen) this has now been fixed.
+- We’ve made improvements to the styling and overflow in hover cards on links, ensuring that text overflows nicely.
+- 🐛 There were cases where the hover information was not shown when the URL rather than oxaLink was used. This has been fixed! ✅
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/MZUnhLlb4HlvdCVNggBL.1"}
 
@@ -372,8 +367,8 @@ We’ve added a block info card to display high-level details of a block when th
 
 We’ve renamed the Curvenote PDF templates, ahead of adding more.
 
-* Curvenote Default (previously Curvenote Paper) is a richer output approximating our web styling and this is now selected by default in the Templates listing
-* Plain Latex (previously Curvenote Basic) is a special template that does not use any of Curvenote’s extended $\LaTeX$ commands or environments and is intended for use when you want to get vanilla latex output that only uses well-known commands and packages. Usually, because you want to modify things yourself.
+- Curvenote Default (previously Curvenote Paper) is a richer output approximating our web styling and this is now selected by default in the Templates listing
+- Plain Latex (previously Curvenote Basic) is a special template that does not use any of Curvenote’s extended $\LaTeX$ commands or environments and is intended for use when you want to get vanilla latex output that only uses well-known commands and packages. Usually, because you want to modify things yourself.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-98Rpml5SlLuzKHNUP5X8-v1.png
 :name: ac27e8f6
@@ -381,7 +376,7 @@ We’ve renamed the Curvenote PDF templates, ahead of adding more.
 
 Other fixes:
 
-* The default citation style used in templates that did not define a specific style, would lead to confusing citations being added in `citep` blocks. This has now been updated to use `;` as a citation separator.
+- The default citation style used in templates that did not define a specific style, would lead to confusing citations being added in `citep` blocks. This has now been updated to use `;` as a citation separator.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/mWluFPvrMR4uWneiZTif.2"}
 
@@ -393,9 +388,9 @@ Small changes to the API to support upcoming navigation changes. The navigation 
 
 ## Jul 15, 2021
 
-* 🔒 You can now sign out on the welcome page, if you have only partially signed in, that is you haven’t yet accepted terms or chosen a username. This meant if people started signing up, they could no longer see any other Curvenote articles until they were done the process.
-* ⬇️ URLs are now case insensitive in most cases for `username`, `team` or `project` name. This is now also true for server responses as well.
-* 🔕 Notifications in the “snackbar” (bottom left) are now dismissible.
+- 🔒 You can now sign out on the welcome page, if you have only partially signed in, that is you haven’t yet accepted terms or chosen a username. This meant if people started signing up, they could no longer see any other Curvenote articles until they were done the process.
+- ⬇️ URLs are now case insensitive in most cases for `username`, `team` or `project` name. This is now also true for server responses as well.
+- 🔕 Notifications in the “snackbar” (bottom left) are now dismissible.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-71xiaO1sVyiQrDwL4rZE-v2.gif
 :name: a901707b
@@ -405,9 +400,9 @@ You can now dismiss the “snackbar” notifications.
 
 ### 🐛 Bug Fixes
 
-* There was a bug in the user signup flow that resulted in a hanging page for verifying email. This is now fixed.
-* There was a bug in paginated API calls for access lists, this has been fixed.
-* When modals are open, global keypresses no longer are recorded. This was possible when a modal like importing a block or block settings was open, and the up and down arrow keys ↕️ would select a different block.
+- There was a bug in the user signup flow that resulted in a hanging page for verifying email. This is now fixed.
+- There was a bug in paginated API calls for access lists, this has been fixed.
+- When modals are open, global keypresses no longer are recorded. This was possible when a modal like importing a block or block settings was open, and the up and down arrow keys ↕️ would select a different block.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/EbfSGxTz2i2Y1h8TfanO.1"}
 
@@ -417,8 +412,8 @@ We have moved our email provider from Mailchimp to Sendgrid, this allows us slig
 
 #### 🐛 Bug Fixes
 
-* The unpublished array is now ordered in {numref}`Figure %s <foIIjAX0SmBdbVmILeIQ>` 🎉
-* The published property on blocks through the API is now being set correctly.
+- The unpublished array is now ordered in {numref}`Figure %s <foIIjAX0SmBdbVmILeIQ>` 🎉
+- The published property on blocks through the API is now being set correctly.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/SgLmq5ZrkHlcLZT6emTK.3"}
 
@@ -456,18 +451,18 @@ Added support for configuring tags for any Block. Now, we can tag a Block by cho
 
 ### 💌 Quality of Life Improvements
 
-* The citations should no longer show non-processed dates as `NaN` and instead are `????` or hidden
-* If an abstract is provided in the citation, it is now shown in some cases 🚀
-* The reference panel takes more of the screen, making it easier to search long citation lists ↕️ ↔️
-* Citations will now show a link if the DOI is included, but no URL 🔗
-* The performance of the references page has been improved for larger citations in a list ⚡
+- The citations should no longer show non-processed dates as `NaN` and instead are `????` or hidden
+- If an abstract is provided in the citation, it is now shown in some cases 🚀
+- The reference panel takes more of the screen, making it easier to search long citation lists ↕️ ↔️
+- Citations will now show a link if the DOI is included, but no URL 🔗
+- The performance of the references page has been improved for larger citations in a list ⚡
 
 ### 🐛 Bug Fixes
 
-* Certain citations would not be included in the children graph of a block, meaning they would not be made public when publishing. This has been fixed.
-* There have been improvements to the handling of grouped citations in $\LaTeX$ (i.e. `/citep`). These now render in all exported PDFs
-* Entries in the BibTeX file (`main.bib`) provided as part of $\LaTeX$ exports are now de-duplicated
-* Titles containing characters considered as special characters in $\LaTeX$ no longer cause the export job to fail
+- Certain citations would not be included in the children graph of a block, meaning they would not be made public when publishing. This has been fixed.
+- There have been improvements to the handling of grouped citations in $\LaTeX$ (i.e. `/citep`). These now render in all exported PDFs
+- Entries in the BibTeX file (`main.bib`) provided as part of $\LaTeX$ exports are now de-duplicated
+- Titles containing characters considered as special characters in $\LaTeX$ no longer cause the export job to fail
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/IyILkll4GAvl6iKUhfGh.1"}
 
@@ -516,4 +511,3 @@ Once you have selected a template, your PDF or $\LaTeX$ zip file is available fo
 ```
 
 Now we have the base system in place, watch out for new templates and incremental updates to the templating system to support more user-configurable options. 🚀
-

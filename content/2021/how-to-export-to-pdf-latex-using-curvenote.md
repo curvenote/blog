@@ -1,6 +1,6 @@
 ---
 title: How to export to PDF & LaTeX using Curvenote
-description: ""
+description: ''
 date: 2021-10-12T10:47:22.432Z
 authors:
   - name: Steve Purves
@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: configurable-latex-exports
 oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 ---
@@ -18,7 +19,7 @@ oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/4PqdCTBdJNTFA0FCv4UA.4"}
 
-Writing up research for submission to a particular conference, journal, or preprint service is a major task. Researchers need to prepare their hypothesis, methods, data, results, and conclusions to best represent their research, its outcome, and impacts. On top of this, they need to deal with the formatting and layout requirements of the organization where they are publishing that work. The task of formatting and layout is not a core part of research work yet it can be a major effort and time sink because of factors like strict requirements, uncooperative tools, or additional learning curves — like having to learn $\LaTeX$ while *writing in the context of a specific template*.
+Writing up research for submission to a particular conference, journal, or preprint service is a major task. Researchers need to prepare their hypothesis, methods, data, results, and conclusions to best represent their research, its outcome, and impacts. On top of this, they need to deal with the formatting and layout requirements of the organization where they are publishing that work. The task of formatting and layout is not a core part of research work yet it can be a major effort and time sink because of factors like strict requirements, uncooperative tools, or additional learning curves — like having to learn $\LaTeX$ while _writing in the context of a specific template_.
 
 Formatting and finalizing a publication should be easy and [Curvenote](https://curvenote.com/why) aims to be a writing environment where researchers can move from their day-to-day notes, notebooks, and reports into their manuscripts with a minimum of rework. Curvenote lets you [write a manuscript](https://curvenote.com/for/writing), share it and gather feedback and then export it to multiple different formats. From conference abstract to a preprint through to a journal article, Curvenote aims to let you export your work to the formats you need as your research evolves.
 
@@ -51,11 +52,11 @@ Once templates are tested and accepted in [the repository,](https://github.com/c
 Export from Curvenote - the first step is to select the target LaTeX or PDF and choose the template to use for the layout
 ```
 
-Both PDF and $\LaTeX$ options use the same template, but the latter will create a `.zip` file containing a $\LaTeX$ *“project”* — a folder containing a `main.tex` and `main.bib` file as well as definition files and image assets. This enables you to customize and build locally, should you want to.
+Both PDF and $\LaTeX$ options use the same template, but the latter will create a `.zip` file containing a $\LaTeX$ _“project”_ — a folder containing a `main.tex` and `main.bib` file as well as definition files and image assets. This enables you to customize and build locally, should you want to.
 
 But that is not our goal!
 
-We want to be able to export submission-ready PDF documents directly from Curvenote — to avoid building $\LaTeX$ locally at all. We’ve made this possible through *Template Options* and *Tagged Blocks*. Setup on a per template basis, these allow you to provide additional information and any specific content required via the user interface during export.
+We want to be able to export submission-ready PDF documents directly from Curvenote — to avoid building $\LaTeX$ locally at all. We’ve made this possible through _Template Options_ and _Tagged Blocks_. Setup on a per template basis, these allow you to provide additional information and any specific content required via the user interface during export.
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wBCNCHUwBpSova9ff7DD.4"}
 
@@ -69,22 +70,22 @@ Here’s an example of options for the [AGU 2019 template](https://curvenote.com
 :name: a09c5dd6
 ```
 
-We are able to proceed once we’ve entered the required information. This template has relatively few options — other templates have more and/or conditional options that only appear based on the value of certain fields, a typical case being additional options for different journals based on the *Journal Name* you select.
+We are able to proceed once we’ve entered the required information. This template has relatively few options — other templates have more and/or conditional options that only appear based on the value of certain fields, a typical case being additional options for different journals based on the _Journal Name_ you select.
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5kjFX2TqJA07y3OyxaRc.4"}
 
 ## Tagged Blocks
 
-Beyond template options, that are appropriate for setting metadata, additional author information, or switching on/off certain template features and styles. Templates also often require specific content from the user that is handled differently in the typesetting process — a well-known example would be the *Abstract* for a paper.
+Beyond template options, that are appropriate for setting metadata, additional author information, or switching on/off certain template features and styles. Templates also often require specific content from the user that is handled differently in the typesetting process — a well-known example would be the _Abstract_ for a paper.
 
-````{margin}
+```{margin}
 Since Curvenote also gives you an easy to publish an interactive online version of your paper, that you can share and link back to as well as generating the PDF for submission, it makes total sense to keep content like the abstract within the document.
 
-````
+```
 
 In an abstract, we are dealing with more than a line of text or a link. We usually have a paragraph or two of content that may contain maths and symbols but that is also fundamentally part of the document rather than metadata.
 
-We’ve achieved this through the use of the *tags* that are available on any block in Curvenote — let’s see how this works. After entering the template options, you move onto the following screen.
+We’ve achieved this through the use of the _tags_ that are available on any block in Curvenote — let’s see how this works. After entering the template options, you move onto the following screen.
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-OxV1wcJfFoid2rbjCNxn-v1.png
 :name: a81a74a6
@@ -92,7 +93,7 @@ We’ve achieved this through the use of the *tags* that are available on any bl
 
 This is essentially a summary of the special content requirements of this template along with flags on whether they have been met or not. When integrating templates, we include as much information from the original author guidelines as possible, as show that information here.
 
-In the [AGU 2019 template](https://curvenote.com/templates/agu2019) example, we can set content for an *Abstract*, *Plain Language Summary,* and *Acknowledgments*. Furthermore, an *Abstract* is required and in this case, we’ve not provided one.
+In the [AGU 2019 template](https://curvenote.com/templates/agu2019) example, we can set content for an _Abstract_, _Plain Language Summary,_ and _Acknowledgments_. Furthermore, an _Abstract_ is required and in this case, we’ve not provided one.
 
 To fix this we head back to our manuscript, select the block containing our abstract, and set the tag appropriately.
 
@@ -125,4 +126,3 @@ When it comes to writing your paper, you can easily move one manuscript forward 
 ### Want to change your writing experience?
 
 [Try out Curvenote](https://curvenote.com/signup) and tell us about which conference or journal paper that you are aiming for — we’ll add the template for you. If you are writing your thesis we can also help, we can get you started now and we will commit to adding your university thesis template in time for your submission. [Book a demo with us to find out more.](https://curvenote.com/demo)
-

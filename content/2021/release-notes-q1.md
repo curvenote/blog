@@ -2,22 +2,8 @@
 title: 2021-Q1
 description: Comments, teams, and launch it all 🚀
 date: 2021-01-05T05:33:31.380Z
-authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
 name: 2021-1
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/XWeeV0tpDulyRqFeGVem
 ---
 
@@ -29,9 +15,9 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/XWeeV0tpDulyRqFeGVem
 
 #### Bug fixes! 🥾 🐛
 
-* Removed a bug that prevented page load in editing if there was an unlisted child. This is possible if the saving is interrupted.
-* Improved the asides, these can now be selected more easily if they are the only component in a block. The block selection now covers the entire height of the block. ↕️
-* Removed unnecessary errors in the console regarding images.
+- Removed a bug that prevented page load in editing if there was an unlisted child. This is possible if the saving is interrupted.
+- Improved the asides, these can now be selected more easily if they are the only component in a block. The block selection now covers the entire height of the block. ↕️
+- Removed unnecessary errors in the console regarding images.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/YSLYbO7Ijanx12d6Swsa.2"}
 
@@ -39,11 +25,11 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/XWeeV0tpDulyRqFeGVem
 
 #### Bug fixes! 🥾 🐛
 
-* In our Chrome extension, we have sped up our form rendering the extension popup to try and help with [this mac and external display bug in Chrome](https://bugs.chromium.org/p/chromium/issues/detail?id=971701) (v1.1.6).
-* You can now sign out of your account, from the `Verify Email` page.
-* The popup windows telling you that a draft has been discarded or locked should no longer appear when you save an article or notebook.
-* The pop-out notifications you get when creating new articles no longer cover the lowest items in the Navigation panel. This was a problem when you have a project with a lot of articles and notebooks in it.
-* The default drag zone on the Navigation bar now fills the space, looks better and has usage hints.
+- In our Chrome extension, we have sped up our form rendering the extension popup to try and help with [this mac and external display bug in Chrome](https://bugs.chromium.org/p/chromium/issues/detail?id=971701) (v1.1.6).
+- You can now sign out of your account, from the `Verify Email` page.
+- The popup windows telling you that a draft has been discarded or locked should no longer appear when you save an article or notebook.
+- The pop-out notifications you get when creating new articles no longer cover the lowest items in the Navigation panel. This was a problem when you have a project with a lot of articles and notebooks in it.
+- The default drag zone on the Navigation bar now fills the space, looks better and has usage hints.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/SPnA4ncQPsBYF3P18nBM.1"}
 
@@ -61,8 +47,8 @@ We’ve updated the Chrome Extension to accept login with your email/password to
 
 Additional changes:
 
-* ORCID ID ending in X are now accepted
-* We now redirect after you sign out of your account
+- ORCID ID ending in X are now accepted
+- We now redirect after you sign out of your account
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/w8plDKjvXSpfOY1hUaJI.3"}
 
@@ -72,19 +58,19 @@ This release contains some bug fixes and some important changes to clear up some
 
 Curvenote web:
 
-* You can no longer delete individual blocks from notebooks or articles but you can still delete, notebooks, articles and projects themselves. We are making this change until we are able to put more UX in place to help make it clear where blocks are used and by who before they are deleted.
-* You can now discard a draft on an article or notebook allowing you to get rid of unwanted drafts.
-* Unwanted drafts can come from two places at the moment
-  * 1 - navigating between articles and notebooks when in edit mode
-  * 2 - if you are making changes to a notebook in the web app, while someone saves a new version
-* In 2 - discarding a draft allows you to get out of situations where you are stuck on an older version of the notebook in edit mode in the web app. This is a short term workaround as we will be putting proper diff / merge functionality in place here.
-* When discarding drafts, remember that you aren your collaborators all share the next draft of your document, and potentially it’s not just your changes being discarded. You can find the discard functionality in the gif below, which also shows the experience for your collaborator.
+- You can no longer delete individual blocks from notebooks or articles but you can still delete, notebooks, articles and projects themselves. We are making this change until we are able to put more UX in place to help make it clear where blocks are used and by who before they are deleted.
+- You can now discard a draft on an article or notebook allowing you to get rid of unwanted drafts.
+- Unwanted drafts can come from two places at the moment
+  - 1 - navigating between articles and notebooks when in edit mode
+  - 2 - if you are making changes to a notebook in the web app, while someone saves a new version
+- In 2 - discarding a draft allows you to get out of situations where you are stuck on an older version of the notebook in edit mode in the web app. This is a short term workaround as we will be putting proper diff / merge functionality in place here.
+- When discarding drafts, remember that you aren your collaborators all share the next draft of your document, and potentially it’s not just your changes being discarded. You can find the discard functionality in the gif below, which also shows the experience for your collaborator.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-Ok4eeqF7gYEcW3867aoQ-v1.gif
 :name: 0083f5bd
 ```
 
-* We have updated the (new draft exists) message in the article/notebook header to alert you when a stale draft exists. A stale draft is case 2 above when your current draft is no longer based on the latest version of your notebook.
+- We have updated the (new draft exists) message in the article/notebook header to alert you when a stale draft exists. A stale draft is case 2 above when your current draft is no longer based on the latest version of your notebook.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-3j1XFoPF5aocjAVQLpUA-v1.png
 :name: e07756ca
@@ -92,9 +78,9 @@ Curvenote web:
 
 Changes to the extension (v1.1.4):
 
-* Previously after a cell was removed from a notebook in the app, and a copy of he notebook updated to the latest locally in Jupyter, the notebook appeared as though it was modified even when it was up to date. This has been fixed.
-* the save button in the toolbar is now disabled during the save process, stopping multiple saves being made unintentionally.
-* The ‘Unlink Cells Only’ command now works. The confirmation dialog that this showed previously was hidden.
+- Previously after a cell was removed from a notebook in the app, and a copy of he notebook updated to the latest locally in Jupyter, the notebook appeared as though it was modified even when it was up to date. This has been fixed.
+- the save button in the toolbar is now disabled during the save process, stopping multiple saves being made unintentionally.
+- The ‘Unlink Cells Only’ command now works. The confirmation dialog that this showed previously was hidden.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/A3UhT1ID11mY8FExYKPW.2"}
 
@@ -102,8 +88,8 @@ Changes to the extension (v1.1.4):
 
 Bug fixes in the web app:
 
-* When a collaborator saves a new version of a draft the you are also working on, you will now receive a popup asking you to reload you page. Previously the notification for a locked draft was too subtle, so it was easy to keep on editing and then lose any changes after the save. That should no longer be possible.
-* The \[Publish\] button is now hidden on public projects, clearing up some confusion
+- When a collaborator saves a new version of a draft the you are also working on, you will now receive a popup asking you to reload you page. Previously the notification for a locked draft was too subtle, so it was easy to keep on editing and then lose any changes after the save. That should no longer be possible.
+- The \[Publish\] button is now hidden on public projects, clearing up some confusion
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/OepHVOREZBUy0d835wvb.1"}
 
@@ -147,25 +133,25 @@ In Curvenote, edit your notebook, go to the Block Settings, paste the link in th
 
 We added a few hint to the UI:
 
-* When you are looking at a version of an article you can now see if a new draft exists. This means that either you or one of your collaborators have started making changes to the current article and you may no be looking at the latest content. Pressing EDIT will drop you into this latest draft.
+- When you are looking at a version of an article you can now see if a new draft exists. This means that either you or one of your collaborators have started making changes to the current article and you may no be looking at the latest content. Pressing EDIT will drop you into this latest draft.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-NySCFMxxjm1DhkPaMhFB-v1.png
 :name: 8a73a77b
 ```
 
-* Added a “Stop Editing” button. This allows you to get out of edit mode without saving a new version of your article. Over time we want to make the editing experience more seamless so that you no longer need this, for now though its easy to get back out of edit mode.
+- Added a “Stop Editing” button. This allows you to get out of edit mode without saving a new version of your article. Over time we want to make the editing experience more seamless so that you no longer need this, for now though its easy to get back out of edit mode.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-yJzv4xUgFjcJibv4ZYVG-v1.png
 :name: dd7000c9
 ```
 
-* You can now download a notebook via a button in the header section. This also means that your notebooks are easily downloadable when published or made public.
+- You can now download a notebook via a button in the header section. This also means that your notebooks are easily downloadable when published or made public.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-hq72T64aTkvcay3fb9vZ-v1.png
 :name: aff028af
 ```
 
-* We’ve noticed that sometimes the Document Title fails to load quickly enough, or at all. This is an intermittent issue what happens more if the notebook/article has been renamed (even our titles are real time!). We’ve taken some steps to correct this here, but are still monitoring it. Let us know if you see it!
+- We’ve noticed that sometimes the Document Title fails to load quickly enough, or at all. This is an intermittent issue what happens more if the notebook/article has been renamed (even our titles are real time!). We’ve taken some steps to correct this here, but are still monitoring it. Let us know if you see it!
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/NNYfcAhmsq4mTTXs7VwT.1"}
 
@@ -175,14 +161,14 @@ We added a few hint to the UI:
 
 We are changing the UX in our extension to be more notebook focussed. This is the first iteration in that direction. Some of the changes are:
 
-* Some new toolbar controls so you can both save a new version of your notebook and open to your notebook in Curvenote, without needing the have the Curvenote panel open.
+- Some new toolbar controls so you can both save a new version of your notebook and open to your notebook in Curvenote, without needing the have the Curvenote panel open.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-mx2xjg9oEbRlXAzg9Fnw-v1.png
 :name: 21576e9a
 ```
 
-* The notebook section of the panel is now always one top, making it clear where the main version history for your notebook it and making it easier to save new versions of your notebook as you work.
-* As you move around your notebook and select cells, we no longer open the Selected Cell or Output sections of the panel. This is less distracting. Features like cell diffing are still all there, just either click on version badge or comment icon in you cell to open them (or open them directly)
+- The notebook section of the panel is now always one top, making it clear where the main version history for your notebook it and making it easier to save new versions of your notebook as you work.
+- As you move around your notebook and select cells, we no longer open the Selected Cell or Output sections of the panel. This is less distracting. Features like cell diffing are still all there, just either click on version badge or comment icon in you cell to open them (or open them directly)
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-1zLQE02Oo8KEqgGECD3j-v1.png
 :name: 8eacca62
@@ -286,11 +272,11 @@ and in a menu or two. Click on the option to bring up a dialog and drag one or m
 
 Other changes:
 
-* A better \[new\] article button on the navigation unit
-* When we process your uploaded notebook, we no longer version empty output cells
-* There is a new chrome extension release 1.0.11:
-  * The chrome extension no longer saves empty output cells
-  * We made some improvements to the diffing of output cells, that should stop false change flags from showing. Some more work is needed on this, especially for complex outputs like plotly and bokeh, but some cases have been cleaned up.
+- A better \[new\] article button on the navigation unit
+- When we process your uploaded notebook, we no longer version empty output cells
+- There is a new chrome extension release 1.0.11:
+  - The chrome extension no longer saves empty output cells
+  - We made some improvements to the diffing of output cells, that should stop false change flags from showing. Some more work is needed on this, especially for complex outputs like plotly and bokeh, but some cases have been cleaned up.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/YWj6D4jfHWKxDLyD3xOr.1"}
 
@@ -316,10 +302,10 @@ You can now delete both articles and notebooks, when you do you have the option 
 :name: e386f973
 ```
 
-````{important}
+```{important}
 Deleting blocks can only be completed by **project owners**.
 
-````
+```
 
 ### Print Mode
 
@@ -331,13 +317,13 @@ We have added bold `**` or `__`, italics `*` or `_`, and strikethrough `~` accel
 
 ### 🐛 Bug Fixes
 
-* The `Edit Profile` link on your profile navigation has been updated to point to the right place. 🔗
-* Notebook cell add and remove should now remove the right blocks! You still cannot change an output blocks version.
-* The Jupyter Chrome Extension has been updated with the new branding and API endpoints!
-* Team onboarding language has been improved.
-* A bug fix when saving a draft and not showing the right version right after has been fixed.
-* We have fixed some overflow styling issues that caused horizontal scroll on smaller screens. ↔️
-* Menu item links now take up the whole space, so no missing when you try to click on them. 👆
+- The `Edit Profile` link on your profile navigation has been updated to point to the right place. 🔗
+- Notebook cell add and remove should now remove the right blocks! You still cannot change an output blocks version.
+- The Jupyter Chrome Extension has been updated with the new branding and API endpoints!
+- Team onboarding language has been improved.
+- A bug fix when saving a draft and not showing the right version right after has been fixed.
+- We have fixed some overflow styling issues that caused horizontal scroll on smaller screens. ↔️
+- Menu item links now take up the whole space, so no missing when you try to click on them. 👆
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/56Csv6hFQTMymUc6VACN.2"}
 
@@ -379,13 +365,13 @@ You can now delete projects as well! We added a quick catch to ensure you are de
 
 ### ⚡ Performance
 
-* Performance improvements in loading drafts and in switching between pre-loaded articles, this is now completely synchronous if you have loaded the data before.
-* The drafts endpoint can now load children, both drafts, versions and blocks.
-* The steps for a draft are now cleaned up as you publish, meaning better database performance! 🏃
+- Performance improvements in loading drafts and in switching between pre-loaded articles, this is now completely synchronous if you have loaded the data before.
+- The drafts endpoint can now load children, both drafts, versions and blocks.
+- The steps for a draft are now cleaned up as you publish, meaning better database performance! 🏃
 
 ### 🐛 Bug fixes
 
-* The API endpoints for drafts have been improved to not error on creation or listing of drafts of blocks that cannot be drafted (images, code, and outputs at the moment). All draft links have been removed from the API.
+- The API endpoints for drafts have been improved to not error on creation or listing of drafts of blocks that cannot be drafted (images, code, and outputs at the moment). All draft links have been removed from the API.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/kRiWGVBwnc2YhUGHTrnc.2"}
 
@@ -401,7 +387,7 @@ Now when you create projects within your team, your team members will have acces
 
 ### 💻 API Improvements
 
-* You can request an upload URL from the API for images.
+- You can request an upload URL from the API for images.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/txMLXBXnV0bmJj0DY4U4.2"}
 
@@ -433,15 +419,15 @@ The author and the person who most recently modified the work is now shown. We w
 
 ### Quality of Life Improvements
 
-* You can now paste a link into the editor, and it will change it into a link automatically. 🔗
-* You can now double click to edit a block!
+- You can now paste a link into the editor, and it will change it into a link automatically. 🔗
+- You can now double click to edit a block!
 
 ### 🐛 Bug Fixes
 
-* Mobile improvements on the editor bar and the information panel 📱
-* Add a comment button no longer show in public mode - we will bring this back when there are public comments 💬
-* If an article was named `edit` - it would *always* be in edit mode - that no longer happens 🙂
-* We have improved the styling of the project listing page.
+- Mobile improvements on the editor bar and the information panel 📱
+- Add a comment button no longer show in public mode - we will bring this back when there are public comments 💬
+- If an article was named `edit` - it would _always_ be in edit mode - that no longer happens 🙂
+- We have improved the styling of the project listing page.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/SHx9ScaCBX8F6XCnhvEj.1"}
 
@@ -457,7 +443,7 @@ We have added a status bar at the bottom of the edit page that tells you how man
 
 ### 🐛 Bugs
 
-* The editor should now save all your characters, occasionally the last character that you typed would not trigger a save.
+- The editor should now save all your characters, occasionally the last character that you typed would not trigger a save.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/YWdGzczrGWFOXfICZuSa.1"}
 
@@ -497,13 +483,13 @@ This allows you to collaboratively write online, and then copy it to your latex 
 
 ### 🔗 Added
 
-* You can now create or remove a link with `CMD/Ctrl-K`
+- You can now create or remove a link with `CMD/Ctrl-K`
 
 ### 🐛 Bug Fixes
 
-* The editor menu occasionally didn’t work, this has been fixed.
-* Copy and paste of blocks has been improved to be less sensitive when you are trying to copy something else!
-* Comments are no longer justified.
+- The editor menu occasionally didn’t work, this has been fixed.
+- Copy and paste of blocks has been improved to be less sensitive when you are trying to copy something else!
+- Comments are no longer justified.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/58HpAOE8mIHII4rfMQ1k.1"}
 
@@ -547,5 +533,4 @@ On your profile page, you can now sort and quickly jump to a project that you ow
 
 ### 🐛 Bugs
 
-* Due to a [regular expression negative look behind](https://caniuse.com/js-regexp-lookbehind), we had a pretty hard crash on Safari and iOS. Note to self - more testing on iOS!
-
+- Due to a [regular expression negative look behind](https://caniuse.com/js-regexp-lookbehind), we had a pretty hard crash on Safari and iOS. Note to self - more testing on iOS!

@@ -1,6 +1,6 @@
 ---
 title: Reusing & Remixing Scientific Content
-description: ""
+description: ''
 date: 2022-02-16T05:45:29.226Z
 authors:
   - name: Rowan Cockett
@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: reusing-and-remixing-science
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/06XSsLQEXXpTh9tHMwea
 ---
@@ -40,9 +41,9 @@ Unfortunately, this is exactly where we find ourselves in writing documents and 
 
 > In writing and communicating, we are forced to perpetually start from scratch.
 
-As such, individuals either ignore those problems (not citing images, or copied text) or in more formal settings spend effort rewording paragraphs and redrafting pictures. Both of these outcomes are rather unfortunate: previous ideas are not credited and/or there is wasted effort to remold existing ideas. If you think that is not wasted effort, imagine having to “re-word” an array library/package before you use or publish your idea that builds upon it!! Although it might be a good learning exercise, often what you are working on needs to *build upon* previous work: in scientific communication, we are essentially forced to perpetually start from scratch.
+As such, individuals either ignore those problems (not citing images, or copied text) or in more formal settings spend effort rewording paragraphs and redrafting pictures. Both of these outcomes are rather unfortunate: previous ideas are not credited and/or there is wasted effort to remold existing ideas. If you think that is not wasted effort, imagine having to “re-word” an array library/package before you use or publish your idea that builds upon it!! Although it might be a good learning exercise, often what you are working on needs to _build upon_ previous work: in scientific communication, we are essentially forced to perpetually start from scratch.
 
-There is a secondary consequence as well: these ideas (paragraphs, images, equations, tables, etc.) *cannot be improved*. “Users” of that idea can not subscribe to updates or new versions. There is no ability with these technical and social barriers in place to “iterate in-place” while providing a link to your future work.
+There is a secondary consequence as well: these ideas (paragraphs, images, equations, tables, etc.) _cannot be improved_. “Users” of that idea can not subscribe to updates or new versions. There is no ability with these technical and social barriers in place to “iterate in-place” while providing a link to your future work.
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/FcoMkndfvRjS5odXazqV.3"}
 
@@ -51,4 +52,3 @@ There is a secondary consequence as well: these ideas (paragraphs, images, equat
 This small reuse is pervasive, even when you are using the best modern version control systems and the best real-time collaborative document environments. There is untracked duplication between projects, notebooks, and documents that is not allowing us to link, track, and collaboratively **improve those ideas over time**.
 
 Our goal with Curvenote is to introduce tools that can lower the barrier to linking, tracking, and enable the possibility to collaboratively act on improvements.
-

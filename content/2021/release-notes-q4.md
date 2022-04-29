@@ -2,15 +2,8 @@
 title: 2021-Q4
 description: Rich text comments, notifications and more!
 date: 2021-10-07T18:02:24.421Z
-authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
 name: 2021-4
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/dPPeRbnMco3YbcraaZY8
 ---
 
@@ -28,11 +21,11 @@ Captions on Jupyter Outputs now render correctly in exported PDFs or LaTeX files
 
 We have released a update with a umber of fixes and improvements to align with the Curvenote webapp
 
-* @mentions - mention people in comments and they will be notified in Curvenote and by email. Mentions in existing comments now also show up properly.
-* After commenting, all new comments should immediately show up, previously where was an intermittent bug where comments would not show until a refresh.
-* Math now correctly renders in comments $y=f(x)$!
-* Previously, when scrolling through cells of a Jupyter notebook using arrow keys, it was possible for the Output section of the panel to open and steal focus. This has been fixed.
-* The `title` link in the panel now always points to the latest version of your notebook, while a new `version` link is pinned to the specific version you are working with
+- @mentions - mention people in comments and they will be notified in Curvenote and by email. Mentions in existing comments now also show up properly.
+- After commenting, all new comments should immediately show up, previously where was an intermittent bug where comments would not show until a refresh.
+- Math now correctly renders in comments $y=f(x)$!
+- Previously, when scrolling through cells of a Jupyter notebook using arrow keys, it was possible for the Output section of the panel to open and steal focus. This has been fixed.
+- The `title` link in the panel now always points to the latest version of your notebook, while a new `version` link is pinned to the specific version you are working with
 
   ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-Q81Nx1AVIyeUWuQJVERw-v1.png
   :name: pWdHNbnpSG
@@ -57,9 +50,9 @@ You can now mention collaborators in comments and they will receive a notificati
 
 ### 🐛 Bug Fixes & Quality of Life
 
-* Improvements to the comment placement when content loads as well as when Jupyter outputs are rendered (changing the height) ↕️
-* Clicking on a notification no longer require a reload of the page. ⚡
-* Header sizes have been visually improved to make them stand out a bit more. 🔍
+- Improvements to the comment placement when content loads as well as when Jupyter outputs are rendered (changing the height) ↕️
+- Clicking on a notification no longer require a reload of the page. ⚡
+- Header sizes have been visually improved to make them stand out a bit more. 🔍
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/nGQqoS87v2KscIj5eo48.2"}
 
@@ -99,8 +92,8 @@ You can now add rich-text comment to any block. 🎉 This includes being able to
 
 ### Quality of Life improvements 🚀
 
-* There were a number of small improvements around syncing comments in the editor, around speed and performance. ⚡
-* There was a bug that resolved comments wouldn’t always resolve on other clients, that has been fixed! 🐛
+- There were a number of small improvements around syncing comments in the editor, around speed and performance. ⚡
+- There was a bug that resolved comments wouldn’t always resolve on other clients, that has been fixed! 🐛
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/GVGuZ5dvBYURPXRfLBzW.1"}
 
@@ -114,24 +107,24 @@ We have added improved warnings to inform users when the Curvenote client fails 
 
 Other changes:
 
-* 📃Improved server-side logging around the synchronization api
+- 📃Improved server-side logging around the synchronization api
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/0XnAE1eTaTB3UmKgVWVs.1"}
 
 ## Nov 24, 2021 - Codemark & Comment Speedups
 
-* The comment selection/placement algorithm has been sped up as we get ready for some other improvements around commenting workflows.
-* We have released a new version of `codemark` that works with collaborative input! Before your cursor would jump inside of the code mark.
-* There was a bug around tables where they didn’t resize/work properly. 🐛
+- The comment selection/placement algorithm has been sped up as we get ready for some other improvements around commenting workflows.
+- We have released a new version of `codemark` that works with collaborative input! Before your cursor would jump inside of the code mark.
+- There was a bug around tables where they didn’t resize/work properly. 🐛
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/9epOzeWfkAD4lI4jWGv7.2"}
 
 ## Nov 19, 2021 - Quality of life 🐛
 
-* The export form checkboxes are now initialized to their defaults and work as expected
-* Form options remembered properly ([#8](https://github.com/curvenote/support/issues/8))
-* arXiv templates have the correct character count advisory note
-* Removed color coding for the summary count of optional options and tagged blocks
+- The export form checkboxes are now initialized to their defaults and work as expected
+- Form options remembered properly ([#8](https://github.com/curvenote/support/issues/8))
+- arXiv templates have the correct character count advisory note
+- Removed color coding for the summary count of optional options and tagged blocks
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/YiYfnNEukzrfdxdL5ZxE.1"}
 
@@ -145,10 +138,10 @@ Existing users will now get an in-app notification when they are added as a Coll
 
 ### Quality of Life 🐛
 
-* Improvements to the emails sent when someone is added/invites to a project or team, which now also include links directly to the project or team they were added to.
-* When a user is added to a Team, they will only receive one notification email with a link to the team instead of an email for each team project.
-* In app notifications for exports have been re-enabled.
-* The `Abstract` tag no longer shows up in the Article header, if it is added as a tag on the article block.
+- Improvements to the emails sent when someone is added/invites to a project or team, which now also include links directly to the project or team they were added to.
+- When a user is added to a Team, they will only receive one notification email with a link to the team instead of an email for each team project.
+- In app notifications for exports have been re-enabled.
+- The `Abstract` tag no longer shows up in the Article header, if it is added as a tag on the article block.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/jpHvIJcsmn2eO9bjlWcO.1"}
 
@@ -170,15 +163,15 @@ You can also specify an email directly, or copy and paste from Gmail or Outlook.
 
 ## Nov 11, 2021 - Export 🚚
 
-* Improvements and fixes to the AGU2019 and Plain Latex export templates.
-* MPDI Energies renamed to MDPI and additional options added. All 350+ journals can now be access via the options available during export.
+- Improvements and fixes to the AGU2019 and Plain Latex export templates.
+- MPDI Energies renamed to MDPI and additional options added. All 350+ journals can now be access via the options available during export.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/h2pUDIzmQIr93eeMMOMx.2"}
 
 ## Nov 8, 2021 - Quality of Life 🐛
 
-* Affiliation now has a max length of 160 characters (up from 50) and that is shown in the user interface, rather than error-ing without a very helpful message.
-* We have improved the messaging around saving a draft, previously other collaborators saw this as the draft being “discarded” 👻, that is now changed to showing that it is saved.
+- Affiliation now has a max length of 160 characters (up from 50) and that is shown in the user interface, rather than error-ing without a very helpful message.
+- We have improved the messaging around saving a draft, previously other collaborators saw this as the draft being “discarded” 👻, that is now changed to showing that it is saved.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/u4QKyMgghv7iHET7UTVR.3"}
 
@@ -208,7 +201,7 @@ A recording of adding a caption to a figure!
 
 This works also works for tables and code blocks, for example:
 
-~~~{list-table} This is a simple table of equations!
+```{list-table} This is a simple table of equations!
 :header-rows: 1
 :name: a2MwNogj6l
 
@@ -248,18 +241,18 @@ This works also works for tables and code blocks, for example:
 
   - Euler, 1750
 
-~~~
+```
 
 ```typescript
 interface Point {
   x: number;
   y: number;
 }
- 
+
 function logPoint(p: Point) {
   console.log(\`${p.x}, ${p.y}\`);
 }
- 
+
 // logs "12, 26"
 const point = { x: 12, y: 26 };
 logPoint(point);
@@ -269,12 +262,12 @@ You can reference these {numref}`Figure %s <uYCK0qwGjI>`, {numref}`Table %s <a2M
 
 ### 🚀 Improvements
 
-* You can now reference tables! For example in, {numref}`Table %s <a2MwNogj6l>`! Use the `[[table:` command to bring up a list of all tables in the document.
-* You can now center or align tables!
+- You can now reference tables! For example in, {numref}`Table %s <a2MwNogj6l>`! Use the `[[table:` command to bring up a list of all tables in the document.
+- You can now center or align tables!
 
 ### 🐛 Bug Fixes
 
-* The inline-actions for editor now no longer are shown when you open a modal (e.g. image settings). Previously this would leave a hanging image actions, for example, on top of the modal which was difficult to close.
+- The inline-actions for editor now no longer are shown when you open a modal (e.g. image settings). Previously this would leave a hanging image actions, for example, on top of the modal which was difficult to close.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/LG3PmGbztdwiDCHfQ7Of.1"}
 
@@ -282,15 +275,15 @@ You can reference these {numref}`Figure %s <uYCK0qwGjI>`, {numref}`Table %s <a2M
 
 ### ⚡ Quality of life improvements!
 
-* Better fractions ½ when you type fractions in Curvenote, they are turned into the typographic equivalent that are supported — ½ ⅓ ⅔ ¼ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒! These were a little too ambitious when you started a `321/2` would turn into `32½`, this no longer happens! 🙂
-* The copyright and registered trademark symbols © & ® are also inserted when you type, however, in a list when you talk about (a) something; (b) something else; and finally © … that would also turn into a copyright symbol. It doesn’t anymore!
-* We have also improved the handling of wrapping math in `$` which already didn’t happen if you were talking about $1.00 and $2.00, but if you inserted in a bracket ($1.00) then it would match. That is no longer the case. 🎉
-* Strikethrough is less sensitive! especially when you are writing \~5 and \~7, before that would {strike}`strike` it out before.
-* We have removed the accelerator for dynamic text, which was previously <x>, this confused with writing `html` in many cases.
+- Better fractions ½ when you type fractions in Curvenote, they are turned into the typographic equivalent that are supported — ½ ⅓ ⅔ ¼ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒! These were a little too ambitious when you started a `321/2` would turn into `32½`, this no longer happens! 🙂
+- The copyright and registered trademark symbols © & ® are also inserted when you type, however, in a list when you talk about (a) something; (b) something else; and finally © … that would also turn into a copyright symbol. It doesn’t anymore!
+- We have also improved the handling of wrapping math in `$` which already didn’t happen if you were talking about $1.00 and $2.00, but if you inserted in a bracket ($1.00) then it would match. That is no longer the case. 🎉
+- Strikethrough is less sensitive! especially when you are writing \~5 and \~7, before that would {strike}`strike` it out before.
+- We have removed the accelerator for dynamic text, which was previously <x>, this confused with writing `html` in many cases.
 
 #### 🐛 Bug Fixes
 
-* Keyboard shortcuts for block copy paste and selecting between blocks now work again, was not working since yesterday’s word-deployment. ⏭️
+- Keyboard shortcuts for block copy paste and selecting between blocks now work again, was not working since yesterday’s word-deployment. ⏭️
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/EzXZVl0qLO9bbvq7i78r.1"}
 
@@ -308,7 +301,7 @@ Our aim when exporting is to bring over your all of content to docx with all the
 
 #### ⚡ Quality of life improvements
 
-* We have fixed heading numbering issues. Previously subheadings would not inherit their parent numbering so section `1.1.0` would show up as `0.1.0`
+- We have fixed heading numbering issues. Previously subheadings would not inherit their parent numbering so section `1.1.0` would show up as `0.1.0`
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/c3rGWKLnksiBc2KyidWO.2"}
 
@@ -324,13 +317,13 @@ You can now find the image upload in both the command menu (`/image`) and in the
 
 ### ⚡ Quality of life improvements
 
-* Code editor now can toggle on/off code numbers 🔢
-* Code editor supports shell syntax highlighting 🎨
-* You can now upload multiple images at the same time, both through drag-and-drop and through the new image upload placeholder 🚀
+- Code editor now can toggle on/off code numbers 🔢
+- Code editor supports shell syntax highlighting 🎨
+- You can now upload multiple images at the same time, both through drag-and-drop and through the new image upload placeholder 🚀
 
 #### 🧙 Chrome Extension Fixes 🐛 v0.3.2
 
-* Updated the Curvenote logos in the deployed version!
+- Updated the Curvenote logos in the deployed version!
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/SQ1gozrs7z5YEcYfDjNd.1"}
 
@@ -340,9 +333,9 @@ You can now find the image upload in both the command menu (`/image`) and in the
 
 We’ve fixed a number of issues with the Chrome extension
 
-* **Fixed** - In Jupyterlab 3.1+, the Panel and toolbar controls for the extension were not initializing or only appearing intermittently.
-* Busy spinners we’re no longer visible on individual cells when they were saving, these have been reintroduced.
-* Updated some internal calls that were resulting in console error messages
+- **Fixed** - In Jupyterlab 3.1+, the Panel and toolbar controls for the extension were not initializing or only appearing intermittently.
+- Busy spinners we’re no longer visible on individual cells when they were saving, these have been reintroduced.
+- Updated some internal calls that were resulting in console error messages
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/DKCLETkTCcsAKPkr5jkc.1"}
 
@@ -350,8 +343,8 @@ We’ve fixed a number of issues with the Chrome extension
 
 We have added the ability to add footnotes to your documents!
 
-* Using the `/footnote` command, or insert from the top menu
-* These will also show up in your $\LaTeX$ and PDF exports as well!
+- Using the `/footnote` command, or insert from the top menu
+- These will also show up in your $\LaTeX$ and PDF exports as well!
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-xsoD5YrV1tnmdAVptsdR-v2.gif
 :name: acfe1691
@@ -361,8 +354,8 @@ You can now add footnotes in the editor directly!
 
 ### Quality of Life Improvements
 
-* Bug fixed 🐛 with citation view in Firefox 🦊. There was a problem with the date-parsing of citations, leading to showing `????` instead of the actual year 📅.
-* Occasionally some references would not load for projects that are partially public (advanced publishing mode), this should now be fixed.
+- Bug fixed 🐛 with citation view in Firefox 🦊. There was a problem with the date-parsing of citations, leading to showing `????` instead of the actual year 📅.
+- Occasionally some references would not load for projects that are partially public (advanced publishing mode), this should now be fixed.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/jD8lCS7Ry92KCfJnKS4S.2"}
 
@@ -370,7 +363,7 @@ You can now add footnotes in the editor directly!
 
 #### 📗Updates to $\LaTeX$ templates
 
-We’ve made updates to three templates *(default, Arxiv\[nips\] and Arxiv\[two-column\])* to add various options including - corresponding author, backlink, show date, affiliation, location, keywords.
+We’ve made updates to three templates _(default, Arxiv\[nips\] and Arxiv\[two-column\])_ to add various options including - corresponding author, backlink, show date, affiliation, location, keywords.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/fGBaWcW1zI6g0tZZ0bAR.3"}
 
@@ -378,7 +371,7 @@ We’ve made updates to three templates *(default, Arxiv\[nips\] and Arxiv\[two-
 
 #### 📋 New Export Template Options
 
-Our export process for $\LaTeX$ & PDFs has been extended to include screens for *Options* and *Tagged Content*. This allows you export your paper or report to a template while taking advantage of all their features and meeting their minimum requirements.
+Our export process for $\LaTeX$ & PDFs has been extended to include screens for _Options_ and _Tagged Content_. This allows you export your paper or report to a template while taking advantage of all their features and meeting their minimum requirements.
 
 There are two additional screens, the first is a form that will list all of the configurable options for the template you chose.
 
@@ -388,7 +381,7 @@ There are two additional screens, the first is a form that will list all of the 
 
 The second is a listing of Tagged Content accepted by the selected template. Tagged Content is our way of marking blocks from in your article as the “special content” that the template expects and treats differently.
 
-For example, a block tagged as *abstract* will be separated from the main content and used in the appropriate abstract section in the Journal template.
+For example, a block tagged as _abstract_ will be separated from the main content and used in the appropriate abstract section in the Journal template.
 
 Each template has different required and optional blocks of content, so this is a uniform way to include those in your paper and then let the chosen template typeset accordingly.
 
@@ -406,8 +399,8 @@ Remember that all of our templates are [open source here](https://github.com/cur
 
 You can now have a syntax-highlighted experience when you are creating code snippets in Curvenote. To create a code block:
 
-* Type ```` ``` ```` to create a syntax highlighted editor
-* Or use the command menu and type `/code`
+- Type ` ``` ` to create a syntax highlighted editor
+- Or use the command menu and type `/code`
 
 To exit the code environment, either hit `Esc` or use `Cmd/Ctrl-Enter` depending on your platform. When you are in the code editor, it will allow you to choose the language. By default we have chosen Python.
 
@@ -430,11 +423,11 @@ interface Point {
   x: number;
   y: number;
 }
- 
+
 function logPoint(p: Point) {
   console.log(\`${p.x}, ${p.y}\`);
 }
- 
+
 // logs "12, 26"
 const point = { x: 12, y: 26 };
 logPoint(point);
@@ -442,9 +435,8 @@ logPoint(point);
 
 ### ✨ Updates
 
-* The thesis template has been updated with content, and the paper template has been improved to include the latest tables.
+- The thesis template has been updated with content, and the paper template has been improved to include the latest tables.
 
 ### 🐛 Bug fixes
 
-* The issues with [backticks having zero-width](https://twitter.com/rowancockett/status/1445873519682674690) has been fixed.
-
+- The issues with [backticks having zero-width](https://twitter.com/rowancockett/status/1445873519682674690) has been fixed.

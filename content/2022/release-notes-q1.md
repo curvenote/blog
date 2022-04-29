@@ -2,22 +2,8 @@
 title: 2022-Q1
 description: Document export improvements, API tokens, author improvements!
 date: 2022-01-07T23:06:55.967Z
-authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
 name: 2022-1
+subject: Release Notes
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/LSP3vg3i6ez1uALQaTW4
 ---
 
@@ -27,8 +13,8 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/LSP3vg3i6ez1uALQaTW4
 
 ### Mar 30, 2022 - Quality of Life 🦋
 
-* Projects with a large number of references (100s) can still take a few seconds to load the full set of the latest versions for the first time. We have updated the loading indicator to let you know about that initial load.
-* The Download menu item was confusing as it was only available for notebooks. This has been removed and notebooks and articles are downloaded / exported using the button in the page header.
+- Projects with a large number of references (100s) can still take a few seconds to load the full set of the latest versions for the first time. We have updated the loading indicator to let you know about that initial load.
+- The Download menu item was confusing as it was only available for notebooks. This has been removed and notebooks and articles are downloaded / exported using the button in the page header.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-m7uwDOeNU5m7pyEvDh8o-v1.png
 :name: KLbKXW8hy2
@@ -42,16 +28,16 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/LSP3vg3i6ez1uALQaTW4
 
 We’ve made a number of improvements to citation handling:
 
-* The pop up menu for selection citations (accessible from `[[cite:` and `/cite`) has been improved - Citations load more quickly, it is easier to scroll through and select the citation that you need to add.
-* That pop up also has a link that will open the Citation Management window should you need to add a new citation.
-* The Citation Management window is now accessible from the toolbar on the bottom left.
+- The pop up menu for selection citations (accessible from `[[cite:` and `/cite`) has been improved - Citations load more quickly, it is easier to scroll through and select the citation that you need to add.
+- That pop up also has a link that will open the Citation Management window should you need to add a new citation.
+- The Citation Management window is now accessible from the toolbar on the bottom left.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-tV8XJhifvBEc2AoVRTg5-v1.png
 :name: bnq5pYENzu
 ```
 
-* We’ve improved performance of reference loading - this has the biggest impact in projects that have a lot of references loaded. In some cases with projects containing 100s of references the list would take a long time to load, this has been reduced to around 10s seconds in the Reference Manager and should be unnoticeable when using the `[[cite:` for a project with 700+ references. This will improve further in future.
-* It is possible to copy and paste text between blocks in Curvenote. If the copied content contains citations, these will be pasted as linked citations. When this is done across projects, it is possible that the citation may be inaccessible to some viewers, who don’t have permission for the originating project and can affect export. A warning now appears for these citations, prompting authors to add references via bibtex to the project.
+- We’ve improved performance of reference loading - this has the biggest impact in projects that have a lot of references loaded. In some cases with projects containing 100s of references the list would take a long time to load, this has been reduced to around 10s seconds in the Reference Manager and should be unnoticeable when using the `[[cite:` for a project with 700+ references. This will improve further in future.
+- It is possible to copy and paste text between blocks in Curvenote. If the copied content contains citations, these will be pasted as linked citations. When this is done across projects, it is possible that the citation may be inaccessible to some viewers, who don’t have permission for the originating project and can affect export. A warning now appears for these citations, prompting authors to add references via bibtex to the project.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-UyYAY4Lerh4YFd4TthQK-v1.png
 :name: GJJhEJ4fbL
@@ -59,8 +45,8 @@ We’ve made a number of improvements to citation handling:
 
 ### Other Changes
 
-* When a project is loading, it is possible to see a page with “Project is Empty”. We’ve updated the message there to avoid confusion.
-* We’ve increased the size of the icons on each block for adding new comment and the block status / version number - now they’re much more visible and easier to click. 🙌 
+- When a project is loading, it is possible to see a page with “Project is Empty”. We’ve updated the message there to avoid confusion.
+- We’ve increased the size of the icons on each block for adding new comment and the block status / version number - now they’re much more visible and easier to click. 🙌
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-rKXyThMt1RhiZX9lhSJ6-v1.gif
 :name: jO73PF0Dms
@@ -74,7 +60,7 @@ Project editors, not just owners, can now edit design features of a project (nam
 
 ### Bug Fixes 🐛
 
-* There was a problem with saving the affiliations if you were a project editor that has been resolved.
+- There was a problem with saving the affiliations if you were a project editor that has been resolved.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/jEVEbUcsRKvgatYoSB9Q.2"}
 
@@ -94,8 +80,8 @@ As a part of this change, we have redesigned the drag handle and moved the optio
 
 ### 🐛 Bug fixes and Improvements
 
-* Using `Cmd-up` or `Cmd-down` to jump to the top/bottom of the page now works! 🖱️
-* Selecting an affiliation with `Enter` (rather than the through a click) will now create the affiliation. ⌨️
+- Using `Cmd-up` or `Cmd-down` to jump to the top/bottom of the page now works! 🖱️
+- Selecting an affiliation with `Enter` (rather than the through a click) will now create the affiliation. ⌨️
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/AUwn19yJ2G3SdrB67IiP.1"}
 
@@ -115,11 +101,11 @@ The affiliations are saved in your project, so those can be edited or updated in
 
 ### Author Lookup
 
-* Now when adding authors to your paper or article, you are able to look them up from the database of current Curvenote users by their name, or username. If the Author is does not have a Curvenote account, you can continue to add them as before by just typing their name.
+- Now when adding authors to your paper or article, you are able to look them up from the database of current Curvenote users by their name, or username. If the Author is does not have a Curvenote account, you can continue to add them as before by just typing their name.
 
 ### Bug Fixes 🐛
 
-* Drag and drop has been restored to the Curvenote editor. Now you can drag citation in and out of groups, and drag images around in any active editor block.
+- Drag and drop has been restored to the Curvenote editor. Now you can drag citation in and out of groups, and drag images around in any active editor block.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/VYfkWwn9H9jgXFGbF0m4.2"}
 
@@ -151,18 +137,18 @@ When you click on a reference (to a figure, equation, table, etc.) you will now 
 
 ### 🐛 Bug fixes
 
-* Removed autocomplete form filling in on forms where it doesn’t apply
-* The 404 page no longer shows a spinner (bug was introduced with last changes!)
+- Removed autocomplete form filling in on forms where it doesn’t apply
+- The 404 page no longer shows a spinner (bug was introduced with last changes!)
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/3fkUoqIzJ17SKI2cb4ft.2"}
 
 ## Feb 7, 2022 Bug Fixes 🐛
 
-* Articles containing SVG images will now export to latex/pdf properly. SVGs are automatically converted to PDFs and included in tex/pdf.
-* References in `.bib` files will now be de-duplicated based on the `label` field
-* In the `public/default` template
-  * The author/affiliation section of the title page will now wrap appropriately (previously this overflowed to the right and ran beyond the page)
-  * A **References** section will no longer be added when the article does not contain citations.
+- Articles containing SVG images will now export to latex/pdf properly. SVGs are automatically converted to PDFs and included in tex/pdf.
+- References in `.bib` files will now be de-duplicated based on the `label` field
+- In the `public/default` template
+  - The author/affiliation section of the title page will now wrap appropriately (previously this overflowed to the right and ran beyond the page)
+  - A **References** section will no longer be added when the article does not contain citations.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/hQSqETaWeizBM4MPmYwF.1"}
 
@@ -186,10 +172,10 @@ We have also updated the nav items to look even better as well as added a shortc
 
 There are many new improvements for the LaTeX export around making the export more robust and helpful!
 
-* 🇬🇷 All greek letters are now transformed into their equivalent LaTeX
-* 🔺 Text that includes signs like `<` `>` are transformed into `\textless` etc.
-* 🧂 Equations in tables now no-longer cause a build failure
-* ❓ Unknown citations, or those that are missing a key no longer cause the build to fail 🐛
+- 🇬🇷 All greek letters are now transformed into their equivalent LaTeX
+- 🔺 Text that includes signs like `<` `>` are transformed into `\textless` etc.
+- 🧂 Equations in tables now no-longer cause a build failure
+- ❓ Unknown citations, or those that are missing a key no longer cause the build to fail 🐛
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/5Ut4eFhqQbBA8JQKa5y3.1"}
 
@@ -228,26 +214,25 @@ We have also added share button in a few more places! 💥
 
 ## Jan 14, 2022
 
-* All cited references in an article are now shown in a References section at the bottom of the page.
-  * See the bottom of this page 👇 😄
-* You can set the default citation style for your project the Project Settings. This citation style will be applied in the Curvenote app and in your exported files, except in LaTeX/PDF where the chosen template specifies its own citation and bibliography stying.
+- All cited references in an article are now shown in a References section at the bottom of the page.
+  - See the bottom of this page 👇 😄
+- You can set the default citation style for your project the Project Settings. This citation style will be applied in the Curvenote app and in your exported files, except in LaTeX/PDF where the chosen template specifies its own citation and bibliography stying.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-d2WK4ReuMh5UKKElCY9h-v1.png
 :name: j8qyXlE894
 ```
 
-* Various improvements to the DOCX export including Table, Figure and Equation cross-referencing.
+- Various improvements to the DOCX export including Table, Figure and Equation cross-referencing.
 
 ### Quality of Life 🐛
 
-* Code mirror cell contents no longer overlap the right hand side Info / Version Sidebar in the app.
-* Clicking the version badge on a cell now always opens the Info / Version panel even when the block is selected.
+- Code mirror cell contents no longer overlap the right hand side Info / Version Sidebar in the app.
+- Clicking the version badge on a cell now always opens the Info / Version panel even when the block is selected.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/h29148e2GX8IEpFCxKZZ.2"}
 
 ## Jan 7, 2022 - Welcome to 2022! 🎉
 
-* References now show years in parenthesis if they are in-text, for example, {cite:t}`Cockett2015SimPEG`.
-* In text citations have better defaults, and are now coming consistently through on the API. We have extended the API for references to allow for various citation formats.
-* Notification URLs are fixed for in-app notifications (they previously went to the wrong base URL).
-
+- References now show years in parenthesis if they are in-text, for example, {cite:t}`Cockett2015SimPEG`.
+- In text citations have better defaults, and are now coming consistently through on the API. We have extended the API for references to allow for various citation formats.
+- Notification URLs are fixed for in-app notifications (they previously went to the wrong base URL).

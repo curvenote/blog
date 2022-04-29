@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: force11-2021
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/B4wmnvPyzVyBNQ8vHZpG
 ---

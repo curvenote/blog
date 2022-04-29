@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: transition-to-open-science-dr-sun
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/CiiIBJwoseITCYomIzlw
 ---

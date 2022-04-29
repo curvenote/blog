@@ -1,6 +1,6 @@
 ---
 title: Writing a paper with Curvenote and Jupyter Notebooks
-description: ""
+description: ''
 date: 2021-10-27T19:59:00.000Z
 authors:
   - name: Rowan Cockett
@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: webinar-writing-in-jupyter
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/Xw2zhkdzJSTDHC8EVQ4X
 ---
@@ -28,19 +29,19 @@ During the webinar, we’ll put together a short paper from scratch!
 
 **Find out how to:**
 
-* Quickly and easily write technical content including abstract, equations, citations and tables
-* Add figures from static images with captions
-* Upload a Jupyter notebook
-* Add figures using plots linked directly from your Jupyter notebook
-* Easily add cross references and numbering
-* Export to arXiv compatible PDF
+- Quickly and easily write technical content including abstract, equations, citations and tables
+- Add figures from static images with captions
+- Upload a Jupyter notebook
+- Add figures using plots linked directly from your Jupyter notebook
+- Easily add cross references and numbering
+- Export to arXiv compatible PDF
 
 ### Webinar details
 
-* Title: Writing a paper with Curvenote and Jupyter notebooks
-* Date: November 10th - 4pm UTC/London, 9am Calgary
-* Duration: 40 mins including Q&A
-* Where: Online (zoom)
+- Title: Writing a paper with Curvenote and Jupyter notebooks
+- Date: November 10th - 4pm UTC/London, 9am Calgary
+- Duration: 40 mins including Q&A
+- Where: Online (zoom)
 
 [Sign Up for the event for Free](https://www.eventbrite.ca/e/writing-a-paper-with-curvenote-and-jupyter-notebooks-tickets-199787809717)
 
@@ -51,4 +52,3 @@ During the webinar, we’ll put together a short paper from scratch!
 :align: center
 :width: 100%
 ```
-

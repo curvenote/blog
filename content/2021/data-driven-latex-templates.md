@@ -1,6 +1,6 @@
 ---
-title: "Data driven LaTeX templates "
-description: ""
+title: 'Data driven LaTeX templates '
+description: ''
 date: 2021-10-21T17:57:55.620Z
 authors:
   - name: Steve Purves
@@ -9,16 +9,17 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: building-data-driven-latex-templates-for-curvenote
 oxa: oxa:DOHMeg040aVXqR51yjBy/ea0jxy5eSPndzWVUXhi2
 ---
 
-# Data driven LaTeX templates 
+# Data driven LaTeX templates
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6Ikye3xJxigOKHSr5fcJ.5"}
 
-As a scientific author today you pick your template *before* you start writing: what journal, what thesis template, what conference. If your work gets rejected, needs to be submitted somewhere else, or you want to share in another medium like a blog or presentation: these initial choices hold you back and it takes time and effort to migrate your work. At Curvenote we are flipping this idea: *pick your template last*!
+As a scientific author today you pick your template _before_ you start writing: what journal, what thesis template, what conference. If your work gets rejected, needs to be submitted somewhere else, or you want to share in another medium like a blog or presentation: these initial choices hold you back and it takes time and effort to migrate your work. At Curvenote we are flipping this idea: _pick your template last_!
 
 We believe in sharing science in different mediums and formats to improve accessibility — in blogs, papers, thesis, presentations, and interactive websites. To do this, you need exacting control over a templating engine that is data-driven and structured, and you need a writing tool that helps you structure your content such that it can be reused in multiple ways. At Curvenote, this is core to what we do.
 
@@ -34,9 +35,9 @@ LaTeX is a huge ecosystem, with many contributing packages, and multiple ways to
 
 Generally, templates are provided in a few different ways:
 
-* Skeleton `.tex` files with layout and placeholder content interleaved where you’re expected to strip out the placeholder content and insert your own as you go.
-* Style `.sty` files that can be loaded as packages to alter and introduce environments and commands within one of the standard LaTeX document classes.
-* Class `.cls` files that define a whole document class to work within
+- Skeleton `.tex` files with layout and placeholder content interleaved where you’re expected to strip out the placeholder content and insert your own as you go.
+- Style `.sty` files that can be loaded as packages to alter and introduce environments and commands within one of the standard LaTeX document classes.
+- Class `.cls` files that define a whole document class to work within
 
 Beyond that, the template, in whichever of these base forms, can use any selection of packages they choose, can rewrite LaTeX commands and environments, and take completely different approaches to providing particular features, like; corresponding author information, citation and bibliography styles, and source code rendering.
 
@@ -72,16 +73,16 @@ Well, we did consider this — but decided that our end goal was different to th
 
 We need to be able to interface with people’s templates and while that might be perfectly possible with Pandoc, some of the things we value as part of that are:
 
-* An easy to read syntax that stands out against LaTeX
-* Compact templates where template creators do not have to explicitly include boilerplate code to support complex environments and schemas
-* The ability to manipulate content flow and render specific content differently on a per template basis
-* Flexibility to easily add opinionated behaviours to the engine to specifically support Curvenote’s needs
-* Python level transformations so we don’t have to rely solely on LaTeX commands/environments in our implementation
+- An easy to read syntax that stands out against LaTeX
+- Compact templates where template creators do not have to explicitly include boilerplate code to support complex environments and schemas
+- The ability to manipulate content flow and render specific content differently on a per template basis
+- Flexibility to easily add opinionated behaviours to the engine to specifically support Curvenote’s needs
+- Python level transformations so we don’t have to rely solely on LaTeX commands/environments in our implementation
 
-````{important}
+```{important}
 Note: We *are* planning on integrating Pandoc for some of the other conversions we want to provide. Specifically, we plant to support export to [Pandoc’s extended flavour of Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) which will provide an excellent way for people to both archive their Curvenote projects and articles and to hook Curvenote into their own Pandoc driven content and publishing pipelines.
 
-````
+```
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/tqWTSHSwhuRSyBDC0f6b.7"}
 
@@ -89,9 +90,9 @@ Note: We *are* planning on integrating Pandoc for some of the other conversions 
 
 Having stated our aims above, let’s talk about our implementation. There are a few different components to talk about here:
 
-* [jtex](https://pypi.org/project/jtex/) - a lightweight templating engine that provides a simple command line interface (CLI)
-* [Curvenote’s Open Template Repository](https://github.com/curvenote/templates) - a collection of templates ported to use in Curvenote or through these open-source command line tools
-* [curvenotepy](https://github.com/curvenote/curvenotepy) - a python client library and CLI that can pull content from the Curvenote API
+- [jtex](https://pypi.org/project/jtex/) - a lightweight templating engine that provides a simple command line interface (CLI)
+- [Curvenote’s Open Template Repository](https://github.com/curvenote/templates) - a collection of templates ported to use in Curvenote or through these open-source command line tools
+- [curvenotepy](https://github.com/curvenote/curvenotepy) - a python client library and CLI that can pull content from the Curvenote API
 
 We’re going to focus on the first two in this post.
 
@@ -99,11 +100,11 @@ We’re going to focus on the first two in this post.
 
 In our templating CLI `jtex`, we’ve implemented a modified Jinja environment to provide a clear syntax that stands out well against LaTeX content and markup. The basic markup structure comprises Statements, Expressions and Comments as follows:
 
-~~~{list-table} Curvenote’s LaTeX template syntax alongside the standard Jinja markup
+```{list-table} Curvenote’s LaTeX template syntax alongside the standard Jinja markup
 :header-rows: 1
 :name: HV4PFeJZJY
 
-* - 
+* -
 
   - Customized
 
@@ -127,7 +128,7 @@ In our templating CLI `jtex`, we’ve implemented a modified Jinja environment t
 
   - `{# bar #}`
 
-~~~
+```
 
 This syntax works nicely resulting in templates that look like this:
 
@@ -137,11 +138,11 @@ This syntax works nicely resulting in templates that look like this:
 
 If you are not familiar with how Jinja templates are constructed their [template designer documentation](https://jinja.palletsprojects.com/en/3.0.x/templates/) is excellent and worth a read. Between the [Jinja docs](https://jinja.palletsprojects.com/en/3.0.x/templates/) and our [README](https://github.com/curvenote/jtex#readme) there is plenty of detailed information on how to construct templates. So we’ll only touch on some of the main points here.
 
-* **Nested data structure** - You’ll notice in expressions (e.g. line 13 in the figure above), we are able to expand variables like so, `[-doc.title-]`. When we pass data to `jtex` in the form of a `dict`, we can have multiple levels of nesting and access data fields using dot or square brackets operators, e.g. `[-doc['title']-]`.
-* **Insert control flow statements** - `[# if options.a #] Some LaTeX [# endif #]` While this is clear, we also have access to the complete Python-like Jinja environment between the `[#`, `#]` so you can do things like set persistent variables that remain available elsewhere is the template.
-* [**Jinja filters**](https://jinja.palletsprojects.com/en/3.0.x/templates/#filters) - These filters allow typical functional programming style manipulation of data, e.g. line 15, where we expand the list of authors
-* **Python builtins** - The module has also been added to the environment, which provides access to other [common functions](https://docs.python.org/3/library/functions.html#built-in-funcs) like `zip`.
-* **Specialized variables** - `[-CONTENT-]` is a special variable like Pandoc’s `body` tag that allows insertion of the main body of content into a template.
+- **Nested data structure** - You’ll notice in expressions (e.g. line 13 in the figure above), we are able to expand variables like so, `[-doc.title-]`. When we pass data to `jtex` in the form of a `dict`, we can have multiple levels of nesting and access data fields using dot or square brackets operators, e.g. `[-doc['title']-]`.
+- **Insert control flow statements** - `[# if options.a #] Some LaTeX [# endif #]` While this is clear, we also have access to the complete Python-like Jinja environment between the `[#`, `#]` so you can do things like set persistent variables that remain available elsewhere is the template.
+- [**Jinja filters**](https://jinja.palletsprojects.com/en/3.0.x/templates/#filters) - These filters allow typical functional programming style manipulation of data, e.g. line 15, where we expand the list of authors
+- **Python builtins** - The module has also been added to the environment, which provides access to other [common functions](https://docs.python.org/3/library/functions.html#built-in-funcs) like `zip`.
+- **Specialized variables** - `[-CONTENT-]` is a special variable like Pandoc’s `body` tag that allows insertion of the main body of content into a template.
 
 We’ve also made some other LaTeX friendly modifications to the Jinja environment that you can read about [here](https://github.com/curvenote/curvenote-template#other-environment-differences).
 
@@ -234,9 +235,9 @@ The command line itself is very similar to the `build-lite` command except that 
 
 The `CONTENT_PATH` argument should point to a directory containing the following files:
 
-* `data.yml` - a yaml file containing the data in line with the expected document model
-* `main.tex` - containing the main content to be rendered at `[-CONTENT-]`
-* `main.bib` - a bibliography file if needed
+- `data.yml` - a yaml file containing the data in line with the expected document model
+- `main.tex` - containing the main content to be rendered at `[-CONTENT-]`
+- `main.bib` - a bibliography file if needed
 
 These files will be used to render a LaTeX document at the `OUTPUT_PATH` with either the built-in default template or any other template specified using the `--template-path` or `--template-name` options. `--template-path` uses a local template, while `--template-name` will fetch from the Curvenote API (e.g. here is [AGU2019 template](https://api.curvenote.com/templates/agu2019)).
 
@@ -248,9 +249,9 @@ Find out more about the `build` command [in the readme](https://github.com/curve
 
 Our aim here is to be able to take any existing LaTeX template, make it data driven and available as an export option directly within Curvenote. In addition to the template markup that we have already talked about, templates have a simple but expected structure and a configuration file.
 
-Let’s use the simplest template we have, [plain\_latex](https://github.com/curvenote/templates/tree/main/latex/plain\_latex), as a minimal example. This template provides minimally styled LaTeX and PDF output. It’s [template folder](https://github.com/curvenote/templates/tree/main/latex/plain\_latex) looks like:
+Let’s use the simplest template we have, [plain_latex](https://github.com/curvenote/templates/tree/main/latex/plain_latex), as a minimal example. This template provides minimally styled LaTeX and PDF output. It’s [template folder](https://github.com/curvenote/templates/tree/main/latex/plain_latex) looks like:
 
-~~~{list-table}
+```{list-table}
 :header-rows: 1
 :name: o4rEye3Vl3
 
@@ -274,7 +275,7 @@ Let’s use the simplest template we have, [plain\_latex](https://github.com/cur
 
   - Example content used for testing and to generate the [thumbnail.png](thumbnail.png)
 
-~~~
+```
 
 ### `template.tex`
 
@@ -304,19 +305,19 @@ The config section splits into four sub sections: `build`, `schema`, `tagged`, `
 
 Commands in this section influence the output structure of the LaTeX document.
 
-* **layout** - `compact` and `book` options will be supported with a `single` file option in the near future.
-* **vanilla** - When true, this instructs the `curvnotepy` Python client to request content in vanilla TeX from the Curenote API rather than TeX content that uses Curvenote’s custom environments. It will also prevent custom environment definitions from being added to `curvenote.def`.
+- **layout** - `compact` and `book` options will be supported with a `single` file option in the near future.
+- **vanilla** - When true, this instructs the `curvnotepy` Python client to request content in vanilla TeX from the Curenote API rather than TeX content that uses Curvenote’s custom environments. It will also prevent custom environment definitions from being added to `curvenote.def`.
 
 #### config.schema
 
 The schema section is used to configure how Curvenote’s LaTeX output should be represented in the template LaTeX. Individual schema options allow template creators to specify how these elements should be handled on a case by case basis.
 
-Take the Curvenote *callout* as an example.
+Take the Curvenote _callout_ as an example.
 
-````{important}
+```{important}
 In Curvenote, a callout looks like this, with various color options available.
 
-````
+```
 
 However, when we translate this to a template it may have no direct equivalent - so how should we handle it? In this case, provided `vanilla` is `false`, the callout will be represented by the following LaTeX when the API returns that content.
 
@@ -328,7 +329,7 @@ In Curvenote, a callout looks like this, with various color options available.
 
 In the schema section, we can add a `callout` key with one of the following values to tell the renderer how this should be handled:
 
-~~~{list-table}
+```{list-table}
 :header-rows: 1
 :name: LU0WYSJD41
 
@@ -352,7 +353,7 @@ In the schema section, we can add a `callout` key with one of the following valu
 
   - Include a locally available `callout.def` file which then has the responsibility to \[re\]define the callout environment.
 
-~~~
+```
 
 There are a number of options right now, some multi-valued like `callout`, while other are booleans and used to control other LaTeX behaviours. Here’s the current list: aside, callout, code, raggedbottom, sloppy, hidelinks, natbib, bibstyle, citestyle.
 
@@ -408,7 +409,7 @@ Here is an additional example, of how the [AGU2019](https://github.com/curvenote
 
 We saw when using the `jtex build-lite` command above that the renderer receives a `dict` like structure that is access from the templates. When using `jtex build` the structure of that `dict` is no longer free form and instead should contain data corresponding to both built-in fields and the options and their tagged content blocks specified in the configuration. The data structure is required in this form in order for a given template to render properly.
 
-An example of a document model for the `plain_latex` template [is here](https://github.com/curvenote/templates/blob/main/latex/plain\_latex/example/data.yml) and also shown below.
+An example of a document model for the `plain_latex` template [is here](https://github.com/curvenote/templates/blob/main/latex/plain_latex/example/data.yml) and also shown below.
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-0g5dMjLfK7uYktKV2TK8-v1.png
 :name: ooYZmR3NsU
@@ -424,8 +425,7 @@ When developing Curvenote templates we can stub out data structures like this in
 
 Is there a template that you need to use that is not yet available?
 
-* [Open an GitHub issue](https://github.com/curvenote/templates/issues) - leave us a link to the template source and we’ll port the template for you!
-* [Open a Pull Request](https://github.com/curvenote/templates/pulls) - if you have a template that you want to port, we’re happy to review and accept contributions. We can also help you get a PR over the line if you’ve made a start!
+- [Open an GitHub issue](https://github.com/curvenote/templates/issues) - leave us a link to the template source and we’ll port the template for you!
+- [Open a Pull Request](https://github.com/curvenote/templates/pulls) - if you have a template that you want to port, we’re happy to review and accept contributions. We can also help you get a PR over the line if you’ve made a start!
 
 We’re building our LaTeX templating system to access any template you need, while writing in an editor that allows you to focus on your work with the confidence that you can export to any format.
-

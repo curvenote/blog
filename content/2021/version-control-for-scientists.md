@@ -11,14 +11,16 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
     orcid: 0000-0002-7859-8394
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: version-control-for-scientists
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/DoBfrtUoipuqQkB5VvrN
 ---

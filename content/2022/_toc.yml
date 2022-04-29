@@ -9,6 +9,10 @@ parts:
       - file: from-jupyter-notebook-to-scientific-paper
       - file: reusing-and-remixing-science
       - file: code-mark
+  - caption: Presentations
+    chapters:
+      - file: simpeg-seminar
+      - file: transform2022-deploy-a-website
   # - caption: Product Updates
   #   chapters:
   #     - file: reference-speed-improvements

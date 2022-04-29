@@ -9,7 +9,8 @@ authors:
     corresponding: null
     email: null
     roles: null
-    affiliations: null
+    affiliations:
+      - Curvenote
 name: introducing-curvenote
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/IVkX15Hw1xHXdnTpqqyl
 ---
