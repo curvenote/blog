@@ -9,7 +9,7 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/DA6m9Q2tMjWW2SJeAtOL
 
 # 2022-Q2
 
-+++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/fbGDFVVoWOGA4OgDmhaz.1"}
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/fbGDFVVoWOGA4OgDmhaz.2"}
 
 ## May 24, 2022 - Site Deployments & UI Improvements
 
@@ -22,6 +22,10 @@ We have improved the New API Token user interface that is clearer that you have 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-LNynluX0EaZfA2ayiYsv-v1.png
 :name: OGuzthC9bu
 ```
+
+### Bug Fixes 🐛
+
+* Inline math no longer inherits bold, italic or superscript inside of a math node. Previously the export for $\LaTeX$ would be `$\textbf{A}$`, this is now no longer written inside of inline math.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/wDu3F8DzOeinlW4DZuS8.1"}
 
