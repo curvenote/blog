@@ -23,6 +23,8 @@ site:
   actions:
     - title: Sign Up
       url: https://curvenote.com/signup
+  analytics:
+    google: G-8P87DBPQRS
   frontmatter:
     venue: Curvenote
     license: CC-BY-4.0
