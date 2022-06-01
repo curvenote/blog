@@ -9,6 +9,57 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/DA6m9Q2tMjWW2SJeAtOL
 
 # 2022-Q2
 
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/NFM8a1J0kFv0csYrS42m.1"}
+
+## Jun 1, 2022 - All the front matter
+
+Following through on recent DOI and article/notebook header section changes, we have added a number of different front matter fields.
+
+You can now set the following metadata on your Articles, Notebooks and use project-wide settings to apply default metadata across the contents of your project in one go.
+
+The available metadata now aligns with that on [curve.space](https://curve.space) and is documented in detail in our documentation here: <https://docs.curvenote.com/web/frontmatter>
+
+Most metadata is displayed in the new header section on articles and notebooks:
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-mL7uyQJGI31Qz95fxoqN-v1.png
+:name: zXfhorVvmn
+```
+
+And can be set both in the Article / Notebook settings (available from the `…` menu)
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-qs7iKDVitcOAEnwfcZWp-v1.png
+:name: jT0P8muQuV
+```
+
+and from the Project settings, Frontmatter section.
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-iI2u2IZxXzUHfLIqKWki-v1.png
+:name: Ts7swpNyhD
+```
+
+### 🐛 Quality of Life
+
+Other fixes and improvements include:
+
+* Authors and affiliations can now be set or modified without having the edit & save the article. They are accessible from the Article/Notebook Settings dialog on a new tab.
+* Drag and drop functionality on the author’s list has been improved.
+* Move up/down arrows have been added to items in the Author list, to allow reordering without drag and drop.
+* Most popular licenses for `content` and `code` have been moved to the top of the license list.
+
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/uZlb8RFpJ2bqtihdzwfr.2"}
+
+## May 31, 2022 - Site Analytics
+
+We have added the ability to add analytics (google & plausible) to your curve.space site. See more in the docs:
+
+* <https://docs.curvenote.com/web/analytics>
+
+This is completed by adding a config option to your `curvenote.yml` of `site.analytics` for either `google:` or `plausible:`. In the `google:` case, this is your **Tracking ID** for `plausible:` this is your domain property.
+
+### 🐛 Curvenote Client Bug Fixes
+
+* The `curvenote pull` now finishes reliably before a `curvenote start`
+
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/fbGDFVVoWOGA4OgDmhaz.2"}
 
 ## May 24, 2022 - Site Deployments & UI Improvements
