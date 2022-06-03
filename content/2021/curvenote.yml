@@ -1,5 +1,6 @@
 version: 1
 project:
   title: '2021'
-  frontmatter:
-    subject: '2021'
+  subject: '2021'
+  license: CC-BY-4.0
+  open_access: true

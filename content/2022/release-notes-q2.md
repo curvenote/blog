@@ -41,10 +41,10 @@ and from the Project settings, Frontmatter section.
 
 Other fixes and improvements include:
 
-* Authors and affiliations can now be set or modified without having the edit & save the article. They are accessible from the Article/Notebook Settings dialog on a new tab.
-* Drag and drop functionality on the author’s list has been improved.
-* Move up/down arrows have been added to items in the Author list, to allow reordering without drag and drop.
-* Most popular licenses for `content` and `code` have been moved to the top of the license list.
+- Authors and affiliations can now be set or modified without having the edit & save the article. They are accessible from the Article/Notebook Settings dialog on a new tab.
+- Drag and drop functionality on the author’s list has been improved.
+- Move up/down arrows have been added to items in the Author list, to allow reordering without drag and drop.
+- Most popular licenses for `content` and `code` have been moved to the top of the license list.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/uZlb8RFpJ2bqtihdzwfr.2"}
 
@@ -52,13 +52,13 @@ Other fixes and improvements include:
 
 We have added the ability to add analytics (google & plausible) to your curve.space site. See more in the docs:
 
-* <https://docs.curvenote.com/web/analytics>
+- <https://docs.curvenote.com/web/analytics>
 
 This is completed by adding a config option to your `curvenote.yml` of `site.analytics` for either `google:` or `plausible:`. In the `google:` case, this is your **Tracking ID** for `plausible:` this is your domain property.
 
 ### 🐛 Curvenote Client Bug Fixes
 
-* The `curvenote pull` now finishes reliably before a `curvenote start`
+- The `curvenote pull` now finishes reliably before a `curvenote start`
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/fbGDFVVoWOGA4OgDmhaz.2"}
 
@@ -76,7 +76,7 @@ We have improved the New API Token user interface that is clearer that you have 
 
 ### Bug Fixes 🐛
 
-* Inline math no longer inherits bold, italic or superscript inside of a math node. Previously the export for $\LaTeX$ would be `$\textbf{A}$`, this is now no longer written inside of inline math.
+- Inline math no longer inherits bold, italic or superscript inside of a math node. Previously the export for $\LaTeX$ would be `$\textbf{A}$`, this is now no longer written inside of inline math.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/wDu3F8DzOeinlW4DZuS8.1"}
 
@@ -116,20 +116,20 @@ but this can be overridden in the Article or Notebook settings
 
 We’ve made a number of improvements to the reference management dialog, which should make keeping references in sync with other sources and dealing with lots of references easier.
 
-* ⏹️ References can now be deleted and removed from the project, allowing duplicate and un-needed references to be cleaned up - currently only `project.owners` can delete references.
+- ⏹️ References can now be deleted and removed from the project, allowing duplicate and un-needed references to be cleaned up - currently only `project.owners` can delete references.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-BmxP51nYjTEUcDTGZszH-v1.png
 :name: vmv76wnNbm
 ```
 
-* ⚠️ citations that point to missing references are now marked as broken within articles and notebooks. This allows them to be easily identified and replaced.
+- ⚠️ citations that point to missing references are now marked as broken within articles and notebooks. This allows them to be easily identified and replaced.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-og1fDptQHQKbjjGcqbGK-v1.png
 :name: HdFpOdFk9V
 ```
 
-* 🐛 When the reference management window is first opened, it will fetch a complete list of references in the project from the server — however it will now first show any loaded references immediately, whilst fetching new ones in the background.
-* 🐛 When switching between tabs in the reference manager, the full list of references will no longer be loaded each time — instead, updates from the server will be fetched in the background.
+- 🐛 When the reference management window is first opened, it will fetch a complete list of references in the project from the server — however it will now first show any loaded references immediately, whilst fetching new ones in the background.
+- 🐛 When switching between tabs in the reference manager, the full list of references will no longer be loaded each time — instead, updates from the server will be fetched in the background.
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/U6X6lGH853iQ8ke04TKE.3"}
 
@@ -155,9 +155,9 @@ Project-wide settings can be found in the new “Front Matter” section in the 
 
 Other changes 🐛 ✨ :
 
-* We have added Plain Text, JSON and YAML modes to code blocks
-* We have restored the border on inline code blocks
-* The date of the first article in a new project is now set correctly
+- We have added Plain Text, JSON and YAML modes to code blocks
+- We have restored the border on inline code blocks
+- The date of the first article in a new project is now set correctly
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/nDDcbuSp9WwYWsr0CaGv.1"}
 
@@ -165,9 +165,9 @@ Other changes 🐛 ✨ :
 
 Fixes for:
 
-* Some citations could appear with the wrong date (year-1) in GMT+N timezones. [\[issue\]](https://github.com/curvenote/support/issues/52)
-* Leading newlines and empty paragraphs in table cells would cause problems on export [\[issue\]](https://github.com/curvenote/curvenotejs/issues/83)
-* Some HTML tags (hr, br) were not handled properly on export [\[issue\]](https://github.com/curvenote/curvenotejs/issues/73)
+- Some citations could appear with the wrong date (year-1) in GMT+N timezones. [\[issue\]](https://github.com/curvenote/support/issues/52)
+- Leading newlines and empty paragraphs in table cells would cause problems on export [\[issue\]](https://github.com/curvenote/curvenotejs/issues/83)
+- Some HTML tags (hr, br) were not handled properly on export [\[issue\]](https://github.com/curvenote/curvenotejs/issues/73)
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/3C3pYu2SrZ0u0Fi6REw8.1"}
 
@@ -194,7 +194,7 @@ We released an update to our API that fixes upload issues around `HTML` inside o
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/96h9MYw2Ypw8lZ1xyVLK.1"}
 
-## Apr 26, 2022 Curvenote Blog
+## Apr 25, 2022 Curvenote Blog
 
 We have moved our Curvenote blog over to using our own publishing infrastructure, which means that it has moved to a subdomain: <https://blog.curvenote.com>
 
@@ -228,15 +228,15 @@ To create a card, use the `[[` syntax to link to an article or notebook, and the
 
 ### Feature Improvements
 
-* The MyST Markdown export is now compliant with the [MyST Spec](https://spec.myst.tools/). We will have a lot more to say about this soon! 🚀
+- The MyST Markdown export is now compliant with the [MyST Spec](https://spec.myst.tools/). We will have a lot more to say about this soon! 🚀
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/9NYF6MM5kkMlAVxEZGke.2"}
 
 ## Apr 1, 2022 - Notebook Improvements 📒
 
-* Syntax highlighting has been re-enabled
-* Improvements to styling and layout
-* Jupyter text & stream outputs are rendered as plain text
+- Syntax highlighting has been re-enabled
+- Improvements to styling and layout
+- Jupyter text & stream outputs are rendered as plain text
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-7nXDHcHhEJVqOPmR4twr-v1.png
 :name: NiSReAHzSn
