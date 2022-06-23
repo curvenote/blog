@@ -6,6 +6,7 @@ root: from-jupyter-notebook-to-scientific-paper
 parts:
   - caption: Weeknotes
     chapters:
+      - file: weeknotes-06-13
       - file: weeknotes-05-30
   - caption: Articles
     chapters:
