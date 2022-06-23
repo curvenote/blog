@@ -8,20 +8,16 @@ parts:
     chapters:
       - file: weeknotes-06-13
       - file: weeknotes-05-30
+  - caption: Presentations
+    chapters:
+      - file: international-data-week-metadata-reproducibility
+      - file: simpeg-seminar
+      - file: transform2022-deploy-a-website
   - caption: Articles
     chapters:
       - file: from-jupyter-notebook-to-scientific-paper
       - file: reusing-and-remixing-science
       - file: code-mark
-  - caption: Presentations
-    chapters:
-      - file: simpeg-seminar
-      - file: transform2022-deploy-a-website
-  # - caption: Product Updates
-  #   chapters:
-  #     - file: reference-speed-improvements
-  #     - file: block-drag-and-drop
-  #     - file: author-list-improvements
   - caption: Release Notes
     chapters:
       - file: release-notes-q2

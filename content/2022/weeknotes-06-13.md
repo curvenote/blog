@@ -1,14 +1,12 @@
 ---
-title: 2022-06-13
-description: ""
+title: June 13, 2022
+subtitle: Document outline & documentation!
+description: ''
+subject: '2022'
+venue: 'Weeknotes'
 date: 2022-06-23T21:13:18.787Z
-name: 2022-06-13
 oxa: oxa:b0QZnya9ip73aBxOMGxW/OtGfvCYurEvUsC8gfCS6
-license: {}
-subject: Weekly Update
 ---
-
-# 2022-06-13
 
 +++ {"oxa":"oxa:b0QZnya9ip73aBxOMGxW/LX9JuLLFDBSfkumkBlJO.1"}
 
@@ -33,4 +31,3 @@ We are gearing up for a wider release of our command-line tools next week with a
 ```
 
 We missed a week of our `weeknotes` last week for posting our progress and updates, but we are back on track now!
-

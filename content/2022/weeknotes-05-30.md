@@ -1,5 +1,6 @@
 ---
 title: May 30, 2022
+subtitle: Metadata, analytics, docs and more!
 description: ''
 subject: '2022'
 venue: 'Weeknotes'

@@ -1,13 +1,67 @@
 ---
 title: 2022-Q2
 description: Notebook improvements, command-line interface, and curve.space!
-date: 2022-04-10T16:52:04.001Z
 authors: []
+date: 2022-04-10T16:52:04.001Z
 name: 2022-2
 oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/DA6m9Q2tMjWW2SJeAtOL
 ---
 
 # 2022-Q2
+
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/lZlSSr1yzUWqbVlnjxnR.1"}
+
+## Jun 20, 2022 - Quality of Life 🐛
+
+We deployed various fixes and improvements to the rendering of article frontmatter and the respective article and project settings forms.
+
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/4Wo6oV8UVSHdxRwVDw7S.1"}
+
+## Jun 14, 2022 - Document Outline
+
+You can now see the document outline, which shows all of the headers on the page. This can be accessed from the navigation and can toggle between all project documents and the list of headers on the document you are currently viewing. As a part of these changes you can also open/close the project thumbnail to give yourself more room to see the outline of long documents.
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-f8vqHmZGfBTol0Pm66kA-v1.gif
+:name: A1U3WFvO8p
+:align: center
+:width: 30%
+```
+
+### Bug fixes 🐛
+
+- A bug that lost undo history when pasting into text input fields has been fixed.
+
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/1U92qyD9lelbbMy36jPA.2"}
+
+## Jun 7, 2022 - Minor changes & bug fixes
+
+### UI Features 🎨
+
+- Tables are more compact
+- Code blocks has a more distinguished look
+- MyBinder and Notebook icons are now coloured when not hovered
+
+### Bug fixes 🐛
+
+- fixed a bug causing tooltips fail to stick to anchor when scrolling
+
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/71RrShrPnWLSPJYKQDMb.2"}
+
+## Jun 3, 2022 - Updates for Front matter
+
+We have made the updates for inputting front matter easier to do this directly from the block settings, based on feedback from early user testing in the past two days. We also added additional descriptions and links to all of the fields.
+
+🐛 We have fixed a bug for section number that caused the number to be hidden while editing.
+
+### Curvenote CLI - Validation Errors
+
+We have improved the client library to have more descriptive validation error messages and warnings. These will help notify you as you are building your `curvenote.yml`.
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-OfLloVKiMKYDQmBA8yCp-v1.png
+:name: KpBGsgbtTe
+:align: center
+:width: 70%
+```
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/NFM8a1J0kFv0csYrS42m.1"}
 
@@ -23,18 +77,24 @@ Most metadata is displayed in the new header section on articles and notebooks:
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-mL7uyQJGI31Qz95fxoqN-v1.png
 :name: zXfhorVvmn
+:align: center
+:width: 70%
 ```
 
 And can be set both in the Article / Notebook settings (available from the `…` menu)
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-qs7iKDVitcOAEnwfcZWp-v1.png
 :name: jT0P8muQuV
+:align: center
+:width: 70%
 ```
 
 and from the Project settings, Frontmatter section.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-iI2u2IZxXzUHfLIqKWki-v1.png
 :name: Ts7swpNyhD
+:align: center
+:width: 70%
 ```
 
 ### 🐛 Quality of Life
@@ -72,6 +132,8 @@ We have improved the New API Token user interface that is clearer that you have 
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-LNynluX0EaZfA2ayiYsv-v1.png
 :name: OGuzthC9bu
+:align: center
+:width: 70%
 ```
 
 ### Bug Fixes 🐛
@@ -86,6 +148,8 @@ We are continuing to expand our front matter capabilities! and have just added D
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-o5L2F2EGeujs72N1t0KC-v1.png
 :name: m4XJMjF27X
+:align: center
+:width: 70%
 ```
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/NKJTSscmxsqydUnUZeXr.2"}
@@ -96,18 +160,24 @@ You can now apply licenses to your articles, notebooks and projects by selecting
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-gmeGfxEhNtvhhz8wADF0-v1.gif
 :name: Q3qquwFVsE
+:align: center
+:width: 70%
 ```
 
 Licenses can be chosen for `content`, `code` or both, and by default, new articles and notebooks will inherit the licenses that are set in your project.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-o8155frruJ7IiIMnBtWp-v1.png
 :name: E3lUINJIvA
+:align: center
+:width: 70%
 ```
 
 but this can be overridden in the Article or Notebook settings
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-84tk2QGJ3iOP7wAcp6PN-v1.png
 :name: GaEZYNOQwx
+:align: center
+:width: 70%
 ```
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/QsneWKKQvIihtdNiiZ53.3"}
@@ -120,12 +190,16 @@ We’ve made a number of improvements to the reference management dialog, which 
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-BmxP51nYjTEUcDTGZszH-v1.png
 :name: vmv76wnNbm
+:align: center
+:width: 70%
 ```
 
 - ⚠️ citations that point to missing references are now marked as broken within articles and notebooks. This allows them to be easily identified and replaced.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-og1fDptQHQKbjjGcqbGK-v1.png
 :name: HdFpOdFk9V
+:align: center
+:width: 30%
 ```
 
 - 🐛 When the reference management window is first opened, it will fetch a complete list of references in the project from the server — however it will now first show any loaded references immediately, whilst fetching new ones in the background.
@@ -139,18 +213,24 @@ We have released the first step in improvements to the “header section” on a
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-cHRJ7zCoDQe5PHgEmOf6-v1.png
 :name: R66yoejLhl
+:align: center
+:width: 70%
 ```
 
 Projects now also contain author information, so you can define authors, affiliations etc on a project-wide basis, and set your articles and notebooks to use the project-wide information.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-jpuUDAAHvCT5bYjZud6I-v1.png
 :name: YXGPxY7LPw
+:align: center
+:width: 70%
 ```
 
 Project-wide settings can be found in the new “Front Matter” section in the project settings dialog. By default, new articles and notebooks will have the “Use Project Authors” checkbox checked.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-T7hJ0UtwZVp9fhxJ5tqw-v1.png
 :name: NhAzOAjch3
+:align: center
+:width: 70%
 ```
 
 Other changes 🐛 ✨ :
@@ -177,6 +257,8 @@ Our DOI based search for adding references has been down, but is now fixed and D
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-f4DUSP07n9x9bvP5PyT2-v1.png
 :name: pMs8PK1Cd5
+:align: center
+:width: 70%
 ```
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/h8HntTWJMqkxRVcZfDFk.2"}
@@ -202,6 +284,8 @@ The site is super fast to load, and can handle all of the writing that we can th
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-PBHRWNMDNfuHNwiUIoep-v1.png
 :name: WaQ90dEVtX
+:align: center
+:width: 70%
 ```
 
 Stay tuned for more updates on our new publishing infrastructure over the coming month! 🚀
@@ -224,6 +308,8 @@ To create a card, use the `[[` syntax to link to an article or notebook, and the
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-OTy0ZwiNjlHnv0fdIY2l-v1.png
 :name: iRhTQZiGlW
+:align: center
+:width: 20%
 ```
 
 ### Feature Improvements
@@ -240,5 +326,7 @@ To create a card, use the `[[` syntax to link to an article or notebook, and the
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-7nXDHcHhEJVqOPmR4twr-v1.png
 :name: NiSReAHzSn
+:align: center
+:width: 70%
 ```
 
