@@ -9,6 +9,34 @@ oxa: oxa:9Kv3iYv0uCgaG0zl4WDZ/DA6m9Q2tMjWW2SJeAtOL
 
 # 2022-Q2
 
++++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/NbfihzmVSrop119UCaYU.3"}
+
+## Jun 24, 2022
+
+### Try Curvenote
+
+We launched a new service <https://try.curvenote.com/> allowing to you deploy websites directly from GitHub!
+
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-Z3CageG7ezrOsfXVHIql-v1.png
+:name: RNR54cVHMr
+:align: center
+:width: 70%
+```
+
+### Curvenote CLI - Improvements and fixes 🐛
+
+- Image width and alignment from figure directives are now honored when websites are built ([link](https://github.com/curvenote/curvenotejs/issues/195))
+- Notebooks with bookmark anchors e.g. `<a id="sectionA"></a>` no longer cause errors. ([link](https://github.com/curvenote/curvenotejs/issues/196))
+- Fixed an issue when running the `curvenote init` and `curvenote start` on windows ([link](https://github.com/curvenote/curvenotejs/issues/195))
+- Fixed various issues affecting the loading of outputs in website pages built from notebooks, notebook outputs now load faster and more reliably
+- Plain URLs found in markdown are now automatically transformed into links ([link](https://github.com/curvenote/curvenotejs/issues/72))
+- Added a `--write-toc` option that will create a `_toc.yml` file during the command, writing out the implicitly build table of contents and allowing you to customize that
+- The CLI now recognizes `kernelspec` and `juptext` front matter allowing for markdown based notebooks to be included in site builds
+- We now recognize Zenodo URLs as DOIs e.g. <https://zenodo.org/record/6476040> and have broadened the other DOIs we catch (e.g. eLife and a few more!).
+- 🐛 we fixed a bug on windows where the `curvenote init` and `curvenote start` commands were failing.
+- `curvenote init` will still initialize a site if the folder has a `curvenote.yml` file, as long as there is no `site` section
+- `curvnote init` will also honor any existing project hierarchy in the local folder, and build default site navigation based on that.
+
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/lZlSSr1yzUWqbVlnjxnR.1"}
 
 ## Jun 20, 2022 - Quality of Life 🐛
