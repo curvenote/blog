@@ -21,7 +21,7 @@ parts:
       - file: introducing-curvenote
       - file: introducing-curvenote-pro
       - file: creative-destruction-lab
-      - file: yc-application
+      - file: ycombinator-application
       - file: force11-2021
         sections:
           - file: force11-2021-recap
