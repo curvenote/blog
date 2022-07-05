@@ -2,8 +2,7 @@ version: 1
 site:
   title: Curvenote Blog
   domains:
-    # - blog.curvenote.com
-    - curvenote-blog.curve.space
+    - blog.curvenote.com
   logo: public/logo.svg
   logoText: Curvenote
   twitter: curvenote
