@@ -1,0 +1,6 @@
+version: 1
+project:
+  title: Curvenote Blog
+  subject: Blog
+  license: CC-BY-4.0
+  open_access: true

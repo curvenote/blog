@@ -1,25 +1,16 @@
 version: 1
 site:
-  title: Curvenote
+  title: Curvenote Blog
   domains:
-    - blog.curvenote.com
+    # - blog.curvenote.com
+    - curvenote-blog.curve.space
   logo: public/logo.svg
   logoText: Curvenote
   twitter: curvenote
-  nav:
-    - title: '2022'
-      url: /2022
-    - title: '2021'
-      url: /2021
-    - title: '2020'
-      url: /2020
+  nav: []
   projects:
-    - path: content/2022
-      slug: '2022'
-    - path: content/2021
-      slug: '2021'
-    - path: content/2020
-      slug: '2020'
+    - path: content/blog
+      slug: 'blog'
   actions:
     - title: Sign Up
       url: https://curvenote.com/signup

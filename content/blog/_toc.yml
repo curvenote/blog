@@ -1,0 +1,38 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: creating-an-open-research-website
+parts:
+  - caption: Blog
+    chapters:
+      - file: international-data-week-metadata-reproducibility
+      - file: future-of-research-communication-and-collaboration
+      - file: deploy-a-scientific-website-in-five-minutes
+      - file: from-jupyter-notebook-to-scientific-paper
+      - file: reusing-and-remixing-science
+      - file: code-mark
+      - file: communicating-science
+      - file: version-control-for-scientists
+      - file: collaboration-in-scientific-writing
+      - file: how-to-export-to-pdf-latex-using-curvenote
+      - file: data-driven-latex-templates
+      - file: exporting-to-docx
+      - file: introducing-curvenote
+      - file: introducing-curvenote-pro
+      - file: creative-destruction-lab
+      - file: ycombinator-application
+      - file: force11-2021
+        sections:
+          - file: force11-2021-recap
+      - file: writing-a-scientific-paper-in-jupyter
+      - file: research-workflows
+        sections:
+          - file: curvenote-for-individual-research-notes
+          - file: curvenote-for-group-research-notes
+          - file: curvenote-for-reproducible-research
+          - file: creating-open-educational-resources
+      - file: transition-to-open-science-dr-sun
+      - file: reflections-2020
+      - file: jupyter-con-2020
+      - file: software-underground-2020
