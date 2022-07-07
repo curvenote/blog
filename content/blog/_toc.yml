@@ -6,6 +6,7 @@ root: creating-an-open-research-website
 parts:
   - caption: Blog
     chapters:
+      - file: open-science-publishing-command-line
       - file: international-data-week-metadata-reproducibility
       - file: future-of-research-communication-and-collaboration
       - file: deploy-a-scientific-website-in-five-minutes
