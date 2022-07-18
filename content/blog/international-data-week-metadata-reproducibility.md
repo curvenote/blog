@@ -47,4 +47,6 @@ As a part of this presentation we improved our support in Curvenote for RRIDs & 
 :name: qnwWxrliCT
 :align: center
 :width: 70%
+
+Using RRIDs in Curvenote.
 ```
