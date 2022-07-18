@@ -17,6 +17,8 @@ doi: 10.5281/zenodo.6476040
 oxa: oxa:Jui5IMQsraql3nB2AwWQ/lwBEpPxLdqJBsoed4nPy
 tags:
   - presentation
+  - open-science
+thumbnail: thumbnails/future-of-research-communication-and-collaboration.png
 ---
 
 +++ {"oxa":"oxa:Jui5IMQsraql3nB2AwWQ/nKAYTyJZS9PznTLxNED2.6"}

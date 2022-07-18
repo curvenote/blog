@@ -1,6 +1,6 @@
 ---
 title: Curvenote Microsoft Word Export
-description: ''
+description: 'Exporting to Microsoft Word is now a single click in Curvenote!'
 date: 2021-10-21T17:11:50.605Z
 authors:
   - name: Steve Purves
@@ -14,7 +14,8 @@ authors:
 name: exporting-to-docx
 oxa: oxa:DOHMeg040aVXqR51yjBy/544kxF9tADUPDVyMYwS2
 tags:
-  - tutorial
+  - update
+thumbnail: thumbnails/exporting-to-docx.png
 ---
 
 # Curvenote Microsoft Word Export

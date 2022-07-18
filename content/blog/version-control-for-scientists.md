@@ -25,6 +25,8 @@ name: version-control-for-scientists
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/DoBfrtUoipuqQkB5VvrN
 tags:
   - article
+  - open-science
+thumbnail: thumbnails/version-control-for-scientists.png
 ---
 
 # Version Control for Scientists

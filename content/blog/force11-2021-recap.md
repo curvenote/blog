@@ -1,6 +1,6 @@
 ---
 title: FORCE11 2021 Recap
-description: ''
+description: 'Our notes from the FORCE11’s 2021 Annual Conference with over 1,300 participants.'
 date: 2021-12-14T01:09:21.464Z
 authors:
   - name: Liz Maag-Capriotti
@@ -15,6 +15,8 @@ name: force11-2021-recap
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/3ZQ7JYxPZoCIiWNTiuhR
 tags:
   - update
+  - open-science
+thumbnail: thumbnails/force11-2021-recap.png
 ---
 
 # FORCE11 2021 Recap

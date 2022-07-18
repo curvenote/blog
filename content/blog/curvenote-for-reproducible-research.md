@@ -1,11 +1,12 @@
 ---
 title: Curvenote for Reproducible Research
-description: ''
+description: 'Improve reproducible research by linking together your articles and your Jupyter Notebooks. You can make it easy for others to view, edit, and use your data and research - whether that’s across disciplines, industries or just within your own department.'
 date: 2022-04-09T18:58:53.535Z
 name: curvenote-for-reproducible-research
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/cIHxVJhlAtq6ESXIkDW4
 tags:
   - interview
+thumbnail: thumbnails/curvenote-for-reproducible-research.png
 ---
 
 # Curvenote for Reproducible Research

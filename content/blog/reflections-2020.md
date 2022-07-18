@@ -13,6 +13,8 @@ authors:
       - Iooxa Inc., (which is now Curvenote!)
 tags:
   - presentation
+  - article
+thumbnail: thumbnails/reflections-2020.png
 ---
 
 +++

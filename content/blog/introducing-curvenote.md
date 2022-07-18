@@ -1,6 +1,6 @@
 ---
 title: Introducing Curvenote
-description: ''
+description: 'The Curvenote brand embodies aspects of reuse, modularity and the connections behind ideas through building blocks that provide structure and can also be pulled apart, rearranged and used in unique ways.'
 date: 2021-08-30T19:12:00.000Z
 authors:
   - name: Rowan Cockett
@@ -15,6 +15,7 @@ name: introducing-curvenote
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/IVkX15Hw1xHXdnTpqqyl
 tags:
   - update
+thumbnail: thumbnails/introducing-curvenote.png
 ---
 
 # Introducing Curvenote

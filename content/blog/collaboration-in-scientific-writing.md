@@ -1,6 +1,6 @@
 ---
 title: Collaboration in Scientific Writing
-description: ''
+description: 'Reflections on distinct modes of collaboration in science including gathering feedback, asynchronous co-authoring and review, and real-time simultaneous editing.'
 date: 2021-09-27T11:21:55.353Z
 authors:
   - name: Steve Purves
@@ -15,6 +15,7 @@ name: collaboration
 oxa: oxa:DOHMeg040aVXqR51yjBy/9xm9sJTC6kGhmHgyydkh
 tags:
   - article
+thumbnail: thumbnails/collaboration-in-scientific-writing.png
 ---
 
 # Collaboration in Scientific Writing

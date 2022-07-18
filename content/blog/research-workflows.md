@@ -1,11 +1,12 @@
 ---
 title: Research Workflows, with Dr. Lindsey Heagy
-description: ''
+description: 'An interview with Dr. Lindsey Heagy, an assistant professor in Earth Data Science and researcher at the University of British Columbia. Lindsey is also a Science Advisor for Curvenote.'
 date: 2021-08-13T18:53:00.000Z
 name: research-workflows
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v
 tags:
   - interview
+thumbnail: thumbnails/research-workflows.png
 ---
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/TcAIKjVSy2ptzeGo4c7l.1"}

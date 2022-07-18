@@ -1,6 +1,6 @@
 ---
 title: From Jupyter Notebook to Scientific Paper
-description: ''
+description: 'In this tutorial we go over how to turn your Jupyter Notebooks into a scientific paper.'
 date: 2022-02-01T22:50:00.000Z
 authors:
   - name: Rowan Cockett
@@ -29,6 +29,9 @@ authors:
       - Curvenote
 name: from-jupyter-notebook-to-scientific-paper
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/m2K31HsBqvCglJacduZU
+thumbnail: thumbnails/from-jupyter-notebook-to-scientific-paper.png
+tags:
+  - tutorial
 ---
 
 # From Jupyter Notebook to Scientific Paper

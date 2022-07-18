@@ -1,6 +1,6 @@
 ---
 title: Data driven LaTeX templates
-description: ''
+description: 'Introducing a lightweight templating engine, jtex, that provides a simple command line interface (CLI).'
 date: 2021-10-21T17:57:55.620Z
 authors:
   - name: Steve Purves
@@ -15,6 +15,7 @@ name: building-data-driven-latex-templates-for-curvenote
 oxa: oxa:DOHMeg040aVXqR51yjBy/ea0jxy5eSPndzWVUXhi2
 tags:
   - open-source
+thumbnail: thumbnails/data-driven-latex-templates.png
 ---
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6Ikye3xJxigOKHSr5fcJ.5"}

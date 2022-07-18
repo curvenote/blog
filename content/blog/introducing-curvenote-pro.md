@@ -1,6 +1,6 @@
 ---
 title: Introducing Curvenote Pro
-description: ''
+description: 'Introducing Curvenote Pro, which includes additional private projects, advanced publishing, and export to any professional template.'
 date: 2021-09-16T19:15:00.000Z
 authors:
   - name: Rowan Cockett
@@ -15,6 +15,7 @@ name: introducing-curvenote-pro
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/Ya7vPOdevsksLpT1oD57
 tags:
   - update
+thumbnail: thumbnails/introducing-curvenote-pro.png
 ---
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QUfCBnBsEPAZzKLwSe9w.1"}

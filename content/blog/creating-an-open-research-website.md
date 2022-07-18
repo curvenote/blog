@@ -1,6 +1,6 @@
 ---
 title: Creating an Open Research Website
-description: ''
+description: 'Using the Curvenote CLI to create an open research website with a local Markdown based authoring experience.'
 date: 2022-06-23T22:27:00.000Z
 name: creating-an-open-research-website
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ
@@ -17,6 +17,7 @@ license:
   code: MIT
 tags:
   - webinar
+thumbnail: thumbnails/creating-an-open-research-website.png
 ---
 
 # Creating an Open Research Website

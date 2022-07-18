@@ -1,6 +1,6 @@
 ---
 title: Creative Destruction Lab
-description: ''
+description: 'Curvenote was chosen to participate in a science & technology innovation program called Creative Destruction Lab.'
 date: 2021-11-10T20:02:51.152Z
 authors:
   - name: Rowan Cockett
@@ -13,6 +13,10 @@ authors:
       - Curvenote
 name: creative-destruction-lab
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/pqZtoOhdfTxTF1PR8COr
+thumbnail: thumbnails/creative-destruction-lab.png
+tag:
+  - update
+  - presentation
 ---
 
 # Creative Destruction Lab

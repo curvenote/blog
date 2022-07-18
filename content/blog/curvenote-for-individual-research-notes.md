@@ -1,11 +1,12 @@
 ---
 title: Curvenote for Individual Research Notes
-description: ''
+description: 'Using Curvenote’s Jupyter extension and editing tools to keep track of research notes and progress.'
 date: 2021-08-13T18:53:00.000Z
 name: curvenote-for-individual-research-notes
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/BOWT2XhQxjylXZw4Pat7
 tags:
   - interview
+thumbnail: thumbnails/curvenote-for-individual-research-notes.png
 ---
 
 # Curvenote for Individual Research Notes

@@ -1,6 +1,6 @@
 ---
 title: Reusing & Remixing Scientific Content
-description: ''
+description: 'Our goal with Curvenote is to introduce tools that can lower the barrier to linking, tracking, and enable the possibility to collaboratively act on improvements.'
 date: 2022-02-16T05:45:29.226Z
 authors:
   - name: Rowan Cockett
@@ -15,6 +15,8 @@ name: reusing-and-remixing-science
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/06XSsLQEXXpTh9tHMwea
 tags:
   - article
+  - open-science
+thumbnail: thumbnails/reusing-and-remixing-science.png
 ---
 
 # Reusing & Remixing Scientific Content

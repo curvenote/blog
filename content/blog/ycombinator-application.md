@@ -22,6 +22,7 @@ authors:
 tags:
   - presentation
   - update
+thumbnail: thumbnails/ycombinator-application.png
 ---
 
 +++

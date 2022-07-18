@@ -1,11 +1,12 @@
 ---
 title: Creating Open Educational Resources
-description: ''
+description: 'How to integrate open source and reproducibility practices into presenting educational materials.'
 date: 2021-08-13T18:53:00.000Z
 name: creating-open-educational-resources
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/OIFQeZMQX6tHycyhWFQ7
 tags:
   - interview
+thumbnail: thumbnails/creating-open-educational-resources.png
 ---
 
 # Creating Open Educational Resources

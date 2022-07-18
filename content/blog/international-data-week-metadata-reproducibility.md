@@ -17,6 +17,8 @@ authors:
       - Curvenote
 tags:
   - presentation
+  - open-science
+thumbnail: thumbnails/international-data-week-metadata-reproducibility.png
 ---
 
 # Metadata and Reproducibility
