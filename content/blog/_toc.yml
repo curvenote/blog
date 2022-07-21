@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: working-locally-with-myst-markdown
       - file: creating-an-open-research-website
       - file: international-data-week-metadata-reproducibility
       - file: future-of-research-communication-and-collaboration
