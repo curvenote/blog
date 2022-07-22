@@ -6,6 +6,8 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: share-research-online-in-60-seconds
+      - file: curvenote-on-the-command-line
       - file: working-locally-with-myst-markdown
       - file: creating-an-open-research-website
       - file: international-data-week-metadata-reproducibility
