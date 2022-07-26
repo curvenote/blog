@@ -93,7 +93,7 @@ Having stated our aims above, let’s talk about our implementation. There are a
 
 - [jtex](https://pypi.org/project/jtex/) - a lightweight templating engine that provides a simple command line interface (CLI)
 - [Curvenote’s Open Template Repository](https://github.com/curvenote/templates) - a collection of templates ported to use in Curvenote or through these open-source command line tools
-- [curvenotepy](https://github.com/curvenote/curvenotepy) - a python client library and CLI that can pull content from the Curvenote API
+- [curvenote](https://github.com/curvenote/curvenote) - a client library and CLI that can pull content from the Curvenote API
 
 We’re going to focus on the first two in this post.
 
@@ -240,7 +240,7 @@ The `CONTENT_PATH` argument should point to a directory containing the following
 - `main.tex` - containing the main content to be rendered at `[-CONTENT-]`
 - `main.bib` - a bibliography file if needed
 
-These files will be used to render a LaTeX document at the `OUTPUT_PATH` with either the built-in default template or any other template specified using the `--template-path` or `--template-name` options. `--template-path` uses a local template, while `--template-name` will fetch from the Curvenote API (e.g. here is [AGU2019 template](https://api.curvenote.com/templates/agu2019)).
+These files will be used to render a LaTeX document at the `OUTPUT_PATH` with either the built-in default template or any other template specified using the `--template-path` or `--template-name` options. `--template-path` uses a local template, while `--template-name` will fetch from the Curvenote API (e.g. here is [AGU2019 template](https://api.curvenote.com/templates/tex/public/agu2019)).
 
 Find out more about the `build` command [in the readme](https://github.com/curvenote/curvenote-template#build).
 
@@ -274,7 +274,7 @@ Let’s use the simplest template we have, [plain_latex](https://github.com/curv
 
 * - `example/`
 
-  - Example content used for testing and to generate the [thumbnail.png](thumbnail.png)
+  - Example content used for testing and to generate the `thumbnail.png`
 
 ```
 

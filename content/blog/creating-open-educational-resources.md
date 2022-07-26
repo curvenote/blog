@@ -40,5 +40,5 @@ And again, Curvenote’s features make it easy for the team to involve other exp
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-LaPBG4ClY9OmCA5xscyC-v1.png
 :name: tNQfpYi3cF
 
-Creating educational resources in Curvenote. View the [geophysics course sample](https://curvenote.com/oxa:VNMrkxzChhdveZyf6lmb/xqM34l8moONMZ4iDWIQf).
+Creating educational resources in Curvenote. View the [geophysics course sample](https://geosci-inversion.curve.space).
 ```

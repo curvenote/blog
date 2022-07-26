@@ -55,10 +55,10 @@ I actually got the full demo done in 2 minutes and 54 seconds. 🚀
 
 See the original blog post on [Steve Purves blog](https://www.stevejpurves.com/blog/t22-lightning-talk-n-things-i-learned-at-force-11). Some of the points that he covers are:
 
-- Citations files: [Citation File Format](<https://citation-file-format.github.io/#:~:text=cff%20files%20are%20plain%20text,to%20correctly%20cite%20their%20software.&text=The%20format%20of%20CITATION.,Citation%20File%20Format%20(CFF).>)
-- Contributor roles: <https://casrai.org/credit/>
+- Citations files: [Citation File Format](https://citation-file-format.github.io)
+- Contributor roles: <https://credit.niso.org>
 - Zenodo ⇔ Github Bridge: <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>
-- OpenAlex APIs for scholarly data: [https://openalex.org](https://openalex.org/)
+- OpenAlex APIs for scholarly data: [https://openalex.org](https://openalex.org)
 
 So much amazing work going on in the community!
 

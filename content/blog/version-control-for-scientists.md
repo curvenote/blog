@@ -68,7 +68,7 @@ In the rest of this post, we are going to go through some of the basic concepts 
 
 ### Blocks
 
-Curvenote content is organized in blocks, whether that be a block of text, code, an image, or a Jupyter notebook output. For the moment, we’ll think of blocks of text as you would create in our online editor. If you go to any existing Curvenote article and select a block you’ll be able to see the version history for that block in its entirety. Just like [this](https://curvenote.com/@curvenote/getting-started/!tKXrPfBQxgGTXNB1Np1q.6) block shown below.
+Curvenote content is organized in blocks, whether that be a block of text, code, an image, or a Jupyter notebook output. For the moment, we’ll think of blocks of text as you would create in our online editor. If you go to any existing Curvenote article and select a block you’ll be able to see the version history for that block in its entirety. Just like the block shown below.
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/PblR5aNNakTXRP304tyN.2"}
 

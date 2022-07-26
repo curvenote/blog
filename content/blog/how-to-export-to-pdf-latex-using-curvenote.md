@@ -124,7 +124,7 @@ This is something we’ll be perfecting over time, but by making our templates c
 
 The philosophy behind Curvenote is to support your day-to-day work in one place and make it easy to reuse your writing, notebooks, figures, and plots across documents, presentations, and papers. This saves you time and effort and keeps you focussed on your research.
 
-When it comes to writing your paper, you can easily move one manuscript forward and export that one piece of content to multiple formats for your internal group review, preprint service submission, and ultimately conference or journal submission. At the same time, you can easily share supporting work online [securely with collaborators](https://curvenote.com/@curvenote/getting-started/collaboration) or publicly and attach it to your [Curvenote profile](https://curvenote.com/@curvenote/getting-started/your-profile).
+When it comes to writing your paper, you can easily move one manuscript forward and export that one piece of content to multiple formats for your internal group review, preprint service submission, and ultimately conference or journal submission. At the same time, you can easily share supporting work online [securely with collaborators](https://curvenote.com/docs/overview/collaboration) or publicly and attach it to your [Curvenote profile](https://curvenote.com/docs/overview/profile).
 
 ### Want to change your writing experience?
 
