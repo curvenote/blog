@@ -21,15 +21,15 @@ license:
 
 # Share research online in 60 seconds
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/zuWLnoGmnZx7Sy7oG0hh.3"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/zuWLnoGmnZx7Sy7oG0hh.5"}
 
-Today we are launching a new way to easily share scientific content online, all you need to start is GitHub or GitLab repository — we are calling it the [Curvenote Launchpad](https://curvenote.com/demos/publish-from-github) and it is completely free and open-source.
+Today we are launching a new way to easily share scientific content online — we are calling it the [Curvenote Launchpad](https://curvenote.com/demos/publish-from-github) and it is free and [open-source](https://github.com/curvenote/curvenote). All you need to start is GitHub or GitLab repository.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/WD9u8dQN4GkOV3CdG3WM.4"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/WD9u8dQN4GkOV3CdG3WM.5"}
 
 ## Curvenote Launchpad
 
-The launchpad service is publicly accessible at [https://try.curvenote.com](https://curvenote.com/demos/publish-from-github) and can turn any repository with Markdown `.md` and `.ipynb` files into a rich interactive website in under 60 seconds.
+The launchpad service is available at [https://try.curvenote.com](https://curvenote.com/demos/publish-from-github) and can turn any repository with Markdown `.md` and `.ipynb` files into a rich interactive website in under 60 seconds.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-oitnKdqykoo6QDUMWBWP-v1.png
 :name: nZUO6adPzC
@@ -51,7 +51,7 @@ Read more [in our documentation](https://curvenote.com/docs/web/launchpad).
 
 ````
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/0Lk9o9w7LdmWOgKMzFGd.4"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/0Lk9o9w7LdmWOgKMzFGd.6"}
 
 ## Awesome by default
 
@@ -69,7 +69,7 @@ Curvenote sites support the rendering of Jupyter output cells. As well as the fa
 
 ### BibTeX support
 
-If the repository contains a BibTeX `.bib` file, we’ll load the references and pick up on any citations you’ve made in your Markdown files or Markdown notebook cells, we currently support [MyST Markdown](https://spec.myst.tools/) for these sorts of references.
+If the repository contains BibTeX `.bib` files, the service will load the references and pick up on any citations you’ve made in your Markdown files or Markdown notebook cells, we currently support [MyST Markdown](https://spec.myst.tools/) for these sorts of references.
 
 ### References from DOIs
 
@@ -103,11 +103,11 @@ Setting up frontmatter to show on your articles, including organization informat
 
 The first page of the website produced is taken in priority order from `index.md`, `readme.md`, `main.md`, `*.md`, `index.ipynb`, `readmd.ipynb`, `readme.ipynb`, or `*.ipynb` (not case sensitive) and usually, you will have a `README.md` at least. You can override that as the homepage by adding an `index.md` to your repo before launching.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/ouqQeH2zesSbMwX9s2j2.3"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/ouqQeH2zesSbMwX9s2j2.4"}
 
 ## What’s next
 
-Curvenote Launchpad is a great way to [quickly share Juptyer Notebooks](https://curvenote.com/demos/publish-from-github), research notes and other markdown content with people, allowing you to quickly grab a disposable link. If you like the service and the result, we’d love you to share it more widely, with a tweet ❤️.
+Curvenote Launchpad is an easy way to [share Juptyer Notebooks, research notes and other markdown content](https://curvenote.com/demos/publish-from-github) with a quick, disposable link. If you like the service and the result, we’d love you to share it more widely, with a tweet ❤️.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-YiV3owCpWrvhRxpbPDEb-v1.png
 :name: qr5cJ25wML
@@ -115,5 +115,5 @@ Curvenote Launchpad is a great way to [quickly share Juptyer Notebooks](https://
 :width: 100%
 ```
 
-Launchpad is also a great way to quickly try out Curvenote’s site generation capabilities on your content before setting up a permanent website with your own URL. Curvenote’s publishing tools are open source and our mission at Curvenote is to free science from the PDF, let us help you do that by getting your preprint, [supporting materials or thesis online](https://curvenote.com/docs/web).
+Launchpad is also a great way to quickly try out Curvenote’s site generation capabilities on your content before setting up a permanent website with your own URL. Curvenote’s publishing tools are open source, and our mission at Curvenote is to free science from the PDF. Let us help you do that by getting your [preprint, supporting materials or thesis online](https://curvenote.com/docs/web).
 

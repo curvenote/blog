@@ -33,15 +33,11 @@ license:
 
 # Curvenote on the Command Line
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/82oRYfpgGvE7G2qNPo4G.6"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/82oRYfpgGvE7G2qNPo4G.8"}
 
-Over the past few months, we've been busy building a new [open source Command Line Interface](https://github.com/curvenote/curvenote) (CLI) that sits top of our content translation schemas and can talk to the Curvenote API. _Why a CLI?_ Command line interfaces can pack a lot of punch, with a lot of varied functionality made available in one small space. They can be used interactively as well as invoked from scripts for all sorts of automation tasks.
+Over the past few months, we've been busy building a new [open source Command Line Interface](https://github.com/curvenote/curvenote) (CLI) that sits on top of our content translation schemas and talks to the Curvenote API. *Why a CLI?* Command line interfaces can pack a lot of punch, exposing a variety of functionality in one small space. They can be used interactively as well as invoked from scripts for all sorts of automation tasks.
 
-$$
-\x
-$$
-
-CLIs can also be colorful and conversational (and have emojis 🚀), making them easy to interact with even if you are not used to working in a terminal. We've put a lot of time and care into the design of our CLI to make it easy to use and so you can get results from it quickly.
+CLIs can also be colorful and conversational (and have emojis 🚀), making them easy to interact with even if you are not used to working in a terminal. We've put a lot of time and care into the design of our CLI to make it easy to use and so you can get results quickly.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-ccfeL3kOZ4evwjxVsL2w-v1.png
 :name: W3bCLowsvb
@@ -55,17 +51,17 @@ In this post, we'll dive into the main capabilities of the CLI and talk more abo
 
 ## The Curvenote CLI
 
-The new Curvenote CLI is built-in Typescript and runs on the [NodeJS Javascript runtime](https://curvenote.com/docs/cli/installing-prerequisites). Even if you are not familiar with NodeJS, it is probably already running behind the scenes on your machine powering something like Jupyter, Slack, Spotify, VS Code, or the Atom editor.
+The new Curvenote CLI is built in Typescript and runs on the [NodeJS Javascript runtime](https://curvenote.com/docs/cli/installing-prerequisites). Even if you are not familiar with NodeJS, it is probably already running behind the scenes on your machine powering something like Jupyter, Slack, Spotify, VS Code, or the Atom editor.
 
-NodeJS (or `node`) comes with a package manager called `npm` which allows for direct and easy installation of a huge ecosystem of packages. If you work with python, then think of \`npm\` as \`pip\` for \`node\`. We chose a Javascript runtime for our CLI as it's easy to deliver the CLI on multiple platforms, leverage our open source content translation schemas, and easily include other web-based packages and technology.
+NodeJS (or `node`) comes with a package manager called `npm` which allows for direct and easy installation of a huge ecosystem of packages. If you work with python, then think of \`npm\` as \`pip\` for \`node\`. We chose a Javascript runtime for our CLI as it's easy to deliver the CLI on multiple platforms, leverage our open source content translation schemas, and include other web-based packages and technology.
 
-The CLI works completely locally on your content and files, and can also connect to the Curvenote API allowing content to be synchronized, opening up a world of collaboration possibilities for working with others whether they are working online in the [Curvenote editor](https://curvenote.com), in the Curvenote Jupyter extension, or on the command line.
+The CLI can work completely locally on your content and files. It can also connect and synchronize with the Curvenote API, opening up a world of collaboration possibilities for working with others whether they are working online in the [Curvenote editor](https://curvenote.com), in the Curvenote Jupyter extension, or on the command line.
 
 ## Creating Websites
 
-The main service allows you to create a local website and a development experience allowing you easily build, write content for and publish a static website designed for open science publications — whether that's a [preprint or paper](https://www.stevejpurves.com/geoscience), [materials for a whole research project](https://www.stevejpurves.com/la-palma-earthquakes) or a [full Ph.D. thesis](https://phd.row1.ca). Other examples include:
+A huge function of the CLI is to provide a simple development experience building, writing content for and publishing a static website designed for open science publications — whether that's a [preprint or paper](https://www.stevejpurves.com/geoscience), [materials for a whole research project](https://www.stevejpurves.com/la-palma-earthquakes) or a [full Ph.D. thesis](https://phd.row1.ca). Other examples include:
 
-- [Courses](https://geosci-inversion.curve.space/inversion) & [books](https://climasoma.curve.space/)
+- [Courses](https://geosci-inversion.curve.space) & [books](https://climasoma.curve.space/)
 - [Seminar](https://seminars.simpeg.xyz/) & [conference](https://transform.softwareunderground.org/) websites
 - [Blogs](https://curvenote.com/blog) & [technical websites](https://www.stevejpurves.com/blog)
 - [Papers](https://www.stevejpurves.com/la-palma-earthquakes) & [reports](https://www.stevejpurves.com/computational-finance)
@@ -84,11 +80,11 @@ A selection of websites that can be built using the Curvenote CLI.
 
 Key commands for building websites locally are:
 
-- `curvenote init` - initialize a folder with a `curvenote.yml` with `project` and `site` configuration.
-- `curvenote start` - build the website, start a local web server, and open a preview in a web browser
+- `curvenote init` - initialize your folder with a `curvenote.yml` file containing `project` and `site` configuration
+- `curvenote start` - build your website, start a local web server, and open a preview in your web browser (this preview will update in real time as you update content!)
 - `curvenote deploy` - deploy your website to Curvenote's free hosting services
 
-Provided you have content in a Markdown or Juptyer Notebook ready and available locally, you can get a website started, previewed, and deployed to the web in just a few minutes.
+Provided you already have content in Markdown files or Juptyer Notebooks, you can get a website started, previewed, and deployed to the web in just a few minutes.
 
 Here is a demo where Rowan got a full live demo done in 2 minutes and 54 seconds. 🚀
 
@@ -98,7 +94,7 @@ Here is a demo where Rowan got a full live demo done in 2 minutes and 54 seconds
 :width: 100%
 ```
 
-```{important}
+````{important}
 **Tutorials**
 
 Check out our tutorials on different routes to get started:
@@ -106,13 +102,13 @@ Check out our tutorials on different routes to get started:
 - [Start from a local folder](https://curvenote.com/docs/web/tutorial-deploy-local)
 - [Start from a Curvenote project](https://curvenote.com/docs/web)
 
-```
+````
 
 ## Cloning Curvenote Projects
 
 The CLI works with both local content and content online in Curvenote projects. The latter is made possible by Curvenote's API and underlying version control. You can pull in content from projects that you collaborate on with others, save new versions of your work, and update exiting projects with both content and website configuration information.
 
-At the moment there are two commands that allow you to sync content. Those are `clone` and `pull`, which both fetch new content to a local folder and fetch updates for an existing local folder respectively.
+At the moment there are two commands that allow you to sync content. Those are `clone` and `pull`, which fetch new content to a local folder and fetch updates for an existing local folder respectively.
 
 First, let’s take a look at `clone`
 
@@ -123,11 +119,11 @@ curvenote clone <https://curvenote.com/username/my-project>
 This command can behave in one of two ways:
 
 1. Run this in an empty folder and this will fetch the project's existing `curvenote.yml`, `site` configuration and content enabling you to work on this locally and deploy manually.
-2. Run this in an initialized local folder (i.e. one containing a `curvenote.yml` with your `site` configuration) and this will add the project as _an additional section in your existing website_, fetching the content and updating your website's navigation controls in the process.
+2. Run this in an initialized local folder (i.e. one containing a `curvenote.yml` with your `site` configuration) and this will add the project as *an additional section in your existing website*, fetching the content and updating your website's navigation controls in the process.
 
 The first allows update and manual deployment of any existing website either by another user or by an automated system (e.g. through the [Curvenote GitHub Action](https://curvenote.com/docs/web/github-action)), where the entire site configuration and latest versions of content is retrieved in full with a single command.
 
-The second case enables powerful content aggregation workflows when publishing, allowing someone with the CLI to build documents or websites based on content from multiple collaborating users or groups, even when permission to access that content may be restricted on each project. An example of such a publication is the [SWUNG Transform Conference Website](https://transform.softwareunderground.org/2022) which was built from the Curvenote projects and GitHub repositories of many different groups of authors.
+The second case enables powerful content aggregation workflows when publishing, allowing someone with the CLI to build documents or websites based on content from multiple collaborating users or groups, even when permission to access that content may be different on each project (of course, the CLI user must have access to all). An example of such a publication is the [SWUNG Transform Conference Website](https://transform.softwareunderground.org) which was built from the Curvenote projects and GitHub repositories of many different groups of authors.
 
 Next, let’s take a look at `pull`, which can only be run from within an initialized folder:
 
@@ -148,7 +144,7 @@ Stay tuned for [updates on twitter](https://twitter.com/curvenote)!
 
 ## Exporting Content to Word, PDF, LaTeX, MyST and more
 
-The last CLI service we'll talk about is `curvenote export`. This exposes functionality from Curvenote's open source [schema](https://github.com/curvenote/schema), [nbtx](https://github.com/curvenote/nbtx), and [prosemirror](https://prosemirror.org) extensions which constitute a powerful document translation engine. Able to convert files and text between Markdown (MyST), HTML, DOCX, ipynb, jupyter-books, LaTeX and PDF allowing you to build these documents on your local machine.
+The last CLI service we'll talk about is `curvenote export`. This exposes functionality from Curvenote's open source [schema](https://github.com/curvenote/schema), [nbtx](https://github.com/curvenote/nbtx), and [prosemirror](https://prosemirror.net) extensions which constitute a powerful document translation engine. It is used to build Markdown (MyST), HTML, DOCX, ipynb, jupyter-books, LaTeX and PDF files locally from a Curvenote article.
 
 See the list of commands below:
 
@@ -160,12 +156,12 @@ See the list of commands below:
 Export to PDF, LaTeX, Markdown, Microsoft Word, JupyterBook or Sphinx with Curvenote.
 ```
 
-```{important}
+````{important}
 **Note**
 
 The commands in the export service will likely change over the coming months as we improve the functionality for local export/rendering.
 
-```
+````
 
 When dealing with LaTeX and PDF exports you can also use [templates](https://curvenote.com/templates) from Curvenote's [Public Template Repository](https://github.com/curvenote/templates) and create documents ready for submission to a number of preprint services and scientific journals.
 
@@ -177,21 +173,21 @@ When dealing with LaTeX and PDF exports you can also use [templates](https://cur
 A few of the [PDF templates](https://curvenote.com/templates) that you can export to using the CLI, allowing you to write your content once, then export to any template.
 ```
 
-For more details on how to use the `export` service, and some dependencies that you may need to run some commands [see our documentation](https://curvenote.com/docs/export).
+For more details on how to use the `export` service and dependencies that you may need to run some commands [see our documentation](https://curvenote.com/docs/export).
 
 ### Roadmap
 
-Right now export commands only work with Curvenote projects, where content is pulled directly from the API into a temporary folder and built. We are currently changing this to support building from a local folder as well as support multi-article export (e.g. a PhD thesis or large reports).
+Right now export commands only work with Curvenote projects, where content is pulled directly from the API into a temporary folder and built. We are currently changing this to support building from a local folder as well as support multi-article export (e.g. a PhD thesis or large report).
 
 ## Get Started
 
 We've built out detailed documentation at <https://curvenote.com/docs>, covering everything that we talked about in this post.
 
-To begin your scientific writing and publishing journey with Curvenote, just [Install the CLI](https://curvenote.com/docs/develop) and [start building scientific content for the web](https://curvenote.com/docs/web), syncing and [exporting to different document formats](https://curvenote.com/docs/export).
+To begin your scientific writing and publishing journey with Curvenote, just [Install the CLI](https://curvenote.com/docs/cli) and [start building scientific content for the web](https://curvenote.com/docs/web), syncing and [exporting to different document formats](https://curvenote.com/docs/export).
 
 ### See the Curvenote CLI in action
 
-Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ 'Creating an Open Research Website') where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
+Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ "Creating an Open Research Website") where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
 
 ```{iframe} https://www.youtube-nocookie.com/embed/LviMD9zE3FM
 :label: ICv58H0IfQ
@@ -199,9 +195,10 @@ Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd
 :width: 90%
 ```
 
-```{important}
+````{important}
 **Using Curvenote with GitHub**
 
 Have your content on GitHub? quickly try building a site directly from your repository using [try.curvenote.com](https://try.curvenote.com).
 
-```
+````
+
