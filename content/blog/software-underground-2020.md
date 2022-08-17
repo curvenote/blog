@@ -10,6 +10,7 @@ authors:
       - Iooxa (now Curvenote!)
 tags:
   - presentation
+  - conference
 thumbnail: thumbnails/software-underground-2020.png
 ---
 

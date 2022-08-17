@@ -24,6 +24,7 @@ name: transform2022-deploy-a-website
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/WVBZ8Dpso2q46IAjFdmg
 tags:
   - presentation
+  - conference
 thumbnail: thumbnails/deploy-a-scientific-website-in-five-minutes.png
 ---
 

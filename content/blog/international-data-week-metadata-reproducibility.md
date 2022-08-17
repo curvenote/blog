@@ -18,6 +18,7 @@ authors:
 tags:
   - presentation
   - open-science
+  - conference
 thumbnail: thumbnails/international-data-week-metadata-reproducibility.png
 ---
 

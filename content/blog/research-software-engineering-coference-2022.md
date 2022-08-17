@@ -20,6 +20,7 @@ subtitle: A walk-though of publishing open research with Curvenote
 short_title: ''
 tags:
   - conference
+  - presentation
 thumbnail: thumbnails/research-software-engineering-coference-2022.png
 license:
   content: CC-BY-4.0
