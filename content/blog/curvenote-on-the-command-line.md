@@ -33,11 +33,9 @@ license:
 
 # Curvenote on the Command Line
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/82oRYfpgGvE7G2qNPo4G.8"}
++++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/82oRYfpgGvE7G2qNPo4G.9"}
 
-Over the past few months, we've been busy building a new [open source Command Line Interface](https://github.com/curvenote/curvenote) (CLI) that sits on top of our content translation schemas and talks to the Curvenote API. *Why a CLI?* Command line interfaces can pack a lot of punch, exposing a variety of functionality in one small space. They can be used interactively as well as invoked from scripts for all sorts of automation tasks.
-
-CLIs can also be colorful and conversational (and have emojis 🚀), making them easy to interact with even if you are not used to working in a terminal. We've put a lot of time and care into the design of our CLI to make it easy to use and so you can get results quickly.
+Over the past few months, we've been busy building an [open source Command Line Interface](https://github.com/curvenote/curvenote) (CLI) that sits on top of our content translation schemas and talks to the Curvenote API. We've put a lot of time and care into the design of the Curvenote CLI to make it easy to use and so you can get results quickly. In this post, we will dive into the main capabilities of the Curvenote CLI.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-ccfeL3kOZ4evwjxVsL2w-v1.png
 :name: W3bCLowsvb
@@ -47,19 +45,21 @@ CLIs can also be colorful and conversational (and have emojis 🚀), making them
 The Curvenote CLI after you run `curvenote init`
 ```
 
-In this post, we'll dive into the main capabilities of the CLI and talk more about what is coming up on our roadmap.
+## Installing the Curvenote CLI
 
-## The Curvenote CLI
+The new Curvenote CLI runs in [NodeJS](https://curvenote.com/docs/cli/installing-prerequisites). You can [install the Curvenote CLI](https://curvenote.com/docs/cli/installing) using node v14 or greater:
 
-The new Curvenote CLI is built in Typescript and runs on the [NodeJS Javascript runtime](https://curvenote.com/docs/cli/installing-prerequisites). Even if you are not familiar with NodeJS, it is probably already running behind the scenes on your machine powering something like Jupyter, Slack, Spotify, VS Code, or the Atom editor.
+```shell
+npm install -g curvenote
+```
 
-NodeJS (or `node`) comes with a package manager called `npm` which allows for direct and easy installation of a huge ecosystem of packages. If you work with python, then think of \`npm\` as \`pip\` for \`node\`. We chose a Javascript runtime for our CLI as it's easy to deliver the CLI on multiple platforms, leverage our open source content translation schemas, and include other web-based packages and technology.
+You can [learn more about installing Node or NPM](https://curvenote.com/docs/cli/installing-prerequisites) if those tools aren’t familiar.
 
-The CLI can work completely locally on your content and files. It can also connect and synchronize with the Curvenote API, opening up a world of collaboration possibilities for working with others whether they are working online in the [Curvenote editor](https://curvenote.com), in the Curvenote Jupyter extension, or on the command line.
+The CLI can work completely locally on your content and files. It can also connect and synchronize with the Curvenote API (learn [how to get an API key](https://curvenote.com/docs/cli/authorization)), opening up collaborations between folks working online in the [Curvenote editor](https://curvenote.com/for/writing), in the [Curvenote Jupyter extension](https://curvenote.com/for/jupyter), or locally through the command line.
 
 ## Creating Websites
 
-A huge function of the CLI is to provide a simple development experience building, writing content for and publishing a static website designed for open science publications — whether that's a [preprint or paper](https://www.stevejpurves.com/geoscience), [materials for a whole research project](https://www.stevejpurves.com/la-palma-earthquakes) or a [full Ph.D. thesis](https://phd.row1.ca). Other examples include:
+The CLI provides a simple development experience for writing content and publishing websites designed for open science publications — whether that's a [preprint or paper](https://www.stevejpurves.com/geoscience), [materials for a whole research project](https://www.stevejpurves.com/la-palma-earthquakes) or a [full Ph.D. thesis](https://phd.row1.ca). Other examples include:
 
 - [Courses](https://geosci-inversion.curve.space) & [books](https://climasoma.curve.space/)
 - [Seminar](https://seminars.simpeg.xyz/) & [conference](https://transform.softwareunderground.org/) websites
@@ -100,7 +100,7 @@ Here is a demo where Rowan got a full live demo done in 2 minutes and 54 seconds
 Check out our tutorials on different routes to get started:
 
 - [Start from a local folder](https://curvenote.com/docs/web/tutorial-deploy-local)
-- [Start from a Curvenote project](https://curvenote.com/docs/web)
+- [Start from a Curvenote project](https://curvenote.com/docs/web/tutorial-deploy-project)
 
 ````
 
@@ -112,9 +112,11 @@ At the moment there are two commands that allow you to sync content. Those are `
 
 First, let’s take a look at `clone`
 
-```python
-curvenote clone <https://curvenote.com/username/my-project>
+```shell
+curvenote clone <https://curvenote.com/@username/my-project>
 ```
+
+For example, try `curvenote clone https://curvenote.com/@templates/web`
 
 This command can behave in one of two ways:
 
@@ -131,7 +133,7 @@ Next, let’s take a look at `pull`, which can only be run from within an initia
 curvenote pull [optional/content/path]
 ```
 
-This command allows you to pull the latest updates for content in all projects or a just specific project if the optional path is provided.
+This command allows you to pull the latest updates for content in all projects, or a specific project or document if the optional path is provided.
 
 ### Roadmap
 
