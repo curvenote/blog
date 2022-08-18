@@ -6,7 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
-      - file: research-software-engineering-coference-2022
+      - file: research-software-engineering-conference-2022
       - file: share-research-online-in-60-seconds
       - file: curvenote-on-the-command-line
       - file: working-locally-with-myst-markdown
