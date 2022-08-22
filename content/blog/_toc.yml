@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: one-click-publishing-for-open-research
       - file: research-software-engineering-conference-2022
       - file: share-research-online-in-60-seconds
       - file: curvenote-on-the-command-line
