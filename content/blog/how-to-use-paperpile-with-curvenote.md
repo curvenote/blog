@@ -12,6 +12,7 @@ date: 2022-11-25
 venue:
   title: Guest Post by Paperpile
   url: https://paperpile.com/
+thumbnail: thumbnails/paperpile.png
 tags:
   - citations
   - tutorial
@@ -53,7 +54,7 @@ We describe both use-cases through simple step-by-step guides. But first, we sho
 
 To organize your papers, we recommend only including the references that you need for your Curvenote project, and using the full reference management capabilities of Paperpile. This is easy to do by creating a folder that contains all the references for your project.
 
-To create a new folder in Paperpile, follow these steps!!:
+To create a new folder in Paperpile, follow these steps:
 
 1. In the left-hand toolbar in the Paperpile web app, go to _FOLDERS_ > click the plus symbol _Add new folder_
 
@@ -141,14 +142,14 @@ We describe how to set up Paperpile’s integration with GitHub and Curvenote in
 **Step 1: Clone your Curvenote project locally**
 
 1. Install the Curvenote CLI with `npm install -g curvenote`, [detailed instructions are here](https://curvenote.com/docs/cli).
-2. You can either choose to work with your Markdown (`.md`) or Jupyter Notebook (`.ipynb`) files in GitHub or work with a GitHub repository locally. In this use-case, we clone a git repository.
+2. You can either choose to work with your Markdown (`.md`) or Jupyter Notebook (`.ipynb`) files [from an existing Curvenote project](https://curvenote.com/docs/web/tutorial-deploy-project) or work with a [GitHub repository locally](https://curvenote.com/docs/web/tutorial-deploy-local). In this use-case, we clone a git repository:
 
    ```shell
    git clone https://github.com/sakelariev/curvenote.git blog
    Cloning into 'blog'...
    ```
 
-3. Go to the folder that you have created using `cd <name_of_folder>`(`cd blog` in our example) and type `curvenote init` to create a local version of your copied project.
+3. Go to the folder that you have created using `cd <name_of_folder>`(`cd blog` in our example) and type `curvenote init` to create a local website of your project.
 
    ```{code-block} shell
    :linenos:
