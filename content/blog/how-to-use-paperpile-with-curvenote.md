@@ -286,7 +286,7 @@ We describe how to set up Paperpile’s integration with GitHub and Curvenote in
    Rendered citations in your Curvenote site.
    ```
 
-Now the best thing about Paperpile’s GitHub integration with Curvenote is that it is **dynamic**—every time you add a new reference to your Paperpile folder, you’ll be able to insert it as a citation to your Curvenote document given that you have fetched and pulled the latest changes locally. [There are many options afterwards for [deploying your Curvenote site from GitHub](https://curvenote.com/docs/web/github-action) or exporting your content to PDF, LaTeX or Word.
+Now the best thing about Paperpile’s GitHub integration with Curvenote is that it is **dynamic**—every time you add a new reference to your Paperpile folder, you’ll be able to insert it as a citation to your Curvenote document given that you have fetched and pulled the latest changes locally. Once you have created a site with Curvenote, [deploy your Curvenote site from GitHub](https://curvenote.com/docs/web/github-action) or easily export your content to PDF, LaTeX or Word.
 
 This makes the workflow really useful for collaborative projects where bibliographies need to be updated frequently—like journal club websites, or laboratory group websites.
 
