@@ -5,7 +5,7 @@ site:
     - blog.curvenote.com
     # - curvenote-blog.curve.space
   logo: public/logo.svg
-  logoText: Curvenote
+  logo_text: Curvenote
   twitter: curvenote
   nav: []
   projects:
