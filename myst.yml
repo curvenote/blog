@@ -14,6 +14,6 @@ site:
   actions:
     - title: Sign Up
       url: https://curvenote.com/signup
-  analytics:
-    google: G-8P87DBPQRS
+  analytics_google: G-8P87DBPQRS
   venue: Curvenote
+  template: /Users/rowan/git/curvenote/book-theme
