@@ -23,13 +23,13 @@ tags:
 
 The need for interactive and explorable content has changed scientific publishing significantly in the last 20 years. The Jupyter project is one of the main advances in the production of “living” scientific documents. Jupyter Notebooks are one of the most popular computational notebook formats among academic researchers and data scientists.
 
-Curvenote is a tool for [scientific writing](https://curvenote.com/for/writing) and publishing that [integrates directly with Jupyter notebooks](https://curvenote.com/for/jupyter). One of Curvenote’s many strengths is its easy-to-use reference management. References can be uploaded as a BibTeX (.bib) file, a structured format that stores bibliographic information.
+Curvenote is a tool for [scientific writing](https://curvenote.com/for/writing) and publishing that [integrates directly with Jupyter notebooks](https://curvenote.com/for/jupyter). One of Curvenote’s many strengths is its easy-to-use reference management. References can be uploaded as a BibTeX (`.bib`) file, a structured format that stores bibliographic information.
 
 But, how do you quickly create a BibTeX file containing your references for your Curvenote project? [Paperpile](http://paperpile.com/) offers two solutions to this problem—one simple, and one that is a bit more technical.
 
 **But first, what is Paperpile?**
 
-Paperpile is a web-based reference management tool that offers BibTeX support and dynamic integration with external platforms. You can collect, store, and organize your references, all in one app. Reference lists can be easily exported to .bib files.
+Paperpile is a web-based reference management tool that offers BibTeX support and dynamic integration with external platforms. You can collect, store, and organize your references, all in one app. Reference lists can be easily exported to `.bib` files.
 
 With Paperpile, you can:
 
@@ -38,11 +38,11 @@ With Paperpile, you can:
 - View and [annotate PDFs](https://paperpile.com/features/pdf-annotator/);
 - Customize BibTeX output.
 
-In this tutorial, we’ll show you how to create a .bib file for your Curvenote project in two ways so that you can benefit from all the conveniences of Paperpile.
+In this tutorial, we’ll show you how to create a `.bib` file for your Curvenote project in two ways so that you can benefit from all the conveniences of Paperpile.
 
 The first way shows you how to generate a static BibTeX file using Paperpile that can be uploaded to the Curvenote web app, but the file needs to be manually updated each time you change or add new references.
 
-The second way is suitable for GitHub users and requires you to install the Curvenote CLI, but it creates a dynamic integration between Paperpile and Curvenote.
+The second way requires you to install the Curvenote CLI and creates a dynamic integration between Paperpile and Curvenote.
 
 We describe both use-cases through simple step-by-step guides. But first, we show you how to collect and organize your references in Paperpile.
 
@@ -113,7 +113,7 @@ Download any Paperpile folder as a BibTeX file.
    Easily import references in Curvenote using the Reference Management tool.
    ```
 
-2. Click _UPLOAD BIBTEX_ to add the BibTeX (.bib) file to your project:
+2. Click _UPLOAD BIBTEX_ to add the BibTeX (`.bib`) file to your project:
 
    ```{figure} paperpile/curvenote-upload.png
    :align: center
@@ -149,7 +149,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
    Cloning into 'blog'...
    ```
 
-3. Go to the folder that you have created using `cd <name_of_folder>`(`cd blog` in our example) and type `curvenote init` to create a local website of your project.
+3. Go to the folder that you have created using `cd <name_of_folder>` (`cd blog` in our example) and type `curvenote init` to create a local website of your project.
 
    ```{code-block} shell
    :linenos:
@@ -227,7 +227,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
    Create a BibTeX export workflow in Paperpile.
    ```
 
-4. Select _GitHub_, add the name of your repository and choose a name for the .bib file that you’d like to sync with the repository ([see Paperpile's GitHub documentation](https://paperpile.com/h/automatic-bibtex-export/))
+4. Select _GitHub_, add the name of your repository and choose a name for the `.bib` file that you’d like to sync with the repository ([see Paperpile's GitHub documentation](https://paperpile.com/h/automatic-bibtex-export/))
 
 5. Authorize the **paperpile-bot** to push your `.bib` file to the GitHub repository. Follow the instructions on the screen to add the **paperpile-bot** as a collaborator to the repository. Ensure that the **paperpile-bot** has _Write_ permissions (permissions can be changed under _Settings > Access > Collaborators and teams_ in GitHub).
 
@@ -239,7 +239,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
 
 **Alternative: Use live link**
 
-An alternative to pushing a BibTeX file to a GitHub repository is to export to a live link. The link works in the same way as the GitHub workflow, in that it will be updated when any changes to the folder associated with the workflow are made, but without the version control of GitHub. To get the link, after selecting the BibTeX Export workflow, select the Download Link option, choose a name for the .bib file, and click Finish. Then copy the link.
+An alternative to pushing a BibTeX file to a GitHub repository is to export to a live link. The link works in the same way as the GitHub workflow, in that it will be updated when any changes to the folder associated with the workflow are made, but without the version control of GitHub. To get the link, after selecting the BibTeX Export workflow, select the Download Link option, choose a name for the `.bib` file, and click Finish. Then copy the link.
 
 ```{figure} paperpile/paperpile-live-link.png
 :align: center
@@ -249,7 +249,7 @@ Export to a live link.
 
 **Step 3: Import the BibTeX file to your Curvenote project**
 
-1. Return to your Curvenote project folder and open the `curvenote.yml` file using a text editor. Under `project`, add the `bibliography` option add the name of the `.bib` file. (If you have chosen the live link option, instead of typing the name of the .bib into the curvenote.yml file, copy the link from Paperpile’s BibTeX Export workflow, add the bibliography option to the .yml file, and paste the link there.)
+1. Return to your Curvenote project folder and open the `curvenote.yml` file using a text editor. Under `project`, add the `bibliography` option add the name of the `.bib` file. (If you have chosen the live link option, instead of typing the name of the `.bib` into the curvenote.yml file, copy the link from Paperpile’s BibTeX Export workflow, add the bibliography option to the .yml file, and paste the link there.)
 
    ```{code-block} yaml
    :linenos:
@@ -305,9 +305,9 @@ This makes the workflow really useful for collaborative projects where bibliogra
 # Other Tips!
 
 - You can obtain a BibTeX citation key for any reference from Paperpile by selecting the reference, using _Ctrl-B_ to copy the BibTeX item to the clipboard, and clicking _View._
-- An alternative way to create a bibliography for your Curvenote project is to generate a reference list using a Paperpile label. Labels allow you to organize your references by topic, and they can also be exported as .bib files, using the steps above.
+- An alternative way to create a bibliography for your Curvenote project is to generate a reference list using a Paperpile label. Labels allow you to organize your references by topic, and they can also be exported as `.bib` files, using the steps above.
 - Have a complex project, like a thesis? You can add multiple Paperpile folders or labels to a Curvenote project in the web app. Simply generate a BibTeX file for each one and the references will be combined into one database in the Curvenote web app without duplication.
-- Need to export a bibliography from the Curvenote web app and add the references to Paperpile? To export the BibTeX file from a Curvenote project, Click Download options > Export As > TEX. The .bib file will be included in the .zip file containing the LaTeX source files. Then upload the .bib file to Paperpile by selecting _Add papers > Upload files > Choose file(s)._
+- Need to export a bibliography from the Curvenote web app and add the references to Paperpile? To export the BibTeX file from a Curvenote project, Click Download options > Export As > TEX. The `.bib` file will be included in the .zip file containing the LaTeX source files. Then upload the `.bib` file to Paperpile by selecting _Add papers > Upload files > Choose file(s)._
 ```
 
 ## Final thoughts
