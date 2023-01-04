@@ -16,7 +16,6 @@ thumbnail: thumbnails/paperpile.png
 tags:
   - citations
   - tutorial
-  - draft
 ---
 
 +++
