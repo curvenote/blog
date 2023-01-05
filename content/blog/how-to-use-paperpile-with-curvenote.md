@@ -1,5 +1,6 @@
 ---
-title: 'How to use Paperpile with Curvenote: a simple guide'
+title: How to use Paperpile with Curvenote
+subtitle: A simple guide
 description: Create BibTex files for your Curvenote project using Paperpile. This guide shows two ways to easily connect Paperpile to Curvenote to make reference management easy.
 authors:
   - name: Suzanne O'Regan
