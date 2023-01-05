@@ -27,6 +27,12 @@ Curvenote is a tool for [scientific writing](https://curvenote.com/for/writing) 
 
 But, how do you quickly create a BibTeX file containing your references for your Curvenote project? [Paperpile](http://paperpile.com/) offers two solutions to this problem—one simple, and one that is a bit more technical.
 
+```{figure} paperpile/citations-refs.gif
+:align: center
+:width: 95%
+Easily search through your Paperpile references directly when you are writing in Curvenote!
+```
+
 **But first, what is Paperpile?**
 
 Paperpile is a web-based reference management tool that offers BibTeX support and dynamic integration with external platforms. You can collect, store, and organize your references, all in one app. Reference lists can be easily exported to `.bib` files.
