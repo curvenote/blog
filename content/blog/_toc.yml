@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: how-to-use-latex-with-myst-markdown
       - file: how-to-use-paperpile-with-curvenote
       - file: one-click-publishing-for-open-research
       - file: research-software-engineering-conference-2022

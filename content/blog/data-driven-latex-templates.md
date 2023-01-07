@@ -15,6 +15,7 @@ name: building-data-driven-latex-templates-for-curvenote
 oxa: oxa:DOHMeg040aVXqR51yjBy/ea0jxy5eSPndzWVUXhi2
 tags:
   - open-source
+  - latex
 thumbnail: thumbnails/data-driven-latex-templates.png
 ---
 
