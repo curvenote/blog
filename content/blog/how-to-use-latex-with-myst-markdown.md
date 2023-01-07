@@ -9,6 +9,7 @@ authors:
     corresponding: true
     affiliations:
       - Curvenote
+      - Executable Books
 oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 thumbnail: thumbnails/how-to-use-latex-with-myst-markdown.png
 tags:
@@ -66,7 +67,7 @@ One of the things that makes $\LaTeX$ very hard to use are the confusing error a
 >
 > - Your friendly, conversational $\LaTeX$ Compiler
 
-One of the things that I really like about MyST is that it gives specific and actionable error messages. For example, {numref}`Figure %s <Rn9RrPJs6g>` is a rendering of an article with warnings. Some of the warnings are about using math, the warnings are created to be actionable (i.e. that have enough information about what should be improved with links to other sources), and specific — there is a line number and column number of the exact location of the issue. If you are using a tool like VSCode, you can actually **click on those error** messages and the editor will open to the **exact location** of the warning.
+One of the things that I really like about MyST is that it gives specific and actionable error messages. For example, {numref}`Figure %s <Rn9RrPJs6g>` is a rendering of an article with warnings. Some of the warnings are about using math, the warnings are created to be actionable (i.e. that have enough information about what should be improved with links to other sources), and specific — there is a line number and column number of the exact location of the issue. If you are using a tool like VSCode, you can actually click on those error messages and the editor will open to the exact location of the warning.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-mNyPVqog8PEHIFIJEY1j-v1.png
 :name: Rn9RrPJs6g
