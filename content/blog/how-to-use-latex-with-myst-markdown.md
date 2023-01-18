@@ -15,6 +15,7 @@ thumbnail: thumbnails/how-to-use-latex-with-myst-markdown.png
 tags:
   - latex
   - tutorial
+  - myst
 keywords:
   - LaTeX Parser
   - MyST Markdown

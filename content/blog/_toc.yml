@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: writing-a-scientific-paper-faster-myst-markdown
       - file: how-to-use-latex-with-myst-markdown
       - file: how-to-use-paperpile-with-curvenote
       - file: one-click-publishing-for-open-research

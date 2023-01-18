@@ -22,7 +22,7 @@ license:
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QfMbOBEtLQq6HjSBlzKT.2"}
 
-We recently [released the first version of the Curvenote command-line tools](oxa:AVQ2dzLNloEd25Io8NbA/mdBajFyoGAFAQGWjmpWf "Curvenote on the Command Line") to work locally with content from Curvenote. You can read the documentation here: <https://curvenote.com/docs/cli>. With the CLI, you can easily export an article to MyST Markdown, a new Markup language designed by [Executable Books](https://executablebooks.org/en/latest/) (we are on the [team](https://executablebooks.org/en/latest/team.html)!) to create publication-quality, computational documents written entirely in Markdown.
+We recently [released the first version of the Curvenote command-line tools](oxa:AVQ2dzLNloEd25Io8NbA/mdBajFyoGAFAQGWjmpWf 'Curvenote on the Command Line') to work locally with content from Curvenote. You can read the documentation here: <https://curvenote.com/docs/cli>. With the CLI, you can easily export an article to MyST Markdown, a new Markup language designed by [Executable Books](https://executablebooks.org/en/latest/) (we are on the [team](https://executablebooks.org/en/latest/team.html)!) to create publication-quality, computational documents written entirely in Markdown.
 
 Stay tuned for new ways to share and manage publication quality content on Curvenote. 🚀
 
@@ -30,7 +30,7 @@ Stay tuned for new ways to share and manage publication quality content on Curve
 
 ## Markedly Structured Text (MyST)
 
-MyST (Markedly Structured Text) is designed to create publication-quality, computational documents written entirely in Markdown. The main community driving the development and design of MyST is [JupyterBook](https://jupyterbook.org/), which helps you create educational online textbooks and tutorials with Jupyter Notebooks and narrative content written in MyST. The MyST format has also been picked up in the [Sphinx](https://www.sphinx-doc.org/en/master/usage/markdown.html) and [ReadTheDocs](https://blog.readthedocs.com/sphinx-markdown-2021/) communities as well, which are used primarily for Python software documentation (which previously would have used [ReStructured Text](https://en.wikipedia.org/wiki/ReStructuredText)). The fantastic thing about these communities is that there are ways to create new extensions and use these extensions *directly from the RST language*; this extensibility and community can now be accessed through MyST Markdown!
+MyST (Markedly Structured Text) is designed to create publication-quality, computational documents written entirely in Markdown. The main community driving the development and design of MyST is [JupyterBook](https://jupyterbook.org/), which helps you create educational online textbooks and tutorials with Jupyter Notebooks and narrative content written in MyST. The MyST format has also been picked up in the [Sphinx](https://www.sphinx-doc.org/en/master/usage/markdown.html) and [ReadTheDocs](https://blog.readthedocs.com/sphinx-markdown-2021/) communities as well, which are used primarily for Python software documentation (which previously would have used [ReStructured Text](https://en.wikipedia.org/wiki/ReStructuredText)). The fantastic thing about these communities is that there are ways to create new extensions and use these extensions _directly from the RST language_; this extensibility and community can now be accessed through MyST Markdown!
 
 MyST is a superset of [CommonMark](https://commonmark.org/) (the standard form of Markdown) and allows you to directly create “directives” and “roles” as extension points in the language. `directives` are block-level extension points, like callout panels, tabs, figures, or embedded charts; and `roles` are inline extension points, for components like references, citations, or inline math.
 
@@ -86,4 +86,3 @@ This is a {abbr}`MyST (Markedly Structured Text)` "role" that creates an abbrevi
 ````
 
 To get started with your Curvenote projects locally, you can use `curvenote clone [link]` after you install the [command line tools](https://curvenote.com/docs/cli/installing). Let us know how this works for you! 🚀
-
