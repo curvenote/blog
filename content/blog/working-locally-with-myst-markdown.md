@@ -9,7 +9,7 @@ name: working-locally-with-myst-markdown
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/sJUUaICKGzXalbdD7xmy
 short_title: ''
 tags:
-  - myst
+  - MyST
   - cli
 thumbnail: thumbnails/working-locally-with-myst-markdown.png
 authors: []
@@ -17,8 +17,6 @@ license:
   content: CC-BY-4.0
   code: MIT
 ---
-
-# Working Locally With MyST Markdown
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QfMbOBEtLQq6HjSBlzKT.2"}
 
