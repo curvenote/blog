@@ -16,7 +16,7 @@ oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 thumbnail: thumbnails/how-to-export-to-pdf-latex-using-curvenote.png
 tags:
   - tutorial
-  - latex
+  - LaTeX
 ---
 
 # How to export to PDF & LaTeX using Curvenote
