@@ -41,7 +41,7 @@ Markdown is a lightweight markup language that puts the focus on content. Its po
 Example of using MyST for a [PhD Thesis](https://phd.row1.ca/).
 ```
 
-`directives` and `roles` enable cross-referencing, citations, numbering, figures, and captions alongside other document elements with support for LaTeX-based math. The flexibility and breadth of the format make it perfect for both scientific writing and as an interchange format between other representations like LaTeX, HTML and even MD Word’s DOCX. Try writing some MyST online in the [MyST Sandbox](https://myst.tools/sandbox).
+`directives` and `roles` enable cross-referencing, citations, numbering, figures, and captions alongside other document elements with support for LaTeX-based math. The flexibility and breadth of the format make it perfect for both scientific writing and as an interchange format between other representations like $\LaTeX$, HTML and even Microsoft Word. Try writing some MyST online in the [MyST Sandbox](https://myst.tools/sandbox).
 
 ## MyST Command Line Tools
 
