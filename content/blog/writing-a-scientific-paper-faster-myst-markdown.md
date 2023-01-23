@@ -48,7 +48,7 @@ Example of using MyST for a [PhD Thesis](https://phd.row1.ca/).
 MyST has a [well defined specification](https://myst.tools/docs/spec) and there are a number of ways of working with MyST documents. In particular, a new [`myst` command line tool](https://myst.tools/docs/mystjs) and related tool chain have been recently released that both offers exciting capabilities and departs from sphinx-based engines for building documents in favour of a more interactive, web-first javascript-based approach, namely:
 
 - Publish your work as a rich interactive website one of a number of templates, with first-class support for the features needed in scientific articles
-- Generate publication ready pdfs
+- Generate publication ready PDFs
 - Convert to and from `myst` `tex`, `docx` and `jats`
 - Write and work in `.md`, `.tex` or `.ipynb` interchangeably
 
