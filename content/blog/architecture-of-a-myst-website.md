@@ -9,6 +9,7 @@ authors:
     roles: []
     affiliations:
       - Curvenote
+    orcid: 0000-0002-6393-7058
   - name: Rowan Cockett
     orcid: 0000-0002-7859-8394
     roles: []
@@ -18,7 +19,7 @@ date: '2023-01-22T07:43:56.379Z'
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/h2RAELuGOMcW9OzzRTEB
 subtitle: On the importance of structured data
 tags:
-  - myst
+  - MyST
   - cli
 thumbnail: thumbnails/architecture-of-a-myst-website.png
 license:
