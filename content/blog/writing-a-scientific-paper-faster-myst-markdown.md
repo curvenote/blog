@@ -12,20 +12,10 @@ tags:
 thumbnail: thumbnails/writing-a-scientific-paper-faster-myst-markdown.png
 authors:
   - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
     affiliations:
       - Curvenote
 ---
-
-```{important}
-**Signup for the MyST Webinar on 25th January**
-
-Learn more about MyST Markdown and find out how to easily get set up with a local authoring environment by joining our tutorial webinar next week. [👉 **Sign up here** 👈](https://www.eventbrite.ca/e/writing-a-scientific-paper-faster-with-myst-markdown-tickets-511456017717) and receive a link to join.
-```
 
 Markdown is a lightweight markup language that puts the focus on content. Its popularity stems from simplicity, and separation from presentational concerns while it still allows structure and formatting to be added with minimal additional work. With that simplicity comes limitations that make it difficult to use fully in technical and academic writing, e.g. the base specification of Markdown, CommonMark, lacks features for complex tables, figures & captions, cross references and other features that are essential in technical and scientific writing.
 
@@ -52,16 +42,14 @@ MyST has a [well defined specification](https://myst.tools/docs/spec) and there 
 - Convert to and from `myst` `tex`, `docx` and `jats`
 - Write and work in `.md`, `.tex` or `.ipynb` interchangeably
 
-## Come along to our tutorial
+## Check out the webinar recording 📺
 
-We’re hosting a tutorial on 25th January at 4pm UTC, covering how to start writing your next paper, report or even your thesis in MyST Markdown where you’ll be able to generate a professional PDF and a journal-quality website for your work, all based on the same body of content.
+Check out the [recording of the tutorial](https://www.youtube.com/watch?v=NxSNVt9XsCI) on YouTube to get setup on writing in MyST and using the new [myst.tools](https://myst.tools) toolchain.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-vLLmFPBEGTDgFjXN20V4-v1.png
-:name: cFQbUm2DfL
+```{iframe} https://www.youtube-nocookie.com/embed/NxSNVt9XsCI
+:label: ICv58H0IfQ
 :align: center
 :width: 100%
-
-Sign up for the [MyST Markdown writing tutorial](https://www.eventbrite.ca/e/writing-a-scientific-paper-faster-with-myst-markdown-tickets-511456017717).
 ```
 
-Sign up for the [free webinar here](https://www.eventbrite.ca/e/writing-a-scientific-paper-faster-with-myst-markdown-tickets-511456017717) and get a tutorial on writing in MyST and getting set up with and using the new [myst.tools](https://myst.tools) toolchain.
+We hosted a tutorial on 25th January at 4pm UTC, covering how to start writing your next paper, report or even your thesis in MyST Markdown where you’ll be able to generate a professional PDF and a journal-quality website for your work, all based on the same body of content.
