@@ -20,7 +20,9 @@ tags:
 thumbnail: thumbnails/force11-2021-recap.png
 ---
 
-# FORCE11 2021 Recap
+```{note} Press Release
+Read the press release on [Curvenote Sponsors FORCE11 to Promote Open Science and Reproducibility](https://curvenote.com/news/curvenote-sponsors-force11-2021).
+```
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Zh8aKj5gkYZkHlx1pY8I.3"}
 

@@ -19,6 +19,10 @@ tags:
   - presentation
 ---
 
+```{note} Press Release
+Read the press release on [Curvenote Accepted into Creative Destruction Lab](https://curvenote.com/news/curvenote-accepted-into-creative-destruction-lab).
+```
+
 # Creative Destruction Lab
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/PSrJkDAIRbJoe4LfIF82.3"}
