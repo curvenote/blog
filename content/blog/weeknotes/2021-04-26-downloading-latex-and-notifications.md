@@ -10,6 +10,7 @@ name: 2021-04-26-downloading-latex-and-notifications
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/H8nSGGRIyhujXTilc3MB
 tags:
   - latex
+  - weeknote
 thumbnail: thumbnails/2021-04-26-downloading-latex-and-notifications.png
 ---
 
@@ -54,4 +55,3 @@ Starts of the notification system - in app and email - plans to introduce this f
 :align: center
 :width: 100%
 ```
-
