@@ -14,23 +14,45 @@ parts:
       - file: one-click-publishing-for-open-research
       - file: research-software-engineering-conference-2022
       - file: share-research-online-in-60-seconds
+      - file: weeknotes/2022-08-15-one-click-publishing-webinar
       - file: curvenote-on-the-command-line
       - file: working-locally-with-myst-markdown
       - file: creating-an-open-research-website
+      - file: weeknotes/2022-08-08-orcid-integration
       - file: international-data-week-metadata-reproducibility
+      - file: weeknotes/2022-08-01-hidden-pages-thebe
+      - file: weeknotes/2022-07-18-publish-from-curvenote
       - file: future-of-research-communication-and-collaboration
       - file: deploy-a-scientific-website-in-five-minutes
+      - file: weeknotes/2022-07-11-thumbnails-and-meeting-in-person
+      - file: weeknotes/2022-07-04-how-we-deploy-curvenote
       - file: from-jupyter-notebook-to-scientific-paper
+      - file: weeknotes/2022-06-27-themes-and-interactive-computing
+      - file: weeknotes/2022-06-20-try-curvenote-metadata-talk-webinar
       - file: reusing-and-remixing-science
       - file: code-mark
       - file: communicating-science
       - file: version-control-for-scientists
+      - file: weeknotes/2022-06-13-document-outline-and-documentation
+      - file: weeknotes/2022-05-30-metadata-analytics-docs
       - file: collaboration-in-scientific-writing
+      - file: weeknotes/2021-09-08-marketing-and-jupyterlite
       - file: how-to-export-to-pdf-latex-using-curvenote
+      - file: weeknotes/2021-08-16-permissions-tables-figures-diffs
       - file: data-driven-latex-templates
+      - file: weeknotes/2021-08-09-volcanica-journal-template
       - file: exporting-to-docx
       - file: introducing-curvenote
       - file: introducing-curvenote-pro
+      - file: weeknotes/2021-08-02-arxiv-templates-curvenote-rebrand
+      - file: weeknotes/2021-07-26-new-navigation-and-public-projects
+      - file: weeknotes/2021-07-19-hover-effects-and-search-engines
+      - file: weeknotes/2021-07-05-export-templates-and-jtex
+      - file: weeknotes/2021-06-28-tables-cross-references-and-citations
+      - file: weeknotes/2021-06-14-improving-speed-of-curvenote
+      - file: weeknotes/2021-06-07-thumbnails-when-you-share-articles
+      - file: weeknotes/2021-05-24-version-control-and-layout
+      - file: weeknotes/2021-04-26-downloading-latex-and-notifications
       - file: creative-destruction-lab
       - file: ycombinator-application
       - file: force11-2021
