@@ -1,6 +1,6 @@
 ---
 title: Top takeaways from JupyterCon 2023
-subtitle: The latest in all things Jupyter & Science Communication
+subtitle: Science Communication and Jupyter
 description: 'Curvenote and ExecutableBooks were at JuptyerCon 2023 in Paris, between all the amazing announcements & talks, here are our main takeaways.'
 date: 2023-05-26
 tags:
@@ -26,11 +26,11 @@ A week ago the Curvenote team headed to Paris for JupyterCon 2023!
 :alt: CITÉ DES SCIENCES ET DE L'INDUSTRIE, PARIS
 ```
 
+The event itself felt great, generated a solid feeling of community, was friendly and jam packed with success stories on the use of Jupyter across different scientific fields and projects, alongside the latest news on technical developments in the ecosystem.
+
 For Mike, who is a relative newbie to Jupyter notebooks, it was an eye opener and he came out realizing that Jupyter is able to back the future of intertactive scientific publishing, and convinced that MyST Markdown can change the impact of open science initiatives right now. This is from the perspective of authoring (in Jupyter Lab), reading (in MyST websites) and interactive computation (backend by BinderHub and JupyterHub).
 
-Steve and Franklin were also attending and speaking at the event, showing off the capabilities of MyST for publishing, the `jupyterlab-myst` extension and `thebe` for headless interactive computing with the MyST website themes.
-
-The event itself felt great, generated a feeling of community, friendly and jam packed with success stories on the use of Jupyter across different scientific fields and projects, alongside the latest news on technical developments in the ecosystem.
+Steve and Franklin were also attending and speaking at the event, showing off the capabilities of MyST for publishing, the [`jupyterlab-myst`](https://github.com/executablebooks/jupyterlab-myst) extension and [`thebe`](https://github.com/executablebooks/thebe) for headless interactive computing with the MyST website themes.
 
 It’s hard to capture all the high’s from the event but here are some of our own takeaways.
 
@@ -44,13 +44,21 @@ It’s hard to capture all the high’s from the event but here are some of our 
 
 \[Mike\]: In my field, psychology, analysis and writing are completely separate. It's at least two different programs (eg R studio and Word), two different frames of mind, two separate steps in your science workflow. And maybe two different people.
 
-When you write scientific papers in Jupyter though you weave together narrative, code, and figures all together in whatever order helps tell the story of your science. Seeing how [`jupyterlab-myst`](https://pypi.org/project/jupyterlab-myst/) works and how it was received from both Franklin’s MyST talk and [Steve’s lightning talk](#lightning-talk), this makes for much more engaging scientific articles, and a more seamless workflow for authors because you don’t have to context switch as much and you can do so much more from inside Jupyter Lab.
+When you start writing scientific papers in Jupyter though you can weave together narrative, code, and figures all together in whatever order helps tell the story of your science. Seeing how [`jupyterlab-myst`](https://pypi.org/project/jupyterlab-myst/) works and how it was received from both [Franklin’s MyST talk](#myst-talk) and [Steve’s lightning talk](#lightning-talk), this makes for much more engaging scientific articles, and a more seamless workflow for authors because you don’t have to context switch as much and you can do so much more from inside Jupyter Lab.
 
 ## It’s time for “lite”
 
-\[Styeve\]: [Jupyterlite](https://jupyterlite.readthedocs.io/en/latest/) generated a lot of excitement led by [a talk from Jeremy Tuloup](https://cfp.jupytercon.com/2023/talk/EU7HFP/) in the opening session. JupyterLite provides an in-browser Jupyter experience backed by a Web Assembly (WASM) kernel which completely changes the equation for deploying interactive computing to the web — one that can dramatically improve accessibility and reduce costs of delivering computational articles resources to people.
+\[Steve\]: [Jupyterlite](https://jupyterlite.readthedocs.io/en/latest/) generated a lot of excitement led by [a talk from Jeremy Tuloup](https://cfp.jupytercon.com/2023/talk/EU7HFP/) in the opening session. JupyterLite provides an in-browser Jupyter experience backed by a Web Assembly (WASM) kernel which completely changes the equation for deploying interactive computing to the web — one that can dramatically improve accessibility and reduce costs of delivering computational articles resources to people.
 
-With big immediate use cases for the full JupyterLite experience in education and documentation, we also heard about the nascent [BinderLite project from Yuvi Panda](https://github.com/jupyterlite/repo2jupyterlite) and how [thebe](https://github.com/executablebooks/thebe) provides a headless JupyterLite server as a drop in library `thebe-lite`. [See thebe in action here](https://executablebooks.github.io/thebe).
+With big immediate use cases for the full JupyterLite experience in education and documentation, we also heard about the nascent [BinderLite project from Yuvi Panda](https://github.com/jupyterlite/repo2jupyterlite) and how [thebe](https://github.com/executablebooks/thebe) provides a headless JupyterLite server as a drop in library `thebe-lite`. [See thebe in action here](https://executablebooks.github.io/thebe) and catch [Steve's thebe talk here](#thebe-talk).
+
+## Trust & know who you're getting your notebook from
+
+\[Steve\]: The two keynotes at the event were from Alyssa Goodman on the [Glupyer framework](https://jdaviz.readthedocs.io/en/latest/dev/ui_description.html) and some of the astronomical discoveries made possible by computational collaboration 💫 -- and from [Paul Romer](https://paulromer.net/) on Trust.
+
+Paul's talk really reasonated with me, not just because of the unique mathematical narrative style he used to go though some of the most complex concepts in math and cryptography, but also because it was a pull back the curtain moment on our current digital lives, reminding the audience of the enormously powerful tools for communication and security we have available to us, if only we know how to think about them and use them.
+
+Part of his talk covered digital signatures (including an in-depth review of elliptic-curve cryptography 🤯) and their use in establishing trust in digital assets. Thinking about the research publishing workflow -- signing content can validate soures of publication, revisions or reviews this potential in open and federated publishing is intruiging.
 
 ## When you write science for students, you do it better than when you write up the same study for journals
 
@@ -77,11 +85,13 @@ This is an issue that can be and wil be solved and [we're actively working on it
 
 ## MyST will be life changing for everybody using Jupyter for science and science education right now.
 
-\[Mike\]: Jupyter notebooks let us weave narrative and code together, but not necessarily perfectly. I saw demos where people used code comments and/or markdown to try to explain figures and such. [MyST Markdown](https://myst-tools.org/docs/spec) — which is markdown plus extra features for writing science more easily — improves your ability to embed scientific narrative alongside executable code, even working with a package called Thebe to help notebooks execute from remote servers even if you don’t have python installed locally (a huge win for teachers & students…just send a link to the notebook and it works!). Talks on open-source MyST Markdown were really well received (see [Steve's lightning talk on MyST below](#lightning-talk)).
+\[Mike\]: Jupyter notebooks let us weave narrative and code together, but not necessarily perfectly. I saw demos where people used code comments and/or markdown to try to explain figures and such. [MyST Markdown](https://myst-tools.org/docs/spec) — which is markdown plus extra features for writing science more easily — improves your ability to embed scientific narrative alongside executable code, even working with a package called Thebe to help notebooks execute from remote servers even if you don’t have python installed locally (a huge win for teachers & students… just send a link to the notebook and it works!). Talks on open-source MyST Markdown were really well received (see [Steve's lightning talk on MyST below](#lightning-talk)).
 
 ## Talks from the Curvenote team at JupyterCon
 
 All the talks at the conference were recorded so watch out for all the great content on a youtube channel soon, but in the meantime here are some fly on the wall recordings of the talk from the Curvenote team at the event. As core contributors to the MyST tools stack and ExecutableBooks project these focussed on the open source tools we’ve been developing there.
+
+(myst-talk)=
 
 ### MyST Markdown: Using notebooks in scientific publishing workflows
 
@@ -92,6 +102,8 @@ To originally be presented by Rowan, Franklin stepped in to give this overview o
 :align: center
 :width: 70%
 ```
+
+(thebe-talk)=
 
 ### Thebe - add Jupyter-based interactive computing to modern websites
 
