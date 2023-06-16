@@ -30,13 +30,13 @@ keywords:
 
 Curvenote is currently working with multiple journals who are submitting their manuscripts in $\LaTeX$, and Jupyter Notebooks and we have needed a way to convert and render the articles online as well as capture the structured data in JATS XML. Our philosophy is that the author should remain in control of the writing experience all the way through the publication process so that any changes are made in the original format(s). This means we need robust ways to parse $\LaTeX$ documents, and over the past few months we have developed this process using MyST Markdown.
 
-The MyST Tools project, <https://myst.tools>, includes a command line interface for creating websites, scientific articles, and parsing markdown, notebooks, JATS, and now also can parse and render $\LaTeX$ directly! 🎉
+The MyST Tools project, <https://mystmd.org>, includes a command line interface for creating websites, scientific articles, and parsing markdown, notebooks, JATS, and now also can parse and render $\LaTeX$ directly! 🎉
 
 +++
 
 ## Working with $\LaTeX$ in MyST
 
-To get started with rendering a $\LaTeX$ document using MyST, [install the CLI](https://myst.tools/docs/mystjs/installing) and navigate to a folder with your `*.tex` documents and type `myst init` and then `myst start`[^writetoc]. This will bring up a dynamic web-server that will render your article, with near real-time parsing (~300ms for one of my scientific papers), and solid error-reporting for any unknown macros or parsing errors (like unknown cross-references or math rendering issues). The experience can be seen as in {numref}`Figure %s <myuvxgVY6u>`, with the MyST website having interactive hover-cross-references, and _almost_ live-updates as you type and save your document.
+To get started with rendering a $\LaTeX$ document using MyST, [install the CLI](https://mystmd.org/guide/installing) and navigate to a folder with your `*.tex` documents and type `myst init` and then `myst start`[^writetoc]. This will bring up a dynamic web-server that will render your article, with near real-time parsing (~300ms for one of my scientific papers), and solid error-reporting for any unknown macros or parsing errors (like unknown cross-references or math rendering issues). The experience can be seen as in {numref}`Figure %s <myuvxgVY6u>`, with the MyST website having interactive hover-cross-references, and _almost_ live-updates as you type and save your document.
 
 [^writetoc]: Note that if you have many `*.tex` documents in the folder, try a `myst init --write-toc` to edit the files that get parsed.
 
@@ -50,7 +50,7 @@ Parsing and rendering $\LaTeX$ in MyST as an interactive website.
 
 ## Pulling out Frontmatter
 
-Currently our parser adds some additional logic for pulling out author, title and affiliation information and providing that in a more standardized form (i.e. [myst-frontmatter](https://myst.tools/docs/mystjs/frontmatter)). This allows us to create professional and data-rich information for the journals that Curvenote works with. For example, an example of [Crystal Orientation Mapping](https://curve.space/examples/acom) automatically pulls out the information from the $\LaTeX$ document and captures that information in machine-readable formats (JSON and JATS!).
+Currently our parser adds some additional logic for pulling out author, title and affiliation information and providing that in a more standardized form (i.e. [myst-frontmatter](https://mystmd.org/guide/frontmatter)). This allows us to create professional and data-rich information for the journals that Curvenote works with. For example, an example of [Crystal Orientation Mapping](https://curve.space/examples/acom) automatically pulls out the information from the $\LaTeX$ document and captures that information in machine-readable formats (JSON and JATS!).
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-VtHkWBPkUXpq1pXvoJuN-v1.png
 :name: X4pNWvKFRM
@@ -94,7 +94,7 @@ We have also put a lot of work into making sure that the most important informat
 
 MyST is a stand-alone $\LaTeX$ parser and renderer. We started this process to access the frontmatter (title, abstract, authors, affiliations, emails, ORCIDs, etc.) in a $\LaTeX$ document — but the [library that we used](https://github.com/siefkenj/unified-latex) for parsing $\LaTeX$ got us much further to a full solution than we expected.
 
-The `@unified-latex` libraries are currently used for tokenizing the `*.tex` files, including rich information about source-code positions which are used in the error messages. This token stream has some information about basic commands, but is primarily focused on the structure of the markup — arguments, brackets, nesting, whitespace. The `parse` step uses `tex-to-myst` to convert this token stream into a myst-spec abstract syntax tree (AST). This is well documented (<https://spec.myst.tools>), and is a common format that can be used to render out to many different types of documents (e.g. JATS, Word, $\LaTeX$, or HTML). The `myst-transforms` library is used to add rich information about cross-references, and all of the error messages about math, missing citations, etc. All of the transforms are common infrastructure across the entire MyST ecosystem, and can be used independently ([see docs](https://myst.tools/docs/myst-transforms)). Finally the document is rendered using in this case `myst-to-react`, which allows rich interactivity for websites.
+The `@unified-latex` libraries are currently used for tokenizing the `*.tex` files, including rich information about source-code positions which are used in the error messages. This token stream has some information about basic commands, but is primarily focused on the structure of the markup — arguments, brackets, nesting, whitespace. The `parse` step uses `tex-to-myst` to convert this token stream into a myst-spec abstract syntax tree (AST). This is well documented (<https://mystmd.org/spec>), and is a common format that can be used to render out to many different types of documents (e.g. JATS, Word, $\LaTeX$, or HTML). The `myst-transforms` library is used to add rich information about cross-references, and all of the error messages about math, missing citations, etc. All of the transforms are common infrastructure across the entire MyST ecosystem, and can be used independently ([see docs](https://mystmd.org/docs/myst-transforms)). Finally the document is rendered using in this case `myst-to-react`, which allows rich interactivity for websites.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-MfrruSV5e6TQXY2TUg5D-v1.png
 :name: V0yD9Cwz7F
@@ -150,4 +150,4 @@ There are probably also many other libraries or approaches, let us know on socia
 
 ## Getting started with web-native $\LaTeX$
 
-If you are looking to create a website from your $\LaTeX$ documents, or just looking to keep up with the MyST development, give the [latest version](https://myst.tools/docs/mystjs/installing) (`v0.1.5`) a try, and raise some [issues](https://github.com/executablebooks/mystjs/issues) to help us expand support!
+If you are looking to create a website from your $\LaTeX$ documents, or just looking to keep up with the MyST development, give the [latest version](https://mystmd.org/guide/installing) (`v0.1.5`) a try, and raise some [issues](https://github.com/executablebooks/mystjs/issues) to help us expand support!

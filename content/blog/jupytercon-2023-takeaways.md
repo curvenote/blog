@@ -28,7 +28,7 @@ A week ago the Curvenote team headed to Paris for JupyterCon 2023!
 
 The event itself felt great, generated a solid feeling of community, was friendly and jam packed with success stories on the use of Jupyter across different scientific fields and projects, alongside the latest news on technical developments in the ecosystem.
 
-For Mike, who is a relative newbie to Jupyter notebooks, it was an eye opener and he came out realizing that Jupyter is able to back the future of intertactive scientific publishing, and convinced that MyST Markdown can change the impact of open science initiatives right now. This is from the perspective of authoring (in Jupyter Lab), reading (in MyST websites) and interactive computation (backend by BinderHub and JupyterHub).
+For Mike, who is a relative newbie to Jupyter notebooks, it was an eye opener and he came out realizing that Jupyter is able to back the future of interactive scientific publishing, and convinced that MyST Markdown can change the impact of open science initiatives right now. This is from the perspective of authoring (in Jupyter Lab), reading (in MyST websites) and interactive computation (backend by BinderHub and JupyterHub).
 
 Steve and Franklin were also attending and speaking at the event, showing off the capabilities of MyST for publishing, the [`jupyterlab-myst`](https://github.com/executablebooks/jupyterlab-myst) extension and [`thebe`](https://github.com/executablebooks/thebe) for headless interactive computing with the MyST website themes.
 
@@ -56,14 +56,15 @@ With big immediate use cases for the full JupyterLite experience in education an
 
 \[Steve\]: The two keynotes at the event were from Alyssa Goodman on the [Glupyer framework](https://jdaviz.readthedocs.io/en/latest/dev/ui_description.html) and some of the astronomical discoveries made possible by computational collaboration 💫 -- and from [Paul Romer](https://paulromer.net/) on Trust.
 
-Paul's talk really reasonated with me, not just because of the unique mathematical narrative style he used to go though some of the most complex concepts in math and cryptography, but also because it was a pull back the curtain moment on our current digital lives, reminding the audience of the enormously powerful tools for communication and security we have available to us, if only we know how to think about them and use them.
+Paul's talk really resonated with me, not just because of the unique mathematical narrative style he used to go though some of the most complex concepts in math and cryptography, but also because it was a pull back the curtain moment on our current digital lives, reminding the audience of the enormously powerful tools for communication and security we have available to us, if only we know how to think about them and use them.
 
-Part of his talk covered digital signatures (including an in-depth review of elliptic-curve cryptography 🤯) and their use in establishing trust in digital assets. Thinking about the research publishing workflow -- signing content can validate soures of publication, revisions or reviews this potential in open and federated publishing is intruiging.
+Part of his talk covered digital signatures (including an in-depth review of elliptic-curve cryptography 🤯) and their use in establishing trust in digital assets. Thinking about the research publishing workflow -- signing content can validate sources of publication, revisions or reviews this potential in open and federated publishing is intriguing.
 
 ## When you write science for students, you do it better than when you write up the same study for journals
 
-> Take a bad presenter, and have them present to a group of children, and suddenly they becoming marvelous, engaging communicators. Because they drop their assumptions about what the audience already knows. \
-> — Henry M. Boettinger, _Moving Mountains_
+> Take a bad presenter, and have them present to a group of children, and suddenly they becoming marvelous, engaging communicators. Because they drop their assumptions about what the audience already knows.
+>
+> - Henry M. Boettinger, _Moving Mountains_
 
 \[Mike\]: Science education was one of the major use cases for Jupyter notebooks. When people are trying to teach science to students, they write it completely differently from when they're just writing up a study to get published as a career goal.
 
@@ -85,7 +86,7 @@ This is an issue that can be and wil be solved and [we're actively working on it
 
 ## MyST will be life changing for everybody using Jupyter for science and science education right now.
 
-\[Mike\]: Jupyter notebooks let us weave narrative and code together, but not necessarily perfectly. I saw demos where people used code comments and/or markdown to try to explain figures and such. [MyST Markdown](https://myst-tools.org/docs/spec) — which is markdown plus extra features for writing science more easily — improves your ability to embed scientific narrative alongside executable code, even working with a package called Thebe to help notebooks execute from remote servers even if you don’t have python installed locally (a huge win for teachers & students… just send a link to the notebook and it works!). Talks on open-source MyST Markdown were really well received (see [Steve's lightning talk on MyST below](#lightning-talk)).
+\[Mike\]: Jupyter notebooks let us weave narrative and code together, but not necessarily perfectly. I saw demos where people used code comments and/or markdown to try to explain figures and such. [MyST Markdown](https://mystmd.org) — which is markdown plus extra features for writing science more easily — improves your ability to embed scientific narrative alongside executable code, even working with a package called Thebe to help notebooks execute from remote servers even if you don’t have python installed locally (a huge win for teachers & students… just send a link to the notebook and it works!). Talks on open-source MyST Markdown were really well received (see [Steve's lightning talk on MyST below](#lightning-talk)).
 
 ## Talks from the Curvenote team at JupyterCon
 
@@ -127,4 +128,4 @@ Finally, a 2 minute lightning talk on the `juptyerlab-myst` extension, as the cl
 :width: 70%
 ```
 
-We’re all looking forward to JupyterCon 2024 🚀
+We’re all looking forward to JupyterCon 2025 🚀

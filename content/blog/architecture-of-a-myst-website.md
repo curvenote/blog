@@ -27,7 +27,7 @@ license:
   code: MIT
 ---
 
-This post discusses the architecture of MyST websites built with [MyST CLI tools](https://myst.tools/docs/mystjs) or [Curvenote](https://curvenote.com/docs/web). In order to build a MyST site, you only need your content in [MyST Markdown](https://myst.tools/) and [Jupyter Notebooks](https://jupyter.org/). Navigate to a folder with these files and initialize a site with the MyST CLI or even deploy your content directly to the web with the [Curvenote CLI](https://curvenote.com/docs/cli/commands).
+This post discusses the architecture of MyST websites built with [MyST CLI tools](https://mystmd.org/guide) or [Curvenote](https://curvenote.com/docs/web). In order to build a MyST site, you only need your content in [MyST Markdown](https://mystmd.org/) and [Jupyter Notebooks](https://jupyter.org/). Navigate to a folder with these files and initialize a site with the MyST CLI or even deploy your content directly to the web with the [Curvenote CLI](https://curvenote.com/docs/cli/commands).
 
 Under the hood, when you build a website with MyST, source files are converted into structured JSON data, an abstract syntax tree ([AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)) which extends [MDAST](https://github.com/syntax-tree/mdast). This format is central to the flexibility of MyST tools; structured data is much easier to work with than file formats. From this AST, we can build PDFs, templated $\LaTeX$, Word documents, and, of course, **_interactive_** **_websites_**!
 
@@ -95,6 +95,6 @@ Clicking on a reference to content in a different myst project can instantly sho
 
 ## Try MyST or the Curvenote CLI
 
-To get started with these ideas, start with the MyST CLI, which has a [MyST quickstart guide](https://myst.tools/docs/mystjs/quickstart), which will walk you through installing `myst`, and [creating scientific PDFs](https://myst.tools/docs/mystjs/quickstart-myst-documents) or [websites, blogs and journals](https://myst.tools/docs/mystjs/quickstart-myst-websites).
+To get started with these ideas, start with the MyST CLI, which has a [MyST quickstart guide](https://mystmd.org/guide/quickstart), which will walk you through installing `myst`, and [creating scientific PDFs](https://mystmd.org/guide/quickstart-myst-documents) or [websites, blogs and journals](https://mystmd.org/guide/quickstart-myst-websites).
 
 If you are involved in publishing, journals or just want a kick-ass lab-group website, we would love to [show you a demo](https://curvenote.com/demo).

@@ -73,9 +73,9 @@ A network visualization of Asthma’s symptoms and risk factors
 If you can get scientific articles published in a format where every important piece of the article is a machine-readable chunk, you can do _anything_ design-wise. Every cool way you’ve seen science displayed becomes possible to apply to _every_ article. A few examples:
 
 - 🪄 Switch an article’s entire layout in seconds
-- 🕳️🐇 Click [rabbit-hole](https://myst-tools.org/docs/mystjs/quickstart-myst-markdown#links-cross-references) links where you can dive into cited studies without leaving the page
+- 🕳️🐇 Click [rabbit-hole](https://mystmd.org/guide/quickstart-myst-markdown#links-cross-references) links where you can dive into cited studies without leaving the page
 - _Generate_ population-specific effect summaries
-- And of course everything HTML can do: Videos, [executable code](https://myst-tools.org/docs/mystjs/interactive-notebooks), [interactive charts](https://twitter.com/curvenote/status/1641405182800982016), Google-ability.
+- And of course everything HTML can do: Videos, [executable code](https://mystmd.org/guide/interactive-notebooks), [interactive charts](https://twitter.com/curvenote/status/1641405182800982016), Google-ability.
 
 > …any summary layout that would help you do your science, you can build.
 
@@ -128,10 +128,10 @@ When you use Webflow or Wordpress, you’re composing a document in HTML without
 :align: center
 :width: 50%
 
-MyST - An open-source markup language for scientific articles that’s enabling a new wave of scientific publishing innovations. See the [MyST Documentation](https://myst-tools.org/docs/mystjs).
+MyST - An open-source markup language for scientific articles that’s enabling a new wave of scientific publishing innovations. See the [MyST Documentation](https://mystmd.org/guide).
 ```
 
-The open-source MyST Markdown language ([see #WhatIsMyST on Twitter](https://twitter.com/search?q=%23WhatIsMyST&src=typed_query&f=top)), which Curvenote donates a lot of development time to, is easier to author in, designed for scientific articles, and (crucially) converts instantly between all the other scientific document formats (JATS4R, HTML, Word). And it has incredible features for scientists, like you can [copy-paste a DOI URL](https://twitter.com/myst_tools/status/1639235796145426432) and auto-import a reference.
+The open-source MyST Markdown language ([see #WhatIsMyST on Twitter](https://twitter.com/search?q=%23WhatIsMyST&src=typed_query&f=top)), which Curvenote donates a lot of development time to, is easier to author in, designed for scientific articles, and (crucially) converts instantly between all the other scientific document formats (JATS4R, HTML, Word). And it has incredible features for scientists, like you can [copy-paste a DOI URL](https://twitter.com/mystmarkdown/status/1639235796145426432) and auto-import a reference.
 
 ### 📝 Meet Curvenote, the WYSIWYG text editor you can use to write machine-readable scientific articles
 

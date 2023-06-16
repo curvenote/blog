@@ -287,7 +287,7 @@ Export to a live link.
    📚 Built 4 pages for blog in 67 ms.
    ```
 
-3. Add citations directly in Markdown using `` {cite:t}`citation_key` `` (see the [MyST Markdown documentation on citations](https://www.myst.tools/docs/mystjs/citations)). BibTeX citation keys can be obtained from Paperpile (see the tips below).
+3. Add citations directly in Markdown using `` {cite:t}`citation_key` `` (see the [MyST Markdown documentation on citations](https://mystmd.org/guide/citations)). BibTeX citation keys can be obtained from Paperpile (see the tips below).
 
    ```{figure} paperpile/myst-citation.png
    :align: center

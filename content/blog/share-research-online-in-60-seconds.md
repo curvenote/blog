@@ -43,13 +43,12 @@ We’ve been working to ingest and support a wide variety of repository layouts,
 
 The service will give you a unique URL, something like `https://launchpad-3j8c8sj2.curve.space` that you can share and will remain active for 5 days.
 
-````{important}
-**Want to publish a longer lived website?**
+:::{important} Want to publish a longer lived website?
 
 It’s easy to configure your repository and publish your content, with no expiry, on our hosting service for free.\
 Read more [in our documentation](https://curvenote.com/docs/web/launchpad).
 
-````
+:::
 
 +++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/0Lk9o9w7LdmWOgKMzFGd.6"}
 
@@ -69,7 +68,7 @@ Curvenote sites support the rendering of Jupyter output cells. As well as the fa
 
 ### BibTeX support
 
-If the repository contains BibTeX `.bib` files, the service will load the references and pick up on any citations you’ve made in your Markdown files or Markdown notebook cells, we currently support [MyST Markdown](https://spec.myst.tools/) for these sorts of references.
+If the repository contains BibTeX `.bib` files, the service will load the references and pick up on any citations you’ve made in your Markdown files or Markdown notebook cells, we currently support [MyST Markdown](https://mystmd.org) for these sorts of references.
 
 ### References from DOIs
 
@@ -116,4 +115,3 @@ Curvenote Launchpad is an easy way to [share Juptyer Notebooks, research notes a
 ```
 
 Launchpad is also a great way to quickly try out Curvenote’s site generation capabilities on your content before setting up a permanent website with your own URL. Curvenote’s publishing tools are open source, and our mission at Curvenote is to free science from the PDF. Let us help you do that by getting your [preprint, supporting materials or thesis online](https://curvenote.com/docs/web).
-
