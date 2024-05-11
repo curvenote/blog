@@ -4,15 +4,14 @@ site:
   domains:
     - blog.curvenote.com
     # - curvenote-blog.curve.space
-  logo: public/logo.svg
-  logo_text: Curvenote
-  twitter: curvenote
-  nav: []
+  options:
+    logo: public/logo.svg
+    logo_text: Curvenote
+    twitter: curvenote
+    analytics_google: G-8P87DBPQRS
   projects:
     - path: content/blog
       slug: 'blog'
   actions:
     - title: Sign Up
       url: https://curvenote.com/signup
-  analytics_google: G-8P87DBPQRS
-  venue: Curvenote

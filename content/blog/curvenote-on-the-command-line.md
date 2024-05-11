@@ -94,7 +94,7 @@ Here is a demo where Rowan got a full live demo done in 2 minutes and 54 seconds
 :width: 100%
 ```
 
-````{important}
+```{important}
 **Tutorials**
 
 Check out our tutorials on different routes to get started:
@@ -102,7 +102,7 @@ Check out our tutorials on different routes to get started:
 - [Start from a local folder](https://curvenote.com/docs/web/tutorial-deploy-local)
 - [Start from a Curvenote project](https://curvenote.com/docs/web/tutorial-deploy-project)
 
-````
+```
 
 ## Cloning Curvenote Projects
 
@@ -121,7 +121,7 @@ For example, try `curvenote clone https://curvenote.com/@templates/web`
 This command can behave in one of two ways:
 
 1. Run this in an empty folder and this will fetch the project's existing `curvenote.yml`, `site` configuration and content enabling you to work on this locally and deploy manually.
-2. Run this in an initialized local folder (i.e. one containing a `curvenote.yml` with your `site` configuration) and this will add the project as *an additional section in your existing website*, fetching the content and updating your website's navigation controls in the process.
+2. Run this in an initialized local folder (i.e. one containing a `curvenote.yml` with your `site` configuration) and this will add the project as _an additional section in your existing website_, fetching the content and updating your website's navigation controls in the process.
 
 The first allows update and manual deployment of any existing website either by another user or by an automated system (e.g. through the [Curvenote GitHub Action](https://curvenote.com/docs/web/github-action)), where the entire site configuration and latest versions of content is retrieved in full with a single command.
 
@@ -158,12 +158,12 @@ See the list of commands below:
 Export to PDF, LaTeX, Markdown, Microsoft Word, JupyterBook or Sphinx with Curvenote.
 ```
 
-````{important}
+```{important}
 **Note**
 
 The commands in the export service will likely change over the coming months as we improve the functionality for local export/rendering.
 
-````
+```
 
 When dealing with LaTeX and PDF exports you can also use [templates](https://curvenote.com/templates) from Curvenote's [Public Template Repository](https://github.com/curvenote/templates) and create documents ready for submission to a number of preprint services and scientific journals.
 
@@ -189,18 +189,16 @@ To begin your scientific writing and publishing journey with Curvenote, just [In
 
 ### See the Curvenote CLI in action
 
-Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ "Creating an Open Research Website") where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
+Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ 'Creating an Open Research Website') where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
 
 ```{iframe} https://www.youtube-nocookie.com/embed/LviMD9zE3FM
-:label: ICv58H0IfQ
 :align: center
 :width: 90%
 ```
 
-````{important}
+```{important}
 **Using Curvenote with GitHub**
 
 Have your content on GitHub? quickly try building a site directly from your repository using [try.curvenote.com](https://try.curvenote.com).
 
-````
-
+```

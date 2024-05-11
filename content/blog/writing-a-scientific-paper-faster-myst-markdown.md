@@ -47,7 +47,6 @@ MyST has a [well defined specification](https://mystmd.org/spec) and there are a
 Check out the [recording of the tutorial](https://www.youtube.com/watch?v=NxSNVt9XsCI) on YouTube to get setup on writing in MyST and using the new [mystmd.org](https://mystmd.org) toolchain.
 
 ```{iframe} https://www.youtube-nocookie.com/embed/NxSNVt9XsCI
-:label: ICv58H0IfQ
 :align: center
 :width: 100%
 ```

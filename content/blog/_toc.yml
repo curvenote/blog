@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: open-science-reuse
       - file: publishing-computational-articles
       - file: jupytercon-2023-takeaways
       - file: mike-morrison-joins-curvenote
