@@ -9,6 +9,9 @@ authors:
     orcid: 0000-0002-7859-8394
     corresponding: true
     email: rowan@curvenote.com
+    affiliation:
+      - Curvenote Inc.
+      - Executable Books
 tags:
   - article
   - MyST
@@ -19,7 +22,7 @@ keywords:
   - Reuse
   - FAIR data principles
 abstract: |
-  The ability to build upon existing knowledge is fundamental to the process of science. Yet, despite the rapid advancement of science, the methods for citing and referencing content have remained surprisingly static. Today, we're on the brink of transforming how we interact with scientific literature and educational content. Over the past few months the Curvenote team has been working in the <xref:docs#term-myst-markdown> ecosystem to simplify the ways to reference and embed figures directly into publications. We are starting this process by integrating a [simple markdown syntax for hover-references](xref:mystmd#tbl:syntax-xref), which aims to not only streamline referencing academic citations but also enhance the readability and interactive capacity of scholarly articles. This blog post explores the importance of scientific reuse, as the driving FAIR principle, and introduces new tools to reshape how knowledge is reused, shared, and improved in the scientific community.
+  The ability to build upon existing knowledge is fundamental to the process of science. Yet, despite the rapid advancement of science, the methods for citing and referencing content have remained surprisingly static. Today, we're on the brink of transforming how we interact with scientific literature and educational content. The Curvenote team has been working in the <xref:docs#term-myst-markdown> ecosystem to simplify the ways to reference and embed figures directly into publications. We are starting this process by integrating a [simple markdown syntax for hover-references](xref:mystmd#tbl:syntax-xref), which aims to not only streamline referencing academic citations but also enhance the readability and interactive capacity of scholarly articles. This blog post explores the importance of scientific reuse, as the driving FAIR principle, and introduces new tools to reshape how knowledge is reused, shared, and improved in the scientific community.
 ---
 
 Scientific publishing today uses outdated technology for communicating and sharing knowledge, relying on PDFs, static figures, and text-only references that are a poor representation of the complexity of the science and data. This gap slows the speed of research dissemination, reuse, and uptake and completely impedes “networked knowledge” and importing/reusing work in a structured way. For example, “importing” visualizations, equations or any other deeply-linked content – including provenance information – into new research articles, documentation or educational sites is completely impossible in today’s research ecosystem. As a metaphor, compare open-access science to open-source programming: it would be a world without package managers to share, version, reuse and rapidly build upon other peoples work in a structured way. The open-source ecosystem would not exist without this infrastructure.
@@ -32,7 +35,7 @@ Open infrastructure for communicating science also has to be easy to integrate i
 
 **Think how you interact with scientific references today**: when referencing a figure in a paper or book chapter, the text might say "see Figure 56 on Page 100 in Paperston & Print", to actually see what the authors were talking about you have to scroll to the bottom of the PDF, copy the reference, paste it into Google, get stuck at a paywall, log into your university VPN, download the PDF, open it in Zotero, scroll to page 100, find figure 56, and do that while you try to remember if it was worth the effort to look it up in the first place. The user experience here is terrible, and is wasting valuable time for millions of scientists.
 
-Today Curvenote is helping launch a comprehensive workflow for referencing and embedding of scientific content using MyST Markdown (https://mystmd.org). This works out of the box with [Curvenote's publishing platform](xref:docs#term-curvenote-platform). In the <xref:docs#term-myst-markdown> or Curvenote's <xref:docs#term-command-line-tools> you can now include cross-references content in external projects, and when you hover over the reference you see targeted content instantly using our <xref:docs#term-deep-dive-links>. This is enabled by new the [new `xref:` syntax](xref:mystmd#tbl:syntax-xref) that many of the ExecutableBooks team has contributed to.
+Today Curvenote is launching a comprehensive workflow for referencing and embedding of scientific content, which we have helped to build directly into the community-based MyST Markdown tools (https://mystmd.org). This works out of the box with [Curvenote's publishing platform](xref:docs#term-curvenote-platform). In the <xref:docs#term-myst-markdown> or Curvenote's <xref:docs#term-command-line-tools> you can now include cross-references content in external projects, and when you hover over the reference you see targeted content instantly using our <xref:docs#term-deep-dive-links>. This is enabled by new the [new `xref:` syntax](xref:mystmd#tbl:syntax-xref) that many of the ExecutableBooks team has contributed to.
 
 ```{list-table} Examples of hover references to instantly access open-science content.
 :header-rows: 1
