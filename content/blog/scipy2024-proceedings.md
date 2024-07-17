@@ -69,7 +69,7 @@ Over the last six months Curvenote has collaborated closely with the SciPy 2024 
 
 :::{figure} images/scipy2024-proceedings-team.png
 :label: scipy2024-proceedings-team
-The SciPy 2024 proceedings team. From right to left, Chris Calloway, Meghann Agarwal, Amey Ambade, Hongsup Shin, Rowan Cockett, Sanhita Joshi; Charles Lindsey was remote.
+The SciPy 2024 proceedings team. From left to right, Chris Calloway, Meghann Agarwal, Amey Ambade, Hongsup Shin, Rowan Cockett, Sanhita Joshi; Charles Lindsey was remote.
 :::
 
 The process uses Curvenote's GitHub-based submission workflow ([open source on GitHub](https://github.com/curvenote/actions)) and includes structural checks to improve metadata and enforce submission standards ([read more](https://curvenote.com/news/curvenote-sponsors-scipy-proceedings-2024#submission-system-supporting-the-editorial-team)). We also provided an administration portal that offers a comprehensive overview of all submissions, making the process efficient and manageable ([read more](https://curvenote.com/news/curvenote-sponsors-scipy-proceedings-2024#fig-scipy-dashboard)).
