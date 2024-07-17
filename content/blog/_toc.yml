@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: scipy2024-proceedings
       - file: open-science-reuse
       - file: publishing-computational-articles
       - file: jupytercon-2023-takeaways
