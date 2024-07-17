@@ -2,7 +2,7 @@
 title: Curvenote at SciPy2024
 subtitle: Pushing on the boundaries of science communication with the SciPy Proceedings and community-driven, open-source tools like MyST Markdown
 date: 2024-07-16
-thumbnail: thumbnails/open-science-reuse.png
+thumbnail: thumbnails/scipy2024-proceedings.png
 description: Curvenote attended and sponsored SciPy2024, hosting the proceedings, presenting on MyST Markdown and sprinting towards new integrations in the wider scientific Python community.
 authors:
   - name: Rowan Cockett
@@ -59,6 +59,7 @@ As a part of the SciPy Proceedings redesign, we wanted to explore a user-friendl
 
 :::{iframe} https://www.youtube-nocookie.com/embed/CtqjD1X_5QQ?si=tIldxSvwF3PQLt-K
 :width: 100%
+:label: scipy2024-design
 The open-access SciPy proceedings offer interactive, mobile-friendly features to enhance the scientific reading experience.
 :::
 
