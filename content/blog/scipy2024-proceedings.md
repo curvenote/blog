@@ -18,7 +18,7 @@ tags:
   - draft
 ---
 
-Last week, Curvenote had the incredible opportunity to participate in SciPy2024, not just as attendees but as key contributors to the event. Curvenote proudly sponsored the [Scientific Python Proceedings](https://proceedings.scipy.org), which encourages any presenter at the SciPy conference to write an article on their contribution, for example, a new scientific python package, community standard, case-study or algorithmic approach. Curvenote is hosting the proceedings and has contributed our expertise in scientific publishing and computational articles to elevate the proceedings. At the event we showcased Curvenote, met with authors, and further developed MyST Markdown during the week as well as at the conference sprints on the weekend.
+Last week, Curvenote had the incredible opportunity to participate in SciPy2024, not just as attendees but as key contributors to the event. Curvenote proudly sponsored the [Scientific Python Proceedings](https://proceedings.scipy.org), which encourages any presenter at the SciPy conference to write an article on their contribution, for example, a new scientific python package, community standard, case-study or algorithmic approach. Curvenote is hosting the proceedings and sharing our expertise in scientific publishing and computational articles to elevate the proceedings. At the event we showcased Curvenote, met with authors, and further developed MyST Markdown during the week as well as at the conference sprints on the weekend.
 
 :::{figure} images/scipy2024-proceedings-sponsor.png
 :label: scipy2024-proceedings-sponsor
@@ -107,7 +107,7 @@ At Curvenote, we are passionate about open-source, community-driven projects in 
 
 :::{figure} images/scipy2024-sprints-anywidget.png
 :label: scipy2024-sprints-anywidget
-Steve Purves ([Curvenote](https://curvenote.com)) and Trevor Manz ([Anywidget](https://anywidget.dev)) prototyping a new integration between MyST Markdown and Anywidget which enables arbitrary widgets to be integrated into any MyST website in a standardize, scalable way.
+Steve Purves ([Curvenote](https://curvenote.com)) and Trevor Manz ([Anywidget](https://anywidget.dev)) prototyping a new integration between MyST Markdown and Anywidget, which enables arbitrary widgets to be integrated into MyST websites in a standardized, scalable way.
 :::
 
 There were a lot of new prototypes and integrations throughout the week, including to [Anywidget](https://anywidget.dev), [PyVista](https://pyvista.org), [Sphinx Auto-Documentation](https://www.sphinx-doc.org/), and more. We supported multiple teams working towards MyST integration including [Project Pythia](https://projectpythia.org), [NumPy Tutorials](https://numpy.org/numpy-tutorials), [Resampling Stats](https://resampling-stats.github.io), and more translations of the [SciPy Proceedings](https://proceedings.scipy.org).
