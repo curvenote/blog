@@ -15,7 +15,6 @@ authors:
 tags:
   - conference
   - proceedings
-  - draft
 ---
 
 Last week, Curvenote had the incredible opportunity to participate in SciPy2024, not just as attendees but as key contributors to the event. Curvenote proudly sponsored the [Scientific Python Proceedings](https://proceedings.scipy.org), which encourages any presenter at the SciPy conference to write an article on their contribution, for example, a new scientific python package, community standard, case-study or algorithmic approach. Curvenote is hosting the proceedings and sharing our expertise in scientific publishing and computational articles to elevate the proceedings. At the event we showcased Curvenote, met with authors, and further developed MyST Markdown during the week as well as at the conference sprints on the weekend.
@@ -55,7 +54,7 @@ The Scientific Python Proceedings, hosted by Curvenote. There are two years of f
 
 ## Improved UX Design
 
-As a part of the SciPy Proceedings redesign, we wanted to explore a user-friendly approach for skimming and learning about new research presented at scientific conferences. Our user-experience researcher, Mike Morrison, put together a video that contrasts our approach at Curvenote with traditional methods, like books of abstracts and online programs.
+As a part of the SciPy Proceedings redesign, we wanted to explore a user-friendly approach for skimming and learning about new research presented at scientific conferences. Our user-experience researcher, Mike Morrison, put together a video that shows off the design of the SciPy Proceedings and how it sets a new standard in learning experience for attendees compared to the traditional 'PDF book of abstracts' and 'pay-walled online abstracts' approaches that conferences used until now.
 
 :::{iframe} https://www.youtube-nocookie.com/embed/CtqjD1X_5QQ?si=tIldxSvwF3PQLt-K
 :width: 100%
