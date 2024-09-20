@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: myst-markdown-and-continuous-science-pyopensci-2024
       - file: force11-2024
       - file: scipy2024-proceedings
       - file: open-science-reuse

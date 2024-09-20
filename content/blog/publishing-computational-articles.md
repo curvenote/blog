@@ -2,7 +2,7 @@
 title: Publishing Computational Notebooks at AGU23
 description: Curvenote launches Notebooks Now! at the American Geophysical Union Annual Meeting in San Francisco, where 20,000+ scientists descended on Moscone Center for five days of wide open science.
 subtitle: AGUs Journal, Earth and Space Science, is accepting computational notebooks starting in 2024
-date: '2023-12-17T02:13:32.256Z'
+date: 2023-12-17
 tags:
   - publishing
   - conference

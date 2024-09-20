@@ -15,7 +15,7 @@ authors:
     roles: []
     affiliations:
       - Curvenote
-date: '2023-01-22T07:43:56.379Z'
+date: 2023-01-22
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/h2RAELuGOMcW9OzzRTEB
 subtitle: On the importance of structured data
 tags:
