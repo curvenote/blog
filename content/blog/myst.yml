@@ -36,6 +36,7 @@ project:
     ESS: Earth and Space Science Journal, AGU
     AGU23: American Geophysical Union Annual Meeting (2023, San Francisco)
     AGU: American Geophysical Union
+    JOSS: Journal of Open Source Software
   references:
     3dem7: https://www.appliedgeophysics.org/articles/2023-heagy-oldenburg-3dem7
     docs: https://curvenote.com/docs/

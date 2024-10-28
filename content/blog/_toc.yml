@@ -7,6 +7,7 @@ parts:
   - caption: Blog
     chapters:
       - file: myst-markdown-pyopensci-2024
+      - file: open-source-software-powers-open-access
       - file: force11-2024
       - file: scipy2024-proceedings
       - file: open-science-reuse

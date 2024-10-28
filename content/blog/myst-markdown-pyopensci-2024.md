@@ -1,18 +1,22 @@
 ---
 title: Enhancing Scientific Collaboration with MyST Markdown and Continuous Science
+subtitle: pyOpenSci Open Science Fall Festival
+thumbnail: thumbnails/pyopensci-2024.png
+description: In today's fast-paced scientific environment, the gap between code development and scholarly communication is widening. While scientists increasingly rely on code for analysis and modeling, traditional methods of sharing results—like static PDFs—fail to capture the dynamic and interactive nature of modern research.
+authors:
+  - name: Rowan Cockett
+    orcid: 0000-0002-7859-8394
+    corresponding: true
+    email: rowan@curvenote.com
+    affiliation:
+      - Curvenote Inc.
+      - Project Jupyter
 tags:
-  - draft
   - conference
   - presentation
+  - keynote
+doi: 10.5281/zenodo.14004059
 ---
-
-:::{note} Event by pyOpenSci
-When
-: 11am-noon on October 28th MT (UTC-6)
-
-Where
-: Link coming soon!
-:::
 
 ## Talk Abstract
 
