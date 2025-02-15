@@ -99,7 +99,7 @@ All the talks at the conference were recorded so watch out for all the great con
 To originally be presented by Rowan, Franklin stepped in to give this overview of the new MyST markdown stack in the opening session of the conference ([talk outline](https://cfp.jupytercon.com/2023/talk/WWZMSG/)).
 
 ```{iframe} https://www.youtube-nocookie.com/embed/hL2daczfDMs
-:label: qOAwlVuiw4
+:label: hL2daczfDMs
 :align: center
 :width: 70%
 ```
@@ -111,7 +111,7 @@ To originally be presented by Rowan, Franklin stepped in to give this overview o
 Thebe’s a headless connector library for Jupyter that is nearing major new milestone, Steve’s talk covered examples, use cases and capabilities of the updated library ([talk outline](https://cfp.jupytercon.com/2023/talk/TBD9PQ/)).
 
 ```{iframe} https://www.youtube-nocookie.com/embed/XtgUfbph8JM
-:label: qOAwlVuiw4
+:label: XtgUfbph8JM
 :align: center
 :width: 70%
 ```
@@ -123,7 +123,7 @@ Thebe’s a headless connector library for Jupyter that is nearing major new mil
 Finally, a 2 minute lightning talk on the `juptyerlab-myst` extension, as the closing lightning talk of the conference 🎉 got everyone excited about the authoring possibilities in Jupyter Lab.
 
 ```{iframe} https://www.youtube-nocookie.com/embed/5T7FaJme9tU
-:label: qOAwlVuiw4
+:label: 5T7FaJme9tU
 :align: center
 :width: 70%
 ```

@@ -96,7 +96,7 @@ Steve Purves ([Curvenote](https://curvenote.com)), giving a poster presentation 
 Jupyter has long been an advocate of reproducible open science practices, and recently [won an Open Science award](https://www.whitehouse.gov/ostp/news-updates/2024/03/21/white-house-office-of-science-technology-policy-announces-year-of-open-science-recognition-challenge-winners/) from the White House Office of Science & Technology Policy. As MyST Markdown joins project Jupyter, we expect the impact, longevity and ambition of the project to increase. MyST is designed to meet the intricate needs of scientific publishing and enhance the possibilities of communicating computational narratives. Ensuring that the project has deep roots and adoption in computational communities will be key to the continued success of the project.
 
 :::{figure} images/scipy2024-myst-lightning.png
-:label: scipy2024-myst-poster
+:label: scipy2024-myst-poster-lightning
 Franklin Koch ([Curvenote](https://curvenote.com)), giving a talk on MyST Markdown and publishing interactive widgets with Curvenote.
 :::
 
