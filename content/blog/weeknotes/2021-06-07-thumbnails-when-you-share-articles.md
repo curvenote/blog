@@ -6,7 +6,7 @@ description: >-
   changes and fixes in the Curvenote app and extension.
 short_title: ''
 subtitle: Week of June 7, 2021
-date: '2021-06-07T10:37:00.000Z'
+date: 2021-06-07
 name: 2021-06-07-thumbnails-when-you-share-articles
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/L2TJKZa2CBmi5vj9QhUH
 tags:

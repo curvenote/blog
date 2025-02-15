@@ -5,7 +5,7 @@ description: >-
   publishing features
 short_title: ''
 subtitle: Week of Aug 15, 2022
-date: '2022-08-15T14:37:00.000Z'
+date: 2022-08-15
 name: 2022-08-15-one-click-publishing-webinar
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/w6taeYgzZlgB0AZmBKSD
 tags:

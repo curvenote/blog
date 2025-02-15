@@ -12,7 +12,7 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: '2021-05-24T07:46:00.000Z'
+date: 2021-05-24
 name: 2021-05-24-version-control-and-layout
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/EiFSaHUP3vMRdJmqhY4m
 tags:

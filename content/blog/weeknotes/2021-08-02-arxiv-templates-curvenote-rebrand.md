@@ -5,7 +5,7 @@ description: >-
   also are working towards a rebrand of Curvenote.
 short_title: ''
 subtitle: Week of August 2, 2021
-date: '2021-08-02T09:53:00.000Z'
+date: 2021-08-02
 name: 2021-08-02-arxiv-templates-curvenote-rebrand
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/Ufbj97pmULxFrSeSX33O
 tags:

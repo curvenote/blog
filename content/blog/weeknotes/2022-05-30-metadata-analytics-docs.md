@@ -5,7 +5,7 @@ description: >-
   links, open access statements, binder & GitHub links, and more.
 short_title: ''
 subtitle: Week of May 30, 2022
-date: '2022-05-30T18:34:00.000Z'
+date: 2022-05-30
 name: 2022-05-30-metadata-analytics-docs
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/O91Szfgoj2bS5AcPXSNe
 tags:

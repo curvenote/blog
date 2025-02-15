@@ -5,7 +5,7 @@ description: >-
   domains in the project settings.
 short_title: ''
 subtitle: Week of July 18, 2022
-date: '2022-07-19T00:41:00.000Z'
+date: 2022-07-19
 name: 2022-07-18-publish-from-curvenote
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/wtkGCtknBUmsaKK2PfZ7
 tags:

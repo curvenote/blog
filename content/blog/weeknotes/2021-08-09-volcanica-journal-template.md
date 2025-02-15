@@ -3,7 +3,7 @@ title: Volcanica Journal Template
 description: We introduced the Volcanica journal in response to a user request.
 short_title: ''
 subtitle: Week of August 9, 2021
-date: '2021-08-09T09:23:00.000Z'
+date: 2021-08-09
 name: 2021-08-09-volcanica-journal-template
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/idwQZsVuFS4krYtjRm2T
 tags:

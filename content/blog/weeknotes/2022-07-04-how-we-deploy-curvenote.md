@@ -5,7 +5,7 @@ description: >-
   tools and CLI.
 short_title: ''
 subtitle: Week of July 4, 2022
-date: '2022-07-04T18:22:00.000Z'
+date: 2022-07-04
 name: 2022-07-04-how-we-deploy-curvenote
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/C48QVhqEUepqwVmX6ANb
 tags:

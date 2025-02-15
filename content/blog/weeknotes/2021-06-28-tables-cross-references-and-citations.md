@@ -5,7 +5,7 @@ description: >-
   citation management improvements.
 short_title: ''
 subtitle: Week of June 28, 2021
-date: '2021-06-28T09:28:00.000Z'
+date: 2021-06-28
 name: 2021-06-28-tables-cross-references-and-citations
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/rheexG69fQAbb1s2EPxk
 tags:
@@ -17,7 +17,7 @@ thumbnail: thumbnails/2021-06-28-tables-cross-references-and-citations.png
 
 +++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/SzDl4LFi2ygYuMI43m3u.4","tags":[]}
 
-This week we released updates to tables, citation management, cross-references, and using Curvenote for writing papers and publishing with these new referencing features in mind. We will be making progress on *bibtex* import over the coming weeks as well as integrating with reference managers like [Zotero](https://www.zotero.org/).
+This week we released updates to tables, citation management, cross-references, and using Curvenote for writing papers and publishing with these new referencing features in mind. We will be making progress on _bibtex_ import over the coming weeks as well as integrating with reference managers like [Zotero](https://www.zotero.org/).
 
 +++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/LA0d1mVbOhu9nFZHSWxT.3","tags":[]}
 
@@ -72,4 +72,3 @@ Image previews for figures are inline when you start to reference the content.
 - There was a problem publishing citations - the visibility of those was not included in what was published, meaning users couldn’t see the citation. This has been fixed.
 - Clear preview was added in View mode, and the style issues of overlap were fixed!
 - We have added a clear preview of a block when viewing the content, previously this was only available in edit mode.
-

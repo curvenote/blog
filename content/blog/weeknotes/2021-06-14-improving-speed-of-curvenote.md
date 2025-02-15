@@ -3,7 +3,7 @@ title: Improving speed of Curvenote
 description: The initial page load of Curvenote is now 50% faster ⚡⚡⚡
 short_title: ''
 subtitle: Week of June 14, 2021
-date: '2021-06-14T14:09:00.000Z'
+date: 2021-06-14
 name: 2021-06-14-improving-speed-of-curvenote
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/3035KbKA5S3wf6jIfYe9
 tags:

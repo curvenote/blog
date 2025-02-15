@@ -5,7 +5,7 @@ description: >-
   out about Curvenote on twitter and medium!
 short_title: ''
 subtitle: Week of Sept 13, 2021
-date: '2021-09-13T14:01:29.855Z'
+date: 2021-09-13
 name: 2021-09-08-marketing-and-jupyterlite
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/rw1kjc1r5PZSezVbkyoq
 tags:

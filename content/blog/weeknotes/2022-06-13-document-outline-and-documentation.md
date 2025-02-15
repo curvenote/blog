@@ -5,7 +5,7 @@ description: >-
   webinar next week!
 short_title: ''
 subtitle: Week of June 13, 2022
-date: '2022-06-13T18:30:00.000Z'
+date: 2022-06-13
 name: 2022-06-13-document-outline-and-documentation
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/r6hA9typeSNrOewY5p7M
 tags:

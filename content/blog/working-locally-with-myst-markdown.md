@@ -4,7 +4,7 @@ description: >-
   Export your Curvenote articles to MyST Markdown to locally edit the content.
   MyST Markdown is a new specification of Markdown that allows you to write
   professional documents, books and websites.
-date: '2022-07-21T22:51:42.375Z'
+date: 2022-07-21
 name: working-locally-with-myst-markdown
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/sJUUaICKGzXalbdD7xmy
 short_title: ''

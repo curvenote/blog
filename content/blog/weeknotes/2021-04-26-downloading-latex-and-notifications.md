@@ -5,7 +5,7 @@ description: >-
   improving image and figure captioning and referencing.
 short_title: ''
 subtitle: Week of April 26, 2021
-date: '2021-04-26T13:54:00.000Z'
+date: 2021-04-26
 name: 2021-04-26-downloading-latex-and-notifications
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/H8nSGGRIyhujXTilc3MB
 tags:

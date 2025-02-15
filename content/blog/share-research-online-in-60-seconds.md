@@ -5,7 +5,7 @@ description: >-
   start is GitHub or GitLab repository and you can be up and running in 60
   seconds.
 authors: []
-date: '2022-07-25T14:30:00.000Z'
+date: 2022-07-25
 name: share-research-online-in-60-seconds
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/iy1YcaKLY2gAeLj1iYdX
 short_title: ''

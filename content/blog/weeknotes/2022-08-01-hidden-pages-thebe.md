@@ -5,7 +5,7 @@ description: >-
   new publish button in the Curvenote editor.
 short_title: ''
 subtitle: Week of Aug 1, 2022
-date: '2022-08-01T14:55:00.000Z'
+date: 2022-08-01
 name: 2022-08-01-hidden-pages-thebe
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/1005gi6cXfI31KcyGAzI
 tags:

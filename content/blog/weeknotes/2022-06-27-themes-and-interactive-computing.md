@@ -5,7 +5,7 @@ description: >-
   Python based notebooks to be executed in-browser.
 short_title: ''
 subtitle: Week of June 27, 2022
-date: '2022-06-27T18:22:00.000Z'
+date: 2022-06-27
 name: 2022-06-27-themes-and-interactive-computing
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/yxuBODMK3JiIsAAQkhym
 tags:

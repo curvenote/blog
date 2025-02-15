@@ -12,7 +12,7 @@ authors:
     roles: []
     affiliations:
       - Curvenote
-date: '2022-08-16T20:45:04.674Z'
+date: 2022-08-16
 name: research-software-engineering-coference-2022
 subject: Events
 oxa: oxa:AVQ2dzLNloEd25Io8NbA/xIPx4f6xs1HuL437WIQv
@@ -79,4 +79,3 @@ CLIMASOMA Report published online with supporting materials and Jupyter Notebook
 [Our walkthrough of Curvenote at the event](https://virtual.oxfordabstracts.com/#/event/3101/submission/23) will show how to get a set of materials published on an open research website and reuse that material in different contexts. The walkthrough is suitable for people used to working on the command line and others working via a GUI.
 
 Looking forward to seeing you at the event!
-
