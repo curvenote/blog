@@ -12,6 +12,9 @@ authors:
     email: rowan@curvenote.com
     affiliation:
       - Curvenote Inc.
+tags:
+  - open-science
+  - working-group
 ---
 
 Rowan Cockett, CEO of Curvenote, is helping to lead a [FORCE11 working group](perc) focused on **Preserving Executable Research Content: Challenges, Frameworks, and Best Practices**. The [FORCE11 community](https://force11.org) is focused on the digital transformation of scholarly communication and gathers leading thinkers, researchers, and innovators from around the globe. Our [mission at Curvenote](https://curvenote.com/mission) is to bring interactivity, execution and computation directly into the way that science is communicated and published — improving reproducibility and accessibility of ideas.
