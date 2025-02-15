@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: force11-preserving-executable-research
       - file: myst-markdown-pyopensci-2024
       - file: open-source-software-powers-open-access
       - file: force11-2024
