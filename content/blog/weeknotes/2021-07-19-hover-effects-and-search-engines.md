@@ -5,7 +5,7 @@ description: >-
   for users articles.
 short_title: ''
 subtitle: Week of July 19, 2021
-date: '2021-07-19T20:38:00.000Z'
+date: 2021-07-19
 name: 2021-07-19-hover-effects-and-search-engines
 oxa: oxa:GTGiJ4YqK38DEbx5hX9m/JCKZZvJ4YuBbKwmFlz4X
 tags:
