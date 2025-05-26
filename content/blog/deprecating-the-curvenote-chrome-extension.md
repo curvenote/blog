@@ -65,4 +65,4 @@ In the meantime, the best way to publish to Curvenote—whether for a personal w
 
 Thank you to everyone who used the Curvenote Chrome Extension—we’re excited for what’s ahead!
 
-If you have any questions or need help transitioning to these new workflows, please don’t hesitate to reach out to our team.
+_If you have any questions or need help transitioning to these new workflows, please don’t hesitate to reach out to our team._
