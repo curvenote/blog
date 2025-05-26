@@ -33,7 +33,7 @@ At Curvenote, our mission has always been to make scientific content easier to s
 Today, we’re announcing the deprecation of the Curvenote Chrome Extension.
 
 :::{figure} ./images/copy-paste-jupyter.gif
-The Curvenote Chrome extension allowed users to embed outputs from Juptyer Notebooks into their Curvenote articles fro directly within JupyterLab. Although now deprecated, outputs from Jupyter Notebooks can still be used in Curvenote articles by first them.
+The Curvenote Chrome extension allowed users to embed outputs from Juptyer Notebooks into their Curvenote articles from directly within JupyterLab. Although now deprecated, outputs from Jupyter Notebooks can still be used in Curvenote articles by first them.
 :::
 
 
