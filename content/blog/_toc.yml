@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Blog
     chapters:
+      - file: deprecating-the-curvenote-chrome-extension
       - file: force11-preserving-executable-research
       - file: myst-markdown-pyopensci-2024
       - file: open-source-software-powers-open-access
