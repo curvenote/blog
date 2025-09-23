@@ -3,7 +3,7 @@ title: Future of Research Communication & Collaboration
 subtitle: Ideas from FORCE11 & tools from Curvenote
 description: A presentation on the challenges with today’s tools for research communication & collaboration, and present a vision for the future.
 subject: SimPEG Seminar
-date: 2022-04-18T19:01:57.541Z
+date: 2022-04-18
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

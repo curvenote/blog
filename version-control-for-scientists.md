@@ -3,7 +3,7 @@ title: Version Control for Scientists
 description: Version control in Curvenote works across a scientists' content,
   code and results making it easy to track, reuse and collaborate around their
   work
-date: 2021-06-11T14:09:00.000Z
+date: 2021-06-11
 authors:
   - name: Steve Purves
     userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1

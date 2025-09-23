@@ -1,7 +1,7 @@
 ---
 title: Reflections on 2020
 description: Research techniques have evolved, but our tools for communicating and collaborating have not. Curvenote aims to unify scientific research, education, & publishing, by providing a platform where scientific ideas can be developed and published in an interactive and accessible way.
-date: 2020-12-31T00:00:00.000Z
+date: 2020-12-31
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

@@ -1,7 +1,7 @@
 ---
 title: Data driven LaTeX templates
 description: 'Introducing a lightweight templating engine, jtex, that provides a simple command line interface (CLI).'
-date: 2021-10-21T17:57:55.620Z
+date: 2021-10-21
 authors:
   - name: Steve Purves
     userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1

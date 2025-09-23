@@ -3,7 +3,7 @@ title: Writing a scientific paper faster with MyST Markdown
 description: >-
   Webinar - Learn how to write your next paper, report or even your thesis in
   MyST Markdown to create PDFs and interactive web articles.
-date: 2023-01-18T09:58:43.361Z
+date: 2023-01-18
 subtitle: Join the upcoming tutorial webinar to learn more and get started
 tags:
   - webinar

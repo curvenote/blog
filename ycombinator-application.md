@@ -1,7 +1,7 @@
 ---
 title: YCombinator Application
 description: Curvenote was selected as one of 8 Canadian companies with over 16,000 global applications to participate in YCombinator W21, which is the premier startup accelerator in Silicon Valley.
-date: 2021-01-15T00:00:00.380Z
+date: 2021-01-15
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

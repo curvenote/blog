@@ -2,7 +2,7 @@
 title: Communicating Science
 description: How does open-science allow us to reimagine how we stand on the
   shoulders of giants?
-date: 2021-01-27T18:55:00.000Z
+date: 2021-01-27
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

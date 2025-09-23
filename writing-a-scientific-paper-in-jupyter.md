@@ -1,7 +1,7 @@
 ---
 title: Writing a paper with Curvenote and Jupyter Notebooks
 description: 'A webinar using Curvenote for scientific writing and integration with Jupyter notebooks.'
-date: 2021-10-27T19:59:00.000Z
+date: 2021-10-27
 tags:
   - webinar
 thumbnail: thumbnails/writing-a-scientific-paper-in-jupyter.png

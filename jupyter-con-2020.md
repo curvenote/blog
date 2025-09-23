@@ -1,7 +1,7 @@
 ---
 title: JupyterCon
 description: 'At JupyterCon 2020 we introduce Curvenote, allowing you to sync content between Jupyter Notebooks and a web-based, collaborative document editor.'
-date: 2020-10-08T20:01:08.125Z
+date: 2020-10-08
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

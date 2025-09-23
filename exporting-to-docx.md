@@ -1,7 +1,7 @@
 ---
 title: Curvenote Microsoft Word Export
 description: 'Exporting to Microsoft Word is now a single click in Curvenote!'
-date: 2021-10-21T17:11:50.605Z
+date: 2021-10-21
 authors:
   - name: Steve Purves
     userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1

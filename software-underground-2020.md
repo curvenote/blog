@@ -1,7 +1,7 @@
 ---
 title: Software Underground
 description: 'Lightning talk at Transform 2020, on how we reuse ideas and move them forward together.'
-date: 2020-10-08T20:01:08.125Z
+date: 2020-10-08
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

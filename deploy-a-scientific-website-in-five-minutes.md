@@ -2,7 +2,7 @@
 title: Creating & Sharing Scientific Websites
 description: Lightning talks at the Transform22 event, (1) deploying a
   scientific website in 4.5 minutes; and (2) things learned at FORCE11.
-date: 2022-04-28T18:05:10.447Z
+date: 2022-04-28
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

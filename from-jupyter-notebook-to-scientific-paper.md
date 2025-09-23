@@ -1,7 +1,7 @@
 ---
 title: From Jupyter Notebook to Scientific Paper
 description: 'In this tutorial we go over how to turn your Jupyter Notebooks into a scientific paper.'
-date: 2022-02-01T22:50:00.000Z
+date: 2022-02-01
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

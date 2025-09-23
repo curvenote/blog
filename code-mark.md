@@ -3,7 +3,7 @@ title: Creating Inline Code in a WYSIWYG Editor
 description: One of the biggest frustrations in using what you see is what you
   get (WYSIWYG) editors when coming from knowing Markdown is how they deal with
   inline code.
-date: 2022-01-02T18:25:00.000Z
+date: 2022-01-02
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

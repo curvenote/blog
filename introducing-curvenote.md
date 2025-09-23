@@ -1,7 +1,7 @@
 ---
 title: Introducing Curvenote
 description: 'The Curvenote brand embodies aspects of reuse, modularity and the connections behind ideas through building blocks that provide structure and can also be pulled apart, rearranged and used in unique ways.'
-date: 2021-08-30T19:12:00.000Z
+date: 2021-08-30
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

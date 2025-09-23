@@ -1,7 +1,7 @@
 ---
 title: Introducing Curvenote Pro
 description: 'Introducing Curvenote Pro, which includes additional private projects, advanced publishing, and export to any professional template.'
-date: 2021-09-16T19:15:00.000Z
+date: 2021-09-16
 authors:
   - name: Rowan Cockett
     userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
