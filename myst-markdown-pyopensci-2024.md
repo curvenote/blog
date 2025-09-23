@@ -24,6 +24,11 @@ In today's fast-paced scientific environment, the gap between code development a
 
 We'll delve into how MyST Markdown supports better research communication practices and sharing of code, data, and narratives in an integrated form. By adopting principles of continuously sharing science, researchers can enhance reproducibility, foster collaboration, and accelerate scientific discovery. The session will include demonstrations of real-world applications, such as the [Pythia Project](https://projectpythia.org/), [SciPy Proceedings](https://proceedings.scipy.org/), [Microscopy Society of America](https://elementalmicroscopy.com/) as well as Lab-Group websites, showcasing how these tools are transforming scientific communication. Whether you're new to MyST or looking to integrate it with your current workflows, this talk offers practical insights to elevate your research dissemination.
 
+```{iframe #pyopensci-keynote} https://www.youtube-nocookie.com/embed/zrwt0PX5mdM?si=c4454PLdu9jc7yee
+:width: 100%
+Science deserves better than PDFs! See how MyST Markdown & open publishing transform research with interactive tools, reproducibility, and collaboration.
+```
+
 ## Bio
 
 Rowan is the CEO and founder of Curvenote (https://curvenote.com), where we build tools to free science from static PDF documents such that the scientific community can share more interactive, reproducible, and richly-linked scientific content. Curvenote provides an all-in-one publishing platform for researchers, societies and institutes, with a focus on computational research.
