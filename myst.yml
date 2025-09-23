@@ -111,8 +111,8 @@ project:
     - file: weeknotes/2021-04-26-downloading-latex-and-notifications.md
     - file: news/curvenote-accepted-into-creative-destruction-lab.md
     - file: creative-destruction-lab.md
-    - file: news/curvenote-accepted-into-ycombinator.md
     - file: ycombinator-application.md
+    - file: news/curvenote-accepted-into-ycombinator.md
     - file: news/curvenote-sponsors-force11-2021.md
     - file: force11-2021.md
     - file: force11-2021-recap.md
