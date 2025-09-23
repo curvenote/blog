@@ -6,12 +6,7 @@ description: |-
   Curvenote is helping to lead a new FORCE11 working group, "Preserving Executable Research Content: Challenges, Frameworks, and Best Practices". The working group will bring together researchers from diverse scientific communities to address the challenges of preserving and archiving computational notebooks and interactive research articles and artifacts over time.
 thumbnail: thumbnails/force11-perc.png
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliation:
-      - Curvenote Inc.
+  - rowan
 tags:
   - open-science
   - working-group

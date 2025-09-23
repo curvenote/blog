@@ -3,14 +3,7 @@ title: Creative Destruction Lab
 description: 'Curvenote was chosen to participate in a science & technology innovation program called Creative Destruction Lab.'
 date: 2021-11-10
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 thumbnail: thumbnails/creative-destruction-lab.png
 tags:
   - update

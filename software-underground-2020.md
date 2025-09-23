@@ -3,11 +3,7 @@ title: Software Underground
 description: 'Lightning talk at Transform 2020, on how we reuse ideas and move them forward together.'
 date: 2020-10-08
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    affiliations:
-      - Iooxa (now Curvenote!)
+  - rowan
 tags:
   - presentation
   - conference

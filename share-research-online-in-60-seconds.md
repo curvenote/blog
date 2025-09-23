@@ -4,16 +4,12 @@ description: >-
   Easily share scientific content and Jupyter Notebooks online, all you need to
   start is GitHub or GitLab repository and you can be up and running in 60
   seconds.
-authors: []
 date: 2022-07-25
 tags:
   - jupyter
   - git
   - demo
 thumbnail: thumbnails/share-research-online-in-60-seconds.png
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 # Share research online in 60 seconds

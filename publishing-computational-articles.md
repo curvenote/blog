@@ -8,9 +8,6 @@ tags:
   - conference
   - presentation
 thumbnail: thumbnails/publishing-computational-articles.png
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 Last week the American Geophysical Union (AGU) held its 2023 Annual Meeting in San Francisco, where 20,000+ scientists descended on Moscone Center for five days of science communication. The theme of this year’s meeting was “Wide. Open. Science.” and in every conference session we attended there was a buzz, presentations on and discussion from scientists who are building open and FAIR principles into their research and communities.

@@ -4,22 +4,8 @@ description: Lightning talks at the Transform22 event, (1) deploying a
   scientific website in 4.5 minutes; and (2) things learned at FORCE11.
 date: 2022-04-28
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
+  - steve
 tags:
   - presentation
   - conference

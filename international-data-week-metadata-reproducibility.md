@@ -6,13 +6,7 @@ open_access: true
 subject: International Data Week 2022
 subtitle: Tactics to improve informal research communication
 authors:
-  - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - presentation
   - open-science

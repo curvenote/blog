@@ -5,14 +5,7 @@ description: One of the biggest frustrations in using what you see is what you
   inline code.
 date: 2022-01-02
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - open-source
 thumbnail: thumbnails/code-mark.png

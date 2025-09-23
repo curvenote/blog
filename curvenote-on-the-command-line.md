@@ -5,28 +5,13 @@ description: >-
   CLI. Eaily export your content, work locally with MyST Markdown, or export to
   any PDF, Word or LaTeX template.
 authors:
-  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    name: Steve Purves
-    orcid: 0000-0002-0760-5497
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
-  - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+  - steve
+  - rowan
 date: 2022-07-21
 tags:
   - cli
   - editor
 thumbnail: thumbnails/curvenote-on-the-command-line.png
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 # Curvenote on the Command Line

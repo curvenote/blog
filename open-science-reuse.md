@@ -5,13 +5,8 @@ date: 2024-05-11
 thumbnail: thumbnails/open-science-reuse.png
 description: The ability to build upon existing knowledge is fundamental to the process of science. Yet, despite the rapid advancement of science, the methods for citing and referencing content have remained surprisingly static. Curvenote is introducing new tools in MyST Markdown to create rich references and embed open-access content.
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliation:
-      - Curvenote Inc.
-      - Executable Books
+  - rowan
+    - Executable Books
 tags:
   - article
   - MyST

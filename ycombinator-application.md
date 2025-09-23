@@ -3,22 +3,8 @@ title: YCombinator Application
 description: Curvenote was selected as one of 8 Canadian companies with over 16,000 global applications to participate in YCombinator W21, which is the premier startup accelerator in Silicon Valley.
 date: 2021-01-15
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
+  - steve
 tags:
   - presentation
   - update

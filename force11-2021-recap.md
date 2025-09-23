@@ -3,14 +3,7 @@ title: FORCE11 2021 Recap
 description: 'Our notes from the FORCE11’s 2021 Annual Conference with over 1,300 participants.'
 date: 2021-12-14
 authors:
-  - name: Liz Maag-Capriotti
-    userId: QK7zZmHaCkh43qvqCMRmV8zUZRC2
-    orcid: 0000-0002-0445-4531
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - liz
 tags:
   - update
   - open-science

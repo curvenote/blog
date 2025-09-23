@@ -3,14 +3,7 @@ title: Introducing Curvenote Pro
 description: 'Introducing Curvenote Pro, which includes additional private projects, advanced publishing, and export to any professional template.'
 date: 2021-09-16
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - update
   - editor

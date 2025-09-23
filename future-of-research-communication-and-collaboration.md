@@ -5,14 +5,7 @@ description: A presentation on the challenges with today’s tools for research 
 subject: SimPEG Seminar
 date: 2022-04-18
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 doi: 10.5281/zenodo.6476040
 tags:
   - presentation

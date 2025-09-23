@@ -5,12 +5,7 @@ description: >-
   workflows and thoughts on future changes.
 subtitle: Week of May 24, 2021
 authors:
-  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    name: Steve Purves
-    orcid: 0000-0002-0760-5497
-    corresponding: false
-    roles: []
-    affiliations: []
+  - steve
 date: 2021-05-24
 tags:
   - version-control

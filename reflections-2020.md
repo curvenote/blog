@@ -3,14 +3,7 @@ title: Reflections on 2020
 description: Research techniques have evolved, but our tools for communicating and collaborating have not. Curvenote aims to unify scientific research, education, & publishing, by providing a platform where scientific ideas can be developed and published in an interactive and accessible way.
 date: 2020-12-31
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    roles: null
-    affiliations:
-      - Iooxa Inc., (which is now Curvenote!)
+  - rowan
 tags:
   - presentation
   - article

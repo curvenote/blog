@@ -3,14 +3,7 @@ title: How to export to PDF & LaTeX using Curvenote
 description: 'Writing up research for submission to a particular conference, journal, or preprint service is a major task. Exporting to a PDF should be easy!'
 date: 2021-10-12
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - steve
 thumbnail: thumbnails/how-to-export-to-pdf-latex-using-curvenote.png
 tags:
   - tutorial

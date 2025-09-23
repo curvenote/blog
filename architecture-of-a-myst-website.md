@@ -5,25 +5,14 @@ description: >-
   any number of "theme servers", which are in charge of turning that structured
   data into a reading experience.
 authors:
-  - name: Franklin Koch
-    roles: []
-    affiliations:
-      - Curvenote
-    orcid: 0000-0002-6393-7058
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    roles: []
-    affiliations:
-      - Curvenote
+  - franklin
+  - rowan
 date: 2023-01-22
 subtitle: On the importance of structured data
 tags:
   - MyST
   - cli
 thumbnail: thumbnails/architecture-of-a-myst-website.png
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 This post discusses the architecture of MyST websites built with [MyST CLI tools](https://mystmd.org/guide) or [Curvenote](https://curvenote.com/docs/web). In order to build a MyST site, you only need your content in [MyST Markdown](https://mystmd.org/) and [Jupyter Notebooks](https://jupyter.org/). Navigate to a folder with these files and initialize a site with the MyST CLI or even deploy your content directly to the web with the [Curvenote CLI](https://curvenote.com/docs/cli/commands).

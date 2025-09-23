@@ -4,14 +4,7 @@ description: How does open-science allow us to reimagine how we stand on the
   shoulders of giants?
 date: 2021-01-27
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - article
   - open-science

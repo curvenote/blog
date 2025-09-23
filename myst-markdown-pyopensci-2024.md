@@ -4,13 +4,8 @@ subtitle: pyOpenSci Open Science Fall Festival
 thumbnail: thumbnails/pyopensci-2024.png
 description: In today's fast-paced scientific environment, the gap between code development and scholarly communication is widening. While scientists increasingly rely on code for analysis and modeling, traditional methods of sharing results—like static PDFs—fail to capture the dynamic and interactive nature of modern research.
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliation:
-      - Curvenote Inc.
-      - Project Jupyter
+  - rowan
+    - Project Jupyter
 tags:
   - conference
   - presentation

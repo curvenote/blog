@@ -7,14 +7,8 @@ tags:
   - events
   - jupyter
 authors:
-  - name: Mike Morrison
-    email: mike@curvenote.com
-    orcid: 0000-0002-1324-8801
-    affiliations: Curvenote
-  - name: Steve Purves
-    email: steve@curvenote.com
-    orcid: 0000-0002-0760-5497
-    affiliation: Curvenote
+  - mike
+  - steve
 thumbnail: thumbnails/jupytercon2023.png
 ---
 

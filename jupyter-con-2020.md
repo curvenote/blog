@@ -3,14 +3,7 @@ title: JupyterCon
 description: 'At JupyterCon 2020 we introduce Curvenote, allowing you to sync content between Jupyter Notebooks and a web-based, collaborative document editor.'
 date: 2020-10-08
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - presentation
   - open-source

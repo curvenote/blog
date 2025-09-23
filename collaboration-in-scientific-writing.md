@@ -3,14 +3,7 @@ title: Collaboration in Scientific Writing
 description: 'Reflections on distinct modes of collaboration in science including gathering feedback, asynchronous co-authoring and review, and real-time simultaneous editing.'
 date: 2021-09-27
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles: null
-    affiliations:
-      - Curvenote
+  - steve
 tags:
   - article
   - editor

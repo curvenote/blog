@@ -10,10 +10,6 @@ tags:
   - cli
   - editor
 thumbnail: thumbnails/working-locally-with-myst-markdown.png
-authors: []
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 We recently [released the first version of the Curvenote command-line tools](oxa:AVQ2dzLNloEd25Io8NbA/mdBajFyoGAFAQGWjmpWf 'Curvenote on the Command Line') to work locally with content from Curvenote. You can read the documentation here: <https://curvenote.com/docs/cli>. With the CLI, you can easily export an article to MyST Markdown, a new Markup language designed by [Executable Books](https://executablebooks.org/en/latest/) (we are on the [team](https://executablebooks.org/en/latest/team.html)!) to create publication-quality, computational documents written entirely in Markdown.

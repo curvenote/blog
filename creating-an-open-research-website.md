@@ -3,16 +3,7 @@ title: Creating an Open Research Website
 description: 'Using the Curvenote CLI to create an open research website with a local Markdown based authoring experience.'
 date: 2022-06-23
 authors:
-  - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
-license:
-  content: CC-BY-4.0
-  code: MIT
+  - rowan
 tags:
   - webinar
   - editor

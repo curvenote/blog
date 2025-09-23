@@ -12,10 +12,7 @@ tags:
   - editor
 thumbnail: thumbnails/writing-a-scientific-paper-faster-myst-markdown.png
 authors:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
-    affiliations:
-      - Curvenote
+  - steve
 ---
 
 Markdown is a lightweight markup language that puts the focus on content. Its popularity stems from simplicity, and separation from presentational concerns while it still allows structure and formatting to be added with minimal additional work. With that simplicity comes limitations that make it difficult to use fully in technical and academic writing, e.g. the base specification of Markdown, CommonMark, lacks features for complex tables, figures & captions, cross references and other features that are essential in technical and scientific writing.

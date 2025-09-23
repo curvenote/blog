@@ -2,7 +2,9 @@ version: 1
 project:
   title: Curvenote Blog
   subject: Blog
-  license: CC-BY-4.0
+  license:
+    content: CC-BY-4.0
+    code: MIT
   open_access: true
   abbreviations:
     AST: Abstract Syntax Tree
@@ -129,7 +131,58 @@ project:
     - file: reflections-2020.md
     - file: jupyter-con-2020.md
     - file: software-underground-2020.md
-
+  contributors:
+    - id: rowan
+      name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+      email: rowan@curvenote.com
+      affiliations:
+        - curvenote
+      twitter: rowancockett
+      github: rowanc1
+      bluesky: row1.ca
+    - id: steve
+      name: Steve Purves
+      orcid: 0000-0002-0760-5497
+      email: steve@curvenote.com
+      affiliations:
+        - curvenote
+      twitter: stevejpurves
+      github: stevejpurves
+      bluesky: opensci.dev
+    - id: mike
+      name: Mike Morrison
+      orcid: 0000-0002-1324-8801
+      email: mike@curvenote.com
+      affiliations:
+        - curvenote
+      twitter: mikemorrison
+      bluesky: mikemorrison.bsky.social
+    - id: jill
+      name: Jillian Hale
+      email: jill@curvenote.com
+      orcid: 0009-0008-5178-2328
+      affiliations:
+        - curvenote
+    - id: franklin
+      name: Franklin Koch
+      email: franklin@curvenote.com
+      orcid: 0000-0002-6393-7058
+      affiliations:
+        - curvenote
+    - id: liz
+      name: Liz Maag-Capriotti
+      orcid: 0000-0002-0445-4531
+      affiliations:
+        - curvenote
+  affiliations:
+    - id: curvenote
+      name: Curvenote Inc.
+      country: Canada
+      ror: https://ror.org/02mz0e468
+      email: support@curvenote.com
+      url: https://curvenote.com
+      bluesky: curvenote.com
 site:
   title: Curvenote Blog
   domains:

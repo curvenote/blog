@@ -4,14 +4,7 @@ description: >-
   We are presenting a walkthrough of Curvenote’s publishing capabilities at
   RSECon 2022, in Newcastle.
 authors:
-  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    name: Steve Purves
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles: []
-    affiliations:
-      - Curvenote
+  - steve
 date: 2022-08-16
 subject: Events
 subtitle: A walk-though of publishing open research with Curvenote
@@ -19,9 +12,6 @@ tags:
   - conference
   - presentation
 thumbnail: thumbnails/research-software-engineering-coference-2022.png
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 # Research Software Engineering Conference 2022

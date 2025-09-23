@@ -5,13 +5,8 @@ date: 2024-07-16
 thumbnail: thumbnails/scipy2024-proceedings.png
 description: Curvenote attended and sponsored SciPy2024, hosting the proceedings, presenting on MyST Markdown and sprinting towards new integrations in the wider scientific Python community.
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliation:
-      - Curvenote Inc.
-      - Project Jupyter
+  - rowan
+    - Project Jupyter
 tags:
   - conference
   - proceedings

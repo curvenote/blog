@@ -5,22 +5,8 @@ description: Version control in Curvenote works across a scientists' content,
   work
 date: 2021-06-11
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - steve
+  - rowan
 tags:
   - article
   - open-science

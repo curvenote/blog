@@ -11,10 +11,6 @@ tags:
   - publishing
   - editor
 thumbnail: thumbnails/one-click-publishing-for-open-research.png
-authors: []
-license:
-  content: CC-BY-4.0
-  code: MIT
 ---
 
 # One Click Publishing for Open Research Websites

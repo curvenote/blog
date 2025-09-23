@@ -3,14 +3,7 @@ title: Data driven LaTeX templates
 description: 'Introducing a lightweight templating engine, jtex, that provides a simple command line interface (CLI).'
 date: 2021-10-21
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - steve
 tags:
   - open-source
   - LaTeX

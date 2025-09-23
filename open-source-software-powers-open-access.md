@@ -3,13 +3,8 @@ title: 'Expanding Open Access: How Open Source Principles Can Transform Scientif
 description: A panel discussion with Lorena Barba, Rowan Cockett, Karthik Ram and Arfon Smith explores how open source software practices can reshape the way we communicate scientific discoveries. Adopting open source tools and processes could drastically improve scientific communication, especially with the growing complexity and interconnectedness of research data.
 date: 2024-10-25
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliation:
-      - Curvenote Inc.
-      - Project Jupyter
+  - rowan
+    - Project Jupyter
 tags:
   - open-science
   - open-source

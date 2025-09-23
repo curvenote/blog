@@ -7,10 +7,7 @@ tags:
   - update
   - '#betterscience'
 authors:
-  - name: Mike Morrison
-    email: mike@curvenote.com
-    orcid: 0000-0002-1324-8801
-    affiliation: Curvenote
+  - mike
 thumbnail: thumbnails/mike-morrison-joins-curvenote.png
 ---
 

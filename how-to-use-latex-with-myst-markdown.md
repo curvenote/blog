@@ -3,13 +3,7 @@ title: How to use LaTeX with MyST Markdown
 description: The MyST command-line tools can now parse and render LaTeX documents, we explore some of the process behind creating this feature.
 date: 2023-01-07
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    email: rowan@curvenote.com
-    corresponding: true
-    affiliations:
-      - Curvenote
-      - Executable Books
+  - rowan
 thumbnail: thumbnails/how-to-use-latex-with-myst-markdown.png
 tags:
   - LaTeX

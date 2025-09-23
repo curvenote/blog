@@ -3,14 +3,7 @@ title: Transition to Open Science, with Dr. Jiajia Sun
 description: 'Open science is fundamentally changing how scientists and researchers approach scholarly communication and collaboration, from publishing preprints and interactive research results.'
 date: 2022-04-09
 authors:
-  - name: Liz Maag-Capriotti
-    userId: QK7zZmHaCkh43qvqCMRmV8zUZRC2
-    orcid: 0000-0002-0445-4531
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - liz
 tags:
   - interview
 thumbnail: thumbnails/transition-to-open-science-dr-sun.png

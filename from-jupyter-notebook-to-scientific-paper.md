@@ -3,30 +3,9 @@ title: From Jupyter Notebook to Scientific Paper
 description: 'In this tutorial we go over how to turn your Jupyter Notebooks into a scientific paper.'
 date: 2022-02-01
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Liz Maag-Capriotti
-    userId: QK7zZmHaCkh43qvqCMRmV8zUZRC2
-    orcid: 0000-0002-0445-4531
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
+  - steve
+  - liz
 thumbnail: thumbnails/from-jupyter-notebook-to-scientific-paper.png
 tags:
   - tutorial

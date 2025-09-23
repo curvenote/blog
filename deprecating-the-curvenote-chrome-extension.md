@@ -3,22 +3,8 @@ title: 'Deprecating the Curvenote Chrome Extension: Embracing Better Paths to Sc
 description: Announcing the deprecation of the Curvenote Chrome Extension and outlining updated publishing workflows using the Curvenote Editor and CLI tools.
 date: 2025-05-26
 authors:
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations:
-      - Curvenote
+  - rowan
+  - steve
 tags:
   - update
   - chrome-extension

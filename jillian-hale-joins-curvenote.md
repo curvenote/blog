@@ -5,12 +5,7 @@ thumbnail: thumbnails/jillian-hale-joins-curvenote.png
 description: |
   Welcoming product visionary Jillian Hale as we build a modular, dynamic future for research. Jillian’s background spans product strategy, communication, and platform design. She brings a unique blend of user-centered thinking and a deep respect for how scientific work gets done.
 authors:
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: true
-    email: rowan@curvenote.com
-    affiliations:
-      - Curvenote
+  - rowan
 tags:
   - update
 ---
