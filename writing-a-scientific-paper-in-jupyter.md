@@ -4,6 +4,7 @@ description: 'A webinar using Curvenote for scientific writing and integration w
 date: 2021-10-27
 tags:
   - webinar
+  - editor
 thumbnail: thumbnails/writing-a-scientific-paper-in-jupyter.png
 ---
 

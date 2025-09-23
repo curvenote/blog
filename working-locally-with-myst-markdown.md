@@ -8,6 +8,7 @@ date: 2022-07-21
 tags:
   - MyST
   - cli
+  - editor
 thumbnail: thumbnails/working-locally-with-myst-markdown.png
 authors: []
 license:

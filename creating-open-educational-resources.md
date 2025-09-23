@@ -4,6 +4,7 @@ description: 'How to integrate open source and reproducibility practices into pr
 date: 2021-08-13
 tags:
   - interview
+  - editor
 thumbnail: thumbnails/creating-open-educational-resources.png
 ---
 

@@ -13,6 +13,7 @@ authors:
       - Curvenote
 tags:
   - update
+  - editor
 thumbnail: thumbnails/introducing-curvenote-pro.png
 ---
 

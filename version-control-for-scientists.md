@@ -24,6 +24,7 @@ authors:
 tags:
   - article
   - open-science
+  - editor
 thumbnail: thumbnails/version-control-for-scientists.png
 ---
 

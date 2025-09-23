@@ -14,6 +14,7 @@ authors:
 tags:
   - open-source
   - LaTeX
+  - editor
 thumbnail: thumbnails/data-driven-latex-templates.png
 ---
 

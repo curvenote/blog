@@ -4,6 +4,7 @@ description: 'Using Curvenote’s Jupyter extension and editing tools to keep tr
 date: 2021-08-13
 tags:
   - interview
+  - editor
 thumbnail: thumbnails/curvenote-for-individual-research-notes.png
 ---
 

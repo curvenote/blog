@@ -15,6 +15,7 @@ license:
   code: MIT
 tags:
   - webinar
+  - editor
 thumbnail: thumbnails/creating-an-open-research-website.png
 ---
 

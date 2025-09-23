@@ -9,6 +9,7 @@ subtitle: Fast, continuous publishing workflows for modern continuous science
 tags:
   - webinar
   - publishing
+  - editor
 thumbnail: thumbnails/one-click-publishing-for-open-research.png
 authors: []
 license:

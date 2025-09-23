@@ -22,6 +22,7 @@ authors:
 date: 2022-07-21
 tags:
   - cli
+  - editor
 thumbnail: thumbnails/curvenote-on-the-command-line.png
 license:
   content: CC-BY-4.0

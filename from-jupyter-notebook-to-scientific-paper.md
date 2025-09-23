@@ -30,6 +30,7 @@ authors:
 thumbnail: thumbnails/from-jupyter-notebook-to-scientific-paper.png
 tags:
   - tutorial
+  - editor
 ---
 
 # From Jupyter Notebook to Scientific Paper

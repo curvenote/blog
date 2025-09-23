@@ -4,6 +4,7 @@ description: 'Learn how the SimPEG team uses Curvenote for their weekly meetings
 date: 2021-08-13
 tags:
   - interview
+  - editor
 thumbnail: thumbnails/curvenote-for-group-research-notes.png
 ---
 

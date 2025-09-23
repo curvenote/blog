@@ -15,6 +15,7 @@ tags:
   - LaTeX
   - tutorial
   - MyST
+  - editor
 keywords:
   - LaTeX Parser
   - MyST Markdown

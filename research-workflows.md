@@ -4,6 +4,7 @@ description: 'An interview with Dr. Lindsey Heagy, an assistant professor in Ear
 date: 2021-08-13
 tags:
   - interview
+  - editor
 thumbnail: thumbnails/research-workflows.png
 ---
 

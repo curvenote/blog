@@ -9,6 +9,7 @@ tags:
   - webinar
   - MyST
   - cli
+  - editor
 thumbnail: thumbnails/writing-a-scientific-paper-faster-myst-markdown.png
 authors:
   - name: Steve Purves

@@ -15,6 +15,7 @@ thumbnail: thumbnails/how-to-export-to-pdf-latex-using-curvenote.png
 tags:
   - tutorial
   - LaTeX
+  - editor
 ---
 
 # How to export to PDF & LaTeX using Curvenote

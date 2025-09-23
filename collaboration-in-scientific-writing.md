@@ -13,6 +13,7 @@ authors:
       - Curvenote
 tags:
   - article
+  - editor
 thumbnail: thumbnails/collaboration-in-scientific-writing.png
 ---
 

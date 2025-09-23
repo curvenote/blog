@@ -4,6 +4,7 @@ description: 'Improve reproducible research by linking together your articles an
 date: 2022-04-09
 tags:
   - interview
+  - editor
 thumbnail: thumbnails/curvenote-for-reproducible-research.png
 ---
 
