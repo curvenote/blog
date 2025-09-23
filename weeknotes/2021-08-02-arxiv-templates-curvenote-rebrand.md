@@ -35,7 +35,7 @@ We have deployed a set of templates this week including:
 - AGU Journal format
 - Volcanica Journal
 
-```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-ju3RyLSzP5hF3JsWTK7X-v1.gif
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-ju3RyLSzP5hF3JsWTK7X-v1.mp4
 :name: aa4e4721
 :align: center
 :width: 70%

@@ -44,7 +44,7 @@ The lack of interoperability between tools presents a significant barrier to str
 
 As a part of this presentation we improved our support in Curvenote for RRIDs & RORs, which we will share more about soon! 🚀
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-7ie9AGK0Ey0OwthySK7N-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-7ie9AGK0Ey0OwthySK7N-v1.mp4
 :name: qnwWxrliCT
 :align: center
 :width: 70%

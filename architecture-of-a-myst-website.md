@@ -85,7 +85,7 @@ The theme server also should determine commands for installing and starting the 
 
 At Curvenote, we are big believers in creating and exposing structured data for scientific and technical communication. The choices that we have made in architecting the MyST website allows for novel themes for reading and interacting with scientific content that can pull on the latest technologies. For example, imagine being able to pull in a reference to a scientific figure — that is fully interactive and comes with compute and data accessible.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-q9EUCnCkZqoPdsberWNm-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-q9EUCnCkZqoPdsberWNm-v1.mp4
 :name: DVTakIamJi
 :align: center
 :width: 70%

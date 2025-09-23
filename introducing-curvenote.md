@@ -34,7 +34,7 @@ The new Curvenote brand!
 
 We believe that our new brand will grow with us over the next several years as we introduce tools and workflows to reimagine scientific communication and collaboration. We have also been giving a lot of thought to our new website, take a look around and let us know what you think!
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-YjyDLusgjH7jl7wOd5s3-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-YjyDLusgjH7jl7wOd5s3-v1.mp4
 :name: oPMQk65hW8
 
 The new Curvenote website!

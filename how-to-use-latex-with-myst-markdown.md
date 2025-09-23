@@ -40,7 +40,7 @@ To get started with rendering a $\LaTeX$ document using MyST, [install the CLI](
 
 [^writetoc]: Note that if you have many `*.tex` documents in the folder, try a `myst init --write-toc` to edit the files that get parsed.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-cb2d1LYaCOuiFg1Y8n9V-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-cb2d1LYaCOuiFg1Y8n9V-v1.mp4
 :name: myuvxgVY6u
 :align: center
 :width: 100%

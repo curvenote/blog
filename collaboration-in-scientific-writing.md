@@ -1,7 +1,7 @@
 ---
 title: Collaboration in Scientific Writing
 description: 'Reflections on distinct modes of collaboration in science including gathering feedback, asynchronous co-authoring and review, and real-time simultaneous editing.'
-date: 2021-09-27T11:21:55.353Z
+date: 2021-09-27
 authors:
   - name: Steve Purves
     userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
@@ -11,16 +11,12 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: collaboration
-oxa: oxa:DOHMeg040aVXqR51yjBy/9xm9sJTC6kGhmHgyydkh
 tags:
   - article
 thumbnail: thumbnails/collaboration-in-scientific-writing.png
 ---
 
 # Collaboration in Scientific Writing
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/DMKQRaZKb3ElhDzsgBQH.6"}
 
 ## What is Collaboration?
 
@@ -44,8 +40,6 @@ In this post, we talk about some distinct modes of collaboration and the technol
 - Asynchronous co-authoring and review
 - Real-time pairing / simultaneous editing
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/c6474c6uJddODYnA6xqH.7"}
-
 ## Gathering feedback
 
 This is likely one of the loosest forms of collaboration, typically asynchronous with a long cycle times — gathering feedback from a diverse group can be a significant amount of work. Not just in engaging or preparing the material, but in collecting and processing the feedback itself, which can sometimes come in various forms.
@@ -62,12 +56,10 @@ Two simple features that are taken for granted in so many apps we use today (jus
 - _Share your supporting information_ - To get useful and constructive feedback you need to formulate your “Ask” and provide those notes along with your manuscript. Curvenote projects let you [give your collaborators access](https://curvenote.com/docs/overview/collaboration) to multiple documents, such as guidance notes, manuscripts, and supporting materials (e.g., Jupyter notebooks), so everyone is working on the same page, in the same place.
 - _In-place commenting_ - Threaded commenting in a manuscript allows feedback to be provided and conversations to happen in-place and right beside the content it refers to. This is the ideal context for feedback; it encourages discussions over duplication and collaborators also get the chance to interact. A solid real-time commenting system with threads, notifications, and resolutions is of real benefit and makes it much easier for the author to gather and incorporate feedback. Everything in one place, everything in context.
 
-  ```{figure} images/DOHMeg040aVXqR51yjBy-5ETK8t8lR83uM6yQp68A-v2.gif
-  :name: a7ace020
+```{figure} images/DOHMeg040aVXqR51yjBy-5ETK8t8lR83uM6yQp68A-v2.mp4
+:name: a7ace020
 
-  ```
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/QcvusgKEg9EYE8DlnVQL.7"}
+```
 
 ## Asynchronous Coauthoring
 
@@ -105,8 +97,6 @@ We prefer the inline style of Google Docs because it is relatively clear to read
 
 We don’t yet have a “suggest changes” feature available in Curvenote, but it’s firmly on our roadmap so watch this space.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/HM3yH7hx1YSBQnr5S3of.7"}
-
 ## Pair Authoring
 
 We’ve adapted a phrase here from the software development world where pair programming is the practice of multiple programmers working simultaneously on a single change or task.
@@ -132,8 +122,6 @@ Image by Marvin Mayer - <https://unsplash.com/photos/SYTO3xs06fU>
 ```
 
 We have two important features at the top of our roadmap - presence and interactive cursors. If you’ve used Google Docs or other online collaborative editors, you’ll recognize these features. We’re expecting these will improve our real-time collaboration experience - and we’ll incorporate our own flavor of this UX pattern, meaning you’ll see who is actively watching and editing a block as well as seeing their cursor when they have a block in focus, are typing or have made a selection.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BdK8zI8xwvKiGvQz7mqP.6"}
 
 ## Collaboration doesn’t stop there
 

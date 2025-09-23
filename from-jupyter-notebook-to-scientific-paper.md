@@ -82,7 +82,7 @@ Curvenote provides collaboration and version control features directly within th
 
 Once installed and logged in, the extension adds a toolbar and a new control panel to Jupyter, allowing you to save notebooks to the project you just created. Both your notebook and each individual cell is saved and given a persistent Curvenote identifier, called an [OXA Link](http://oxa.link/), along with a version number. OXA Links allow changes and new versions of a cell or notebook to be tracked and linked into other documents.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-Zp1baAoZQ12xjCSvxEE4-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-Zp1baAoZQ12xjCSvxEE4-v1.mp4
 :name: uDwWBkPhRV
 
 Save, version, collaborate, and comment on your Jupyter notebooks with the Curvenote Jupyter extension. Learn more about [Curvenote for Jupyter](https://curvenote.com/docs/jupyter).
@@ -98,7 +98,7 @@ When any collaborator saves a new version of their notebook using Curvenote, all
 
 With your Jupyter notebooks saved, versioned, and linked through Curvenote, you can now easily include your figures from Jupyter within your manuscript. Rather than a typical copy-paste of a figure, you will copy the OXA Link for that figure in Jupyter then paste it into the necessary location within your paper.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-QZ7l4CHbmW2nAwjzhsHS-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-QZ7l4CHbmW2nAwjzhsHS-v1.mp4
 :name: bkrZWLM02s
 
 [Import Jupyter outputs](https://curvenote.com/docs/write/interactive-outputs) into your Curvenote paper, any comments and changes are shown in both instances of the cell.
@@ -120,7 +120,7 @@ Curvenote’s writing environment provides all of the features you would expect 
 
 Most of these features can be accessed using an inline command menu (type `/` anywhere), then filtering through the drop down menu for the feature or component you want to add or reference. Some formatting like section headings can also be applied [using Markdown accelerators](https://curvenote.com/docs/write/markdown-accelerators), and selecting the subsequent formatted text provides a menu to edit the the heading size and numbering. Sections can be [numbered and referenced](https://curvenote.com/docs/write/internal-references) throughout the text.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-8HsRR1cIewUMvvPNBAEi-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-8HsRR1cIewUMvvPNBAEi-v1.mp4
 :name: BDYMZVqqxk
 
 Add numbered section headings to your Curvenote paper and [reference them throughout your text](https://curvenote.com/docs/write/internal-references).
@@ -128,7 +128,7 @@ Add numbered section headings to your Curvenote paper and [reference them throug
 
 In addition to outputs from Jupyter, static images, videos, and GIFs can be uploaded to your paper. You can toggle on the figure numbering and add a caption. Figures can be referenced throughout the text and a preview will appear when you hover over the reference.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-GSNmgJi9ytyy6Jlyd05e-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-GSNmgJi9ytyy6Jlyd05e-v1.mp4
 :name: N97qhlYrtZ
 
 Upload, number, caption, and [reference figures](https://curvenote.com/docs/write/figures-and-images) in your Curvenote paper.
@@ -136,7 +136,7 @@ Upload, number, caption, and [reference figures](https://curvenote.com/docs/writ
 
 Similarly you can [create and format tables](https://curvenote.com/docs/write/tables) directly within Curvenote or copy in tables of data from other sources. You can toggle on the table numbering and add a caption. Use inline commands to add references to tables within you text.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-OZwvEAfeZjMsY6a0ulkw-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-OZwvEAfeZjMsY6a0ulkw-v1.mp4
 :name: VZtL91ZgGf
 
 Include [tables with numbering](https://curvenote.com/docs/write/tables) and captions within your Curvenote paper.
@@ -144,7 +144,7 @@ Include [tables with numbering](https://curvenote.com/docs/write/tables) and cap
 
 Curvenote supports $\LaTeX$ math, both [inline and displayed as equation blocks](https://curvenote.com/docs/write/math-and-equations). Equations can be numbered and referenced throughout the text. When you hover over an equation reference, the equation will appear.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-SW2iySTBhz5oFNypgTw1-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-SW2iySTBhz5oFNypgTw1-v1.mp4
 :name: EQlqGODuGa
 
 Include $\LaTeX$ math both [inline and as equations](https://curvenote.com/docs/write/math-and-equations) that can be numbered and referenced throughout the text.
@@ -152,7 +152,7 @@ Include $\LaTeX$ math both [inline and as equations](https://curvenote.com/docs/
 
 Citations are added to a Curvenote project via either a DOI or uploading a `.bib` file. After your citations have been uploaded, you can use the [inline citation command](https://curvenote.com/docs/write/citations) to search through the available references. Citations can be formatted, combined, or separated by simply dragging the text.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-Fg9lHviHuma1B2FxArzB-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-Fg9lHviHuma1B2FxArzB-v1.mp4
 :name: jqsYbgyB0q
 
 Upload references, then use inline commands to search and add and [format in-text citations](https://curvenote.com/docs/write/citations).
@@ -168,7 +168,7 @@ If you are publishing in a preprint service or traditional journal you can use C
 
 Throughout the export process, Curvenote will both suggest and check against the specific requirements of the template you are using to help you get to a submission ready document.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-Sisea8Dsa7PFc3Vq3hpG-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-Sisea8Dsa7PFc3Vq3hpG-v1.mp4
 :name: XTCKUKN4CO
 
 Export your paper using a variety of format and professional template options for submission to a preprint or academic journal. Learn more about export to these formats: [Word](https://curvenote.com/docs/export/microsoft-word), [PDF](https://curvenote.com/docs/export/pdf), [LaTeX](https://curvenote.com/docs/export/latex).

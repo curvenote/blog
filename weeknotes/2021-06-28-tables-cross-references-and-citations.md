@@ -29,7 +29,7 @@ This week we released updates to tables, citation management, cross-references, 
 
 You can now reference sections and equations as well as traditional citations: {cite:t}`Cockett2018Efficient`.
 
-```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-wJfz7n327hL6BPok8gPx-v2.gif
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-wJfz7n327hL6BPok8gPx-v2.mp4
 :name: ab9fd561
 :align: center
 :width: 70%

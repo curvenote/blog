@@ -38,7 +38,7 @@ Curvenote's platform brings a suite of features to the SciPy proceedings designe
 Interactive Pop-Overs and Deep-Dive Links
 : Any figure, table, or equation can be referenced in MyST and in addition to automated numbering the cross-references have hover-references. This design feature is important for two reasons: (1) it improves reading comprehension [@doi:10.1145/3411764.3445648]; and (2) it focuses on structured data which can be accessible between papers, creating an open-ecosystem of machine-actionable, reusable content.
 
-:::{figure} ./images/scipy-pyqt.gif
+:::{figure} ./images/scipy-pyqt.mp4
 :label: fig:deep-dive
 :class: framed
 Dive deeper into sections, figures, individual paragraphs or even abbreviations. Example is from [PyQtGraph - High Performance Visualization for All Platforms](https://scipy.curve.space/articles/gerudo-f2bc6f59-00e). These practices help with reading comprehension by around 26% by providing information when the reader needs it [@doi:10.1145/3411764.3445648].
@@ -47,7 +47,7 @@ Dive deeper into sections, figures, individual paragraphs or even abbreviations.
 Structured Data and Enhanced Links
 : Enhanced-links are being used throughout the SciPy proceedings for links to Wikipedia, GitHub issues or code, and other scientific databases to augment writing. For example, Wikipedia links come with previews, for example, `<wiki:gravitational_waves>` becomes <wiki:gravitational_waves>. GitHub links to pull-requests also give hover information [@fig:interactive-pr].
 
-:::{figure} ./images/scipy-pr.gif
+:::{figure} ./images/scipy-pr.mp4
 :label: fig:interactive-pr
 :class: framed
 Interactive pull-requests from GitHub in [Pandera: Going Beyond Pandas Data Validation](https://proceedings.scipy.org/articles/gerudo-f2bc6f59-010#retrospective).
@@ -68,7 +68,7 @@ Looking ahead, these features lay the groundwork for integrating Jupyter Noteboo
 
 Curvenote has worked with the SciPy 2024 Proceedings Co-Chairs to integrate the Curvenote submission platform with GitHub to support a familiar workflow to reviewing code. The open-source integration is inspired by the Journal of Open Source Software (JOSS), and works on top of GitHub actions. By leveraging the HTML build process, authors get feedback on their paper in a few seconds and the feedback shows a build page and structural checks on the metadata of the paper. The upgraded workflows and infrastructure is designed to make the process seamless for authors and reviewers alike.
 
-:::{figure} ./images/scipy-checks.gif
+:::{figure} ./images/scipy-checks.mp4
 :label: fig:scipy-checks
 :class: framed
 Curvenote provides structural checks to improve metadata and enforce the submission standards for the journal. For example, checking links, DOIs, and metadata for authors and affiliations. These can be run on the command line or in the GitHub action.

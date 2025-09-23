@@ -33,7 +33,7 @@ In a lot of our conversations with people who would love to deploy their noteboo
 
 We took a big step there this week, by integrating the open-source `thebe-core` project (on [github](https://github.com/executablebooks/thebe-core)) with the [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) project allowing Python based notebooks to be executed in-browser, without a connection to a Jupyter server. This is leveraging some of the cutting edge changes from the Project Juptyer community and we’re excited to be able to build that into Curvenote sites soon.
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-maGNaoHE046JhvVT8T1H-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-maGNaoHE046JhvVT8T1H-v1.mp4
 :name: eT9LFddpGw
 :align: center
 :width: 100%

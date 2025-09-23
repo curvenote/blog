@@ -37,7 +37,7 @@ This is frustrating to no end.
 
 If you are using Slack or Notion, try creating a code block and then adding something to the start or end after it is created. The behaviour is **_completely_** **_unintuitive_**, you have no idea if the next character you type will be inside or outside of the code-mark, and in Notion, for example, this changes based on if you hit backspace.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-kyfA2zoorzdQ86lQcWXd-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-kyfA2zoorzdQ86lQcWXd-v1.mp4
 :name: BAeIQecc7P
 
 Will the next character you type be inside or outside the code-mark? Are you feeling lucky?!
@@ -45,7 +45,7 @@ Will the next character you type be inside or outside the code-mark? Are you fee
 
 In Slack, if you start a message with code, there is **_literally_** no way to exit the code at the start without using your mouse, deleting the code-mark completely, or knowing the keyboard shortcut. In Slack, the right arrow key also mysteriously turns into a spacebar at the end of the code-mark or feels like it skips one character ahead.
 
-```{figure} images/AVQ2dzLNloEd25Io8NbA-o7qfguj5MicBmAYHpHV2-v1.gif
+```{figure} images/AVQ2dzLNloEd25Io8NbA-o7qfguj5MicBmAYHpHV2-v1.mp4
 :name: Vlrg3r60XE
 
 Editing a code-mark in Slack will mean you have to get out your mouse.

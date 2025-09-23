@@ -3,7 +3,7 @@ title: >-
   Curvenote Joins Forces with Scholar Nexus to Revolutionize Scholarly
   Publishing
 description: Curvenote announces a strategic partnership with Scholar Nexus. Initially incubated by Neuromatch, the partnership is aimed at transforming the outdated scholarly publishing system by embracing the principles of open science, scholarly-led infrastructure, reproducibility, and an exceptional user experience.
-date: 2023/07/06
+date: 2023-07-06
 tags: ['press', 'journal', 'partnership']
 thumbnail: ./images/scholar-nexus.png
 ---

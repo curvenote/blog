@@ -32,7 +32,7 @@ We have completely redone the navigation, improved the styles and spacing and gi
 - The titles will now always be up to date with the latest title of the article ⬆️
   - They will also change as you are typing ⚡, before this worked, but was very slow! 🐌
 
-```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-KWAA9DAyUO9sLx1RD45L-v1.gif
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-KWAA9DAyUO9sLx1RD45L-v1.mp4
 :name: aab7ec88
 :align: center
 :width: 50%

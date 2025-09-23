@@ -27,7 +27,7 @@ Curvenote is a tool for [scientific writing](https://curvenote.com/for/writing) 
 
 But, how do you quickly create a BibTeX file containing your references for your Curvenote project? [Paperpile](http://paperpile.com/) offers two solutions to this problem—one simple, and one that is a bit more technical.
 
-```{figure} images/paperpile/citations-refs.gif
+```{figure} images/paperpile/citations-refs.mp4
 :align: center
 :width: 95%
 Easily search through your Paperpile references directly when you are writing in Curvenote!
@@ -129,7 +129,7 @@ Download any Paperpile folder as a BibTeX file.
 
 3. Now anyone writing with you can easily use these references in the project using the `[[cite:` prompt in Curvenote. Keep typing to search through your references dynamically, Curvenote will keep access to all sorts of metadata, including the abstract and DOI.
 
-   ```{figure} images/paperpile/citations-refs.gif
+   ```{figure} images/paperpile/citations-refs.mp4
    :align: center
    :width: 95%
    Search through your references as you are writing, and easily add your Paperpile references into your Curvenote articles.

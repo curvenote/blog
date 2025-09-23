@@ -29,7 +29,7 @@ Rowan takes us through the latest draft of the new website which is almost ready
 
 At Curvenote we've been working on website, infrastructure, and UX for a while now and we are looking forward to getting back to working on some new functionality in September.
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-gsB9EvsyeKWclKYf0TAM-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-gsB9EvsyeKWclKYf0TAM-v1.mp4
 :name: a9d815ff
 :align: center
 :width: 70%
@@ -37,7 +37,7 @@ At Curvenote we've been working on website, infrastructure, and UX for a while n
 
 The SimPEG community regularly use Curvenote for [their meeting notes](https://curvenote.com/@simpeg/meeting-notes), and have built up a long list of previous meetings. They’re missing some feature allowing them to group (or filter) these into sub-folders easily. Creating additional articles is a way to do it but…. it doesn’t really cut it. It’s on our radar to enable this grouping and other “views” on the navigation panel to let people add things that help present and organize the contents of the project.
 
-#### MDPI Journal Template
+### MDPI Journal Template
 
 We recently added the export template for the MDPI Journals, which is a huge template with a lot of features supporting 300+ journals. Right now it’s hardcoded for the Energies Journal but will open up when we add our template user options. Porting this template now is has helped identify a bunch of features that we’ll add as options, which will help to fully support other journals like SEG, AGU, etc….
 
@@ -45,6 +45,6 @@ We recently added the export template for the MDPI Journals, which is a huge tem
 
 +++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/tutkQvt9cpim7kh6AlBo.1","tags":[]}
 
-#### LaTeX Diffs
+### LaTeX Diffs
 
 Finally, we talk about LaTeX diffing and PDF revisions ready to go to journals, some of Liz's past experiences doing that manually mean a lot of painstaking manual work and mopping up LaTeX errors. With Curvenote's versioned data model and the ability to consistently generate LaTeX from our schema, we should be able to do this more reliably as an additional export feature.

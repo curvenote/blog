@@ -70,7 +70,7 @@ Once you’ve selected a template, the next screen you are shown is a dynamic fo
 
 Here’s an example of options for the [AGU 2019 template](https://curvenote.com/templates/agu2019) with two required and one optional field.
 
-```{figure} images/DOHMeg040aVXqR51yjBy-yt0BZL4jK2SjXDxV3Msz-v1.gif
+```{figure} images/DOHMeg040aVXqR51yjBy-yt0BZL4jK2SjXDxV3Msz-v1.mp4
 :name: a09c5dd6
 ```
 
@@ -101,7 +101,7 @@ In the [AGU 2019 template](https://curvenote.com/templates/agu2019) example, we 
 
 To fix this we head back to our manuscript, select the block containing our abstract, and set the tag appropriately.
 
-```{figure} images/DOHMeg040aVXqR51yjBy-YKoYsveI091oLgtjF7EO-v1.gif
+```{figure} images/DOHMeg040aVXqR51yjBy-YKoYsveI091oLgtjF7EO-v1.mp4
 :name: a7b08768
 ```
 

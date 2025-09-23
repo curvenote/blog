@@ -26,7 +26,7 @@ Curvenote is being used by at Swung TRANSFORM 2021 this week, the conference is 
 
 You will soon be able to download an article as LaTeX as well as the rendered PDF.
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-JvFo7pwuNV8nUvyoAG1h-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-JvFo7pwuNV8nUvyoAG1h-v1.mp4
 :name: 0a7ed2a2
 :align: center
 :width: 100%
@@ -50,7 +50,7 @@ Including (auto) numbering that you would expect from working in a latex doc.
 
 Starts of the notification system - in app and email - plans to introduce this for long running download notifications
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-9iSCFl4atF1ChpXpPVJJ-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-9iSCFl4atF1ChpXpPVJJ-v1.mp4
 :name: 00e79715
 :align: center
 :width: 100%

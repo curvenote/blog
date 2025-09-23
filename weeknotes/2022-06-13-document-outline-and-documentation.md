@@ -20,7 +20,7 @@ thumbnail: thumbnails/2022-06-13-document-outline-and-documentation.png
 
 This week we released a document outline view, which shows all of the headers on the page. This can be accessed from the navigation and can toggle between all project documents and the list of headers on the document you are currently viewing. As a part of these changes you can also open/close the project thumbnail to give yourself more room to see the outline of long documents.
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-I1hg40jx2iKVxhfLgDYO-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-I1hg40jx2iKVxhfLgDYO-v1.mp4
 :name: C3RGPoDMEn
 :align: center
 :width: 30%

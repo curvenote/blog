@@ -33,7 +33,7 @@ At Curvenote, our mission has always been to make scientific content easier to s
 
 Today, we’re announcing the deprecation of the Curvenote Chrome Extension.
 
-:::{figure} ./images/copy-paste-jupyter.gif
+:::{figure} ./images/copy-paste-jupyter.mp4
 The Curvenote Chrome extension allowed users to embed outputs from Juptyer Notebooks into their Curvenote articles from directly within JupyterLab. Although now deprecated, outputs from Jupyter Notebooks can still be used in Curvenote articles by first them.
 :::
 
@@ -52,7 +52,7 @@ Even though the Chrome Extension is being retired, we’re continuing to invest 
 Direct Upload via the Curvenote Editor
 : You can drag and drop Jupyter Notebook outputs and reuse interactive elements (such as charts and figures) directly within the Curvenote editor. This makes it easy to integrate and publish your content—just like before.
 
-:::{figure} ./images/upload-notebook.gif
+:::{figure} ./images/upload-notebook.mp4
 Jupyter notebooks can be uploaded to the Curvenote Editor directly and once available there, outputs can be used to create figures in within articles by simply copying and pasting them into place.
 :::
 

@@ -21,7 +21,7 @@ This week half of the Curvenote team is busy in grant application mode, a good s
 
 Looking at some recent features we now have cards appearing when people hover over internal links. This lets you look ahead and get context readily and the hover function is something that we'd like to use for figures, equations and citations too rather than click.
 
-```{figure} images/GTGiJ4YqK38DEbx5hX9m-6mU7i2wM4OngfzuXJ74W-v1.gif
+```{figure} images/GTGiJ4YqK38DEbx5hX9m-6mU7i2wM4OngfzuXJ74W-v1.mp4
 :name: m0XkEnrXPo
 :align: center
 :width: 70%

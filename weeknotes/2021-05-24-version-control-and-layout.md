@@ -43,7 +43,7 @@ Steve wrote a blog post outlining [version control for scientists](https://curve
 
 The layout of the app has been improved to be able to hide the navigation bar at all locations, it will now be easier to use Curvenote on smaller screens!
 
-```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-qTZPCOJMOP2vT6Fp1Wbp-v1.gif
+```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-qTZPCOJMOP2vT6Fp1Wbp-v1.mp4
 :name: 9082b28a
 :align: center
 :width: 70%
