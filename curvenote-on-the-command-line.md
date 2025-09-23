@@ -184,7 +184,7 @@ To begin your scientific writing and publishing journey with Curvenote, just [In
 
 ### See the Curvenote CLI in action
 
-Watch our recent webinar on [Creating an Open Research Website](oxa:AVQ2dzLNloEd25Io8NbA/ygZdDzHQgXRX8HOndayQ 'Creating an Open Research Website') where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
+Watch our recent webinar on [Creating an Open Research Website](./creating-an-open-research-website.md) where we go from a folder of Markdown files and Jupyter Notebooks to a published website in a few minutes, before exploring the customizations we can make to change navigation, add more content, add licenses, DOIs, binder links and more.
 
 ```{iframe} https://www.youtube-nocookie.com/embed/LviMD9zE3FM
 :align: center

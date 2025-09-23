@@ -55,7 +55,7 @@ This did mean touching a lot of code to make everything work again!
 
 ## Thebe Release Candidate
 
-This week we published `thebe` `v0.9.0-rc.0` as part of our ongoing work on the executable books codebase. While `thebe-core` is essentially a headless connector library for Jupyter that allows any Javascript app to connect to and compute on sessions on a Jupyter server (we talked about this in [Themes & Interactive Computing](oxa:GTGiJ4YqK38DEbx5hX9m/yxuBODMK3JiIsAAQkhym 'Themes & Interactive Computing') a few weeks ago), `thebe` providing that connectivity while also converting code snippets on a page into Codemirror cells for editing and execution.
+This week we published `thebe` `v0.9.0-rc.0` as part of our ongoing work on the executable books codebase. While `thebe-core` is essentially a headless connector library for Jupyter that allows any Javascript app to connect to and compute on sessions on a Jupyter server (we talked about this in [Themes & Interactive Computing](./2022-06-27-themes-and-interactive-computing.md) a few weeks ago), `thebe` providing that connectivity while also converting code snippets on a page into Codemirror cells for editing and execution.
 
 We refactored `thebe-core` out of `thebe` to provide Jupyter connectivity in different application contexts, and now we’ve reintegrated that into `thebe` upgrading the latter to typescript in the process, as well as introducing a bunch of improvements including better messaging and JuptyerLite support.
 
