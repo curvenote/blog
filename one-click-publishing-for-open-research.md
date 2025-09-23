@@ -59,9 +59,6 @@ The video thumbnail has been placed right over the publishing button 😢. We’
 
 To start writing and publishing online simply [sign up for a Curvenote account](https://curvenote.com/signup). It’s completely free and you can publish projects to as many `curve.space` subdomains as you need. If you need a custom domain setup or are looking to integrate with another website [get in touch](mailto:support@curvenote.com).
 
-```{important}
-**Want to work locally in Markdown?**
-
+:::{important} Want to work locally in Markdown?
 As well as being able to publish a website from the Curvenote editor shown in this webinar. You can also work locally with Markdown files in your favorite text editor, using GitHub for version control, and even deploy sites from a GitHub action. To do this use the open source Curvenote CLI to build your site, run a local development web server and deploy to the Curvenote CDN - read the docs here: <http://curvenote.com/docs/web>
-
-```
+:::
