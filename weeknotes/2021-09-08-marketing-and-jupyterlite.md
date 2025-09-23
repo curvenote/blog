@@ -15,13 +15,9 @@ tags:
 thumbnail: thumbnails/2021-09-08-marketing-and-jupyterlite.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/9mFvWUv9QUsSxXqCzo2T.2","tags":[]}
-
 At Curvenote we’re learning to be a little louder — both in terms of putting our message out there and in terms of engaging and interacting with some like-minded researchers, scientists and engineers.
 
-We’ve started doing some more writing ourselves, so watch out for new posts on the [Curvenote Blog](https://curvenote.com/blog) and if you are active on social media — we are present on [twitter](https://twitter.com/curvenote) and [LinkedIn](https://www.linkedin.com/in/stevejpurves/) — we’d love to chat and a hand in amplifying what we are doing with the platform.
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/XmnIgV7fAd2ArA0eONF3.1","tags":[]}
+We’ve started doing some more writing ourselves, so watch out for new posts on the [Curvenote Blog](https://curvenote.com/blog) and if you are active on social media — we are present on [Bluesky](https://bsky.app/profile/curvenote.com) and [LinkedIn](https://www.linkedin.com/company/curvenote) — we’d love to chat and a hand in amplifying what we are doing with the platform.
 
 ### Medium
 
@@ -38,8 +34,6 @@ Obviously, reach and SEO is a bit part of this, but there is a lot to sacrifice 
 So this just reminds us of one of the value propositions of Curvenote. If you are working in Curvenote to write — from day-to-day meeting notes through to publications and papers, doing outreach and building a professional profile becomes much easier.
 
 We’re concentrating hard now on supporting the writing experience for the publication process, but being able to write blogs and populate a profile and timeline easily, with good SEO on your content is something we’ve not lost sight of.
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/u8U2VxCpsLYBJEy9igv5.1","tags":[]}
 
 ### Jupyterlite
 

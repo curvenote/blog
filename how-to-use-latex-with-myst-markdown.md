@@ -133,7 +133,7 @@ There are a lot of different ways to work with $\TeX$ out there. In keeping with
 [^lua]: See [this example](https://github.com/jgm/djot/discussions/54#discussioncomment-4506866) of Lua compiled to WASM versus an equivalent implementation written in Node, the rough benchmark is 3-5 times faster in the native implementation with 3x smaller bundle sizes. The interoperability with the JavaScript ecosystem is also going to be more difficult in any compiled package.
 
 There are probably also many other libraries or approaches, let us know on social[^errors]: \
-[🐘](https://hachyderm.io/@curvenote) or [🐦](https://twitter.com/curvenote).
+[🐘](https://hachyderm.io/@curvenote) or [🦋](https://bsky.app/profile/curvenote.com).
 
 [^errors]: Just don't put emojis into your $\LaTeX$ documents!! 😱🙀😈
 

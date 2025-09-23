@@ -135,5 +135,5 @@ site:
   options:
     logo: public/logo.svg
     logo_text: Curvenote
-    twitter: curvenote
+    bluesky: curvenote.com
     analytics_google: G-8P87DBPQRS

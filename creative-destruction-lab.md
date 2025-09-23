@@ -35,7 +35,7 @@ We participated in our first session on Nov. 3, and made it through our mini-gam
 
 All jokes aside, the [quality of the mentors](https://www.creativedestructionlab.com/mentors/) is world class and they are essentially voting with their time to help with insights, advice and connections. We are really excited to work with our mentors over the coming months and hope to have some updates soon.
 
-Our introductory video that we submitted to CDL is below - we will keep folks updated on [Twitter](https://twitter.com/curvenote) to where we get to in the program!
+Our introductory video that we submitted to CDL is below - we will keep folks updated on [Bluesky](https://bsky.app/profile/curvenote.com) to where we get to in the program!
 
 ```{iframe} https://www.youtube-nocookie.com/embed/i78yXEQV8Go
 :label: BqTxlfMOiB

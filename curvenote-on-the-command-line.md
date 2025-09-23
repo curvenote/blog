@@ -142,7 +142,7 @@ We're extending the CLI to expose Curvenote's full version control capabilities 
 - a round trip of files and content with conflict resolution, allowing authors working locally to work with others concurrently no matter if they are working locally themselves or in the online editor
 - the ability to add and push new files including images and other supported files to Curvenote projects, enabling workflows where visualizations and figures are generated outside of Jupyter notebooks.
 
-Stay tuned for [updates on twitter](https://twitter.com/curvenote)!
+Stay tuned for [updates on Bluesky](https://bsky.app/profile/curvenote.com)!
 
 ## Exporting Content to Word, PDF, LaTeX, MyST and more
 

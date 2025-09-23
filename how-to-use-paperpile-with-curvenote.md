@@ -27,7 +27,7 @@ Curvenote is a tool for [scientific writing](https://curvenote.com/for/writing) 
 
 But, how do you quickly create a BibTeX file containing your references for your Curvenote project? [Paperpile](http://paperpile.com/) offers two solutions to this problem—one simple, and one that is a bit more technical.
 
-```{figure} paperpile/citations-refs.gif
+```{figure} images/paperpile/citations-refs.gif
 :align: center
 :width: 95%
 Easily search through your Paperpile references directly when you are writing in Curvenote!
@@ -64,7 +64,7 @@ To create a new folder in Paperpile, follow these steps:
 
 1. In the left-hand toolbar in the Paperpile web app, go to _FOLDERS_ > click the plus symbol _Add new folder_
 
-   ```{figure} paperpile/paperpile-plus-button.png
+   ```{figure} images/paperpile/paperpile-plus-button.png
    :align: center
    :width: 50%
 
@@ -73,7 +73,7 @@ To create a new folder in Paperpile, follow these steps:
 
 2. Name your new folder, and _click Create Folder_
 
-   ```{figure} paperpile/paperpile-new-folder.png
+   ```{figure} images/paperpile/paperpile-new-folder.png
    :align: center
    :width: 60%
 
@@ -82,7 +82,7 @@ To create a new folder in Paperpile, follow these steps:
 
 3. Add references to your folder. You can add papers by searching online, [uploading PDFs](https://paperpile.com/features/pdf-manager/), BibTeX or other files, browsing online databases, or by manual input of citations. References can also be collected using the Paperpile browser extension.
 
-   ```{figure} paperpile/paperpile-add-papers.png
+   ```{figure} images/paperpile/paperpile-add-papers.png
    :align: center
    :width: 80%
 
@@ -101,7 +101,7 @@ We describe how to export a BibTeX file from Paperpile and import it to the Curv
 
 To download the folder containing your references as a BibTeX file, select the downarrow next to the folder > _Export_ > _BibTeX_
 
-```{figure} paperpile/paperpile-export-bibtex.png
+```{figure} images/paperpile/paperpile-export-bibtex.png
 :align: center
 :width: 95%
 
@@ -112,7 +112,7 @@ Download any Paperpile folder as a BibTeX file.
 
 1. In the bottom-left corner of your project, click _REFERENCE MANAGEMENT_
 
-   ```{figure} paperpile/curvenote-reference-manager.png
+   ```{figure} images/paperpile/curvenote-reference-manager.png
    :align: center
    :width: 80%
 
@@ -121,7 +121,7 @@ Download any Paperpile folder as a BibTeX file.
 
 2. Click _UPLOAD BIBTEX_ to add the BibTeX (`.bib`) file to your project:
 
-   ```{figure} paperpile/curvenote-upload.png
+   ```{figure} images/paperpile/curvenote-upload.png
    :align: center
    :width: 95%
    Upload your BibTeX references to Curvenote.
@@ -129,7 +129,7 @@ Download any Paperpile folder as a BibTeX file.
 
 3. Now anyone writing with you can easily use these references in the project using the `[[cite:` prompt in Curvenote. Keep typing to search through your references dynamically, Curvenote will keep access to all sorts of metadata, including the abstract and DOI.
 
-   ```{figure} paperpile/citations-refs.gif
+   ```{figure} images/paperpile/citations-refs.gif
    :align: center
    :width: 95%
    Search through your references as you are writing, and easily add your Paperpile references into your Curvenote articles.
@@ -219,7 +219,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
 
 2. Click on the arrow next to the folder and select _Connect to Workflow._
 
-   ```{figure} paperpile/paperpile-connect-workflow.png
+   ```{figure} images/paperpile/paperpile-connect-workflow.png
    :align: center
    :width: 95%
    Connect to workflow in Paperpile.
@@ -227,7 +227,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
 
 3. Go to _BibTeX Export_ and click _\+Add._
 
-   ```{figure} paperpile/paperpile-bibtex-workflow.png
+   ```{figure} images/paperpile/paperpile-bibtex-workflow.png
    :align: center
    :width: 60%
    Create a BibTeX export workflow in Paperpile.
@@ -237,7 +237,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
 
 5. Authorize the **paperpile-bot** to push your `.bib` file to the GitHub repository. Follow the instructions on the screen to add the **paperpile-bot** as a collaborator to the repository. Ensure that the **paperpile-bot** has _Write_ permissions (permissions can be changed under _Settings > Access > Collaborators and teams_ in GitHub).
 
-   ```{figure} paperpile/paperpile-bot.png
+   ```{figure} images/paperpile/paperpile-bot.png
    :align: center
    :width: 100%
    Activate the paperpile-bot in GitHub.
@@ -247,7 +247,7 @@ We describe how to set up Paperpile’s BibTeX Export workflow to Curvenote in t
 
 An alternative to pushing a BibTeX file to a GitHub repository is to export to a live link. The link works in the same way as the GitHub workflow, in that it will be updated when any changes to the folder associated with the workflow are made, but without the version control of GitHub. To get the link, after selecting the BibTeX Export workflow, select the Download Link option, choose a name for the `.bib` file, and click Finish. Then copy the link.
 
-```{figure} paperpile/paperpile-live-link.png
+```{figure} images/paperpile/paperpile-live-link.png
 :align: center
 :width: 100%
 Export to a live link.
@@ -289,7 +289,7 @@ Export to a live link.
 
 3. Add citations directly in Markdown using `` {cite:t}`citation_key` `` (see the [MyST Markdown documentation on citations](https://mystmd.org/guide/citations)). BibTeX citation keys can be obtained from Paperpile (see the tips below).
 
-   ```{figure} paperpile/myst-citation.png
+   ```{figure} images/paperpile/myst-citation.png
    :align: center
    :width: 70%
    Create a citation in MyST Markdown.
@@ -297,7 +297,7 @@ Export to a live link.
 
 4. This inserts your citation into the text and you also get a reference list at the bottom of the document. The citations are dynamic and expose metadata to ensure your scientific articles follow FAIR principles {cite:p}`Wilkinson2016FAIR` (👈 you can click on the citation!).
 
-   ```{figure} paperpile/rendered-citation.png
+   ```{figure} images/paperpile/rendered-citation.png
    :align: center
    :width: 95%
    Rendered citations in your Curvenote site.

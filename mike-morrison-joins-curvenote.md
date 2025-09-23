@@ -155,4 +155,4 @@ When I first met [the Curvenote team](https://curvenote.com/mission), my first i
 
 Since Curvenote has already built the core (a markup language and editor), we’re now focused on the million amazing innovations you can make when articles start life as machine-readable (vs PDFs). We’re already working on concepts for formless article submission systems (no more filling-out 24 author names), crazy-streamlined peer review, and links between scientific articles that are more useful even than standard web links.
 
-But we’ll need all of your help to get the designs right, so please [{abbr}`HMU (Hit Me Up!)` on Twitter](https://twitter.com/mikemorrison) and let me know about all your hopes, dreams, and frustrations for scientific publishing and distribution. **My job is to make your job easier.** 😊
+But we’ll need all of your help to get the designs right, so please [{abbr}`HMU (Hit Me Up!)` on Bluesky](https://bsky.app/profile/mikemorrison.bsky.social) and let me know about all your hopes, dreams, and frustrations for scientific publishing and distribution. **My job is to make your job easier.** 😊

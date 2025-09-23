@@ -112,7 +112,7 @@ Steve Purves ([Curvenote](https://curvenote.com)) and Trevor Manz ([Anywidget](h
 There were a lot of new prototypes and integrations throughout the week, including to [Anywidget](https://anywidget.dev), [PyVista](https://pyvista.org), [Sphinx Auto-Documentation](https://www.sphinx-doc.org/), and more. We supported multiple teams working towards MyST integration including [Project Pythia](https://projectpythia.org), [NumPy Tutorials](https://numpy.org/numpy-tutorials), [Resampling Stats](https://resampling-stats.github.io), and more translations of the [SciPy Proceedings](https://proceedings.scipy.org).
 
 :::{figure} images/scipy2024-pyvista.mp4
-:label: scipy2024-sprints-anywidget
+:label: scipy2024-sprints-pyvista
 Franklin Koch ([Curvenote](https://curvenote.com)) and Bane Sullivan ([PyVista](https://docs.pyvista.org)) prototyped a new integration between MyST Markdown and PyVista to allow for embedded 3D visualizations and interactive hover cross-references.
 :::
 
