@@ -6,8 +6,6 @@ description: >-
 short_title: ''
 subtitle: Week of June 28, 2021
 date: 2021-06-28
-name: 2021-06-28-tables-cross-references-and-citations
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/rheexG69fQAbb1s2EPxk
 tags:
   - citation
   - tables
@@ -15,11 +13,7 @@ tags:
 thumbnail: thumbnails/2021-06-28-tables-cross-references-and-citations.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/SzDl4LFi2ygYuMI43m3u.4","tags":[]}
-
 This week we released updates to tables, citation management, cross-references, and using Curvenote for writing papers and publishing with these new referencing features in mind. We will be making progress on _bibtex_ import over the coming weeks as well as integrating with reference managers like [Zotero](https://www.zotero.org/).
-
-+++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/LA0d1mVbOhu9nFZHSWxT.3","tags":[]}
 
 # Jun 24, 2021 Internal References
 
@@ -33,7 +27,7 @@ This week we released updates to tables, citation management, cross-references, 
 \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x)\ e^{-2\pi i x \xi}\,dx
 ```
 
-You can now reference: {numref}`Section %s <a9729f97>` and {numref}`Section %s <af2ef163>` or {eq}`a46314cc` or traditional citations: {cite:t}`Cockett2018Efficient`.
+You can now reference sections and equations as well as traditional citations: {cite:t}`Cockett2018Efficient`.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-wJfz7n327hL6BPok8gPx-v2.gif
 :name: ab9fd561
@@ -43,7 +37,7 @@ You can now reference: {numref}`Section %s <a9729f97>` and {numref}`Section %s <
 Internal references to sections and figure numbers.
 ```
 
-You can also reference figures, for example, {numref}`Figure %s <wJfz7n327hL6BPok8gPx>` above! Try clicking it, and you can see what it refers to.
+You can also reference figures, for example, {numref}`Figure %s <ab9fd561>` above! Try clicking it, and you can see what it refers to.
 
 ```{figure} images/9Kv3iYv0uCgaG0zl4WDZ-4PpZUKxmFOR3XCya7UFE-v2.png
 :name: ab315e36

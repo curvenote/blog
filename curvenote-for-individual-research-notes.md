@@ -1,9 +1,7 @@
 ---
 title: Curvenote for Individual Research Notes
 description: 'Using Curvenote’s Jupyter extension and editing tools to keep track of research notes and progress.'
-date: 2021-08-13T18:53:00.000Z
-name: curvenote-for-individual-research-notes
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/BOWT2XhQxjylXZw4Pat7
+date: 2021-08-13
 tags:
   - interview
 thumbnail: thumbnails/curvenote-for-individual-research-notes.png
@@ -11,11 +9,7 @@ thumbnail: thumbnails/curvenote-for-individual-research-notes.png
 
 # Curvenote for Individual Research Notes
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/VrRl1P3dCchBq4hszTk5.1"}
-
-> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v)
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/dI4aoF9lOsG5Xlo7gd6H.1"}
+> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](./research-workflows.md)
 
 Lindsey uses both Jupyter and Curvenote for her own preliminary research notes.
 
@@ -38,3 +32,5 @@ View a sample of Lindsey’s personal research notes: [Geophysical Inversions wi
 
 A sample of Lindsey’s personal research notes: [Geophysical Inversions with SimPEG](https://curvenote.com/@simpeg/transform-2020-simpeg-tutorial/geophysical-inversions-with-simpeg)
 ```
+
+![](#research-workflow-cards)

@@ -1,9 +1,7 @@
 ---
 title: Curvenote for Group Research Notes
 description: 'Learn how the SimPEG team uses Curvenote for their weekly meetings, embedding interactive figures and references to notebook code and outputs.'
-date: 2021-08-13T18:53:00.000Z
-name: curvenote-for-group-research-notes
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/lBC6JoOk9Soj5c1ZerzJ
+date: 2021-08-13
 tags:
   - interview
 thumbnail: thumbnails/curvenote-for-group-research-notes.png
@@ -11,11 +9,7 @@ thumbnail: thumbnails/curvenote-for-group-research-notes.png
 
 # Curvenote for Group Research Notes
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/VrRl1P3dCchBq4hszTk5.1"}
-
-> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v)
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/WhG7FhDSPSDJeZzyB4PA.1"}
+> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](./research-workflows.md)
 
 Lindsey also participates in the [SimPEG](https://curvenote.com/@simpeg) (Simulation and Parameter Estimation in Geophysics) group - where the note taking process is even more complex.
 
@@ -37,3 +31,5 @@ The SimPEG group has adopted Curvenote for their weekly Wednesday meetings, wher
 
 Interactive plots embedded directly in meeting notes
 ```
+
+![](#research-workflow-cards)

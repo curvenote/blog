@@ -20,7 +20,7 @@ tags:
 ---
 
 ```{note} Press Release
-Read the press release on [Curvenote Accepted into Creative Destruction Lab](https://curvenote.com/news/curvenote-accepted-into-creative-destruction-lab).
+Read the press release on [Curvenote Accepted into Creative Destruction Lab](./news/curvenote-accepted-into-creative-destruction-lab.md).
 ```
 
 # Creative Destruction Lab

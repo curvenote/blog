@@ -15,12 +15,12 @@ thumbnail: thumbnails/mike-morrison-joins-curvenote.png
 ---
 
 ```{note} Press Release
-Read the press release on [Curvenote Hires Mike Morrison to Redesign Science Communication](https://curvenote.com/news/curvenote-hires-morrison-creator-of-betterposter).
+Read the press release on [Curvenote Hires Mike Morrison to Redesign Science Communication](./curvenote-hires-morrison-creator-of-betterposter.md).
 ```
 
 When [my redesign of the scientific poster went viral](http://npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over) ([\#betterposter](https://twitter.com/search?q=%23betterposter&src=typed_query&f=top)), people asked me how we could apply the same design principles to improve scientific articles. The answer is easy to explain, but hard to implement: make articles more machine-readable than HTML _first_, and then you can wrap whatever interfaces you want on them — create a _universe_ of designs for different purposes 🎨.
 
-Now, [joining Curvenote](/news/curvenote-hires-morrison-creator-of-betterposter) as full-time {abbr}`UX (User Experience)` lead 💼, I’m super excited that I get to help actually implement this vision, and help improve the user experience of scientific articles, peer review, and scientific publishing.
+Now, [joining Curvenote](./news/curvenote-hires-morrison-creator-of-betterposter.md) as full-time {abbr}`UX (User Experience)` lead 💼, I’m super excited that I get to help actually implement this vision, and help improve the user experience of scientific articles, peer review, and scientific publishing.
 
 ```{figure} images/s0vIbUCEymZc7EKf23vc-JRPV7djL61HMdJzAUDQw-v1.png
 :name: QU9myP0P6Q

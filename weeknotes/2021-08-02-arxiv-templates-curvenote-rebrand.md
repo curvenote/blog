@@ -15,7 +15,7 @@ thumbnail: thumbnails/2021-08-02-arxiv-templates-curvenote-rebrand.png
 ---
 
 ```{note} Press Release
-Read the press release on [Curvenote Unveils New Product & Brand](https://curvenote.com/news/curvenote-unveils-new-product-and-brand).
+Read the press release on [Curvenote Unveils New Product & Brand](./news/curvenote-unveils-new-product-and-brand.md).
 ```
 
 +++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/MaLvLhuGNjxF1WXe3Tuq.1","tags":[]}

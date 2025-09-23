@@ -68,7 +68,7 @@ Lindsey Heagy, a scientific advisor of Curvenote, gave a practical talk on how t
 :label: heagy-scipy-2016
 :width: 100%
 
-Lindsey and I have been exploring and working on these ideas on how to refactor and explore knowledge. Lindsey Heagy gave a fantastic SciPy talk in 2016 that laid out general ideas on how to improve the reuse of knowledge by making an analogy to open-source software. It is exciting that this year [Curvenote is sponsoring the SciPy Proceedings](https://curvenote.com/news/curvenote-sponsors-scipy-proceedings-2024) and bringing those ideas to the whole scientific python community.
+Lindsey and I have been exploring and working on these ideas on how to refactor and explore knowledge. Lindsey Heagy gave a fantastic SciPy talk in 2016 that laid out general ideas on how to improve the reuse of knowledge by making an analogy to open-source software. It is exciting that this year [Curvenote is sponsoring the SciPy Proceedings](./news/curvenote-sponsors-scipy-proceedings-2024.md) and bringing those ideas to the whole scientific python community.
 :::
 
 ## Embedding Open Content

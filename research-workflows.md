@@ -1,15 +1,11 @@
 ---
 title: Research Workflows, with Dr. Lindsey Heagy
 description: 'An interview with Dr. Lindsey Heagy, an assistant professor in Earth Data Science and researcher at the University of British Columbia. Lindsey is also a Science Advisor for Curvenote.'
-date: 2021-08-13T18:53:00.000Z
-name: research-workflows
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v
+date: 2021-08-13
 tags:
   - interview
 thumbnail: thumbnails/research-workflows.png
 ---
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/TcAIKjVSy2ptzeGo4c7l.1"}
 
 If you’re a scientist or researcher, you’ll often find yourself in a variety of roles. Sometimes, you’ll be taking meeting notes, other times you’ll be writing manuscripts or grant applications. You may spend time teaching or organizing lab groups, or presenting at conferences. However, you’re probably using a number of different tools for these activities, PowerPoint, Word, Google Docs, LaTeX, Jupyter, and more.
 
@@ -26,3 +22,29 @@ Curvenote believes in accessible, dynamic, open, reproducible, and connected sci
 There are multiple ways to integrate Curvenote into your existing workflows: from introducing it in your preliminary research, to recording in-progress research and meeting notes, to publishing manuscripts.
 
 To learn more we interviewed [Dr. Lindsey Heagy](https://lindseyjh.ca/), an assistant professor in Earth Data Science and researcher at the University of British Columbia. Lindsey’s also a Science Advisor for Curvenote, which she’s using for multiple of her ongoing projects.
+
++++ {"label": "research-workflow-cards"}
+
+## Learn More About Curvenote Workflows
+
+Explore how researchers and scientists are using Curvenote to enhance their workflows across different aspects of their work - from individual note-taking to collaborative research and educational resource creation.
+
+:::{card} 📝 Curvenote for Individual Research Notes
+:url: ./curvenote-for-individual-research-notes.md
+Using Curvenote's Jupyter extension and editing tools to keep track of research notes and progress.
+:::
+
+:::{card} 👥 Curvenote for Group Research Notes
+:url: ./curvenote-for-group-research-notes.md
+Learn how the SimPEG team uses Curvenote for their weekly meetings, embedding interactive figures and references to notebook code and outputs.
+:::
+
+:::{card} 🔄 Curvenote for Reproducible Research
+:url: ./curvenote-for-reproducible-research.md
+Improve reproducible research by linking together your articles and your Jupyter Notebooks. You can make it easy for others to view, edit, and use your data and research.
+:::
+
+:::{card} 📚 Creating Open Educational Resources
+:url: ./creating-open-educational-resources.md
+How to integrate open source and reproducibility practices into presenting educational materials.
+:::

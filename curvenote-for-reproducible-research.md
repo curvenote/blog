@@ -1,9 +1,7 @@
 ---
 title: Curvenote for Reproducible Research
 description: 'Improve reproducible research by linking together your articles and your Jupyter Notebooks. You can make it easy for others to view, edit, and use your data and research - whether that’s across disciplines, industries or just within your own department.'
-date: 2022-04-09T18:58:53.535Z
-name: curvenote-for-reproducible-research
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/cIHxVJhlAtq6ESXIkDW4
+date: 2022-04-09
 tags:
   - interview
 thumbnail: thumbnails/curvenote-for-reproducible-research.png
@@ -11,11 +9,7 @@ thumbnail: thumbnails/curvenote-for-reproducible-research.png
 
 # Curvenote for Reproducible Research
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/VrRl1P3dCchBq4hszTk5.1"}
-
-> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v)
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/7peJ8AkFl3dpsEARYPGg.1"}
+> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](./research-workflows.md)
 
 Reproducibility is something we hear about a lot in science and academia. This is what allows others to verify your claims and ultimately build on your work - which is the basis of science. It may sound simple, but there’s a lot to explore in this concept.
 
@@ -44,3 +38,5 @@ But if you turn to a lighter-weight option, like Google Docs, to make it easier 
 And of course, there’s also the option to bring in figures and other content from your Jupyter Notebooks with [Curvenote’s extension](https://curvenote.com/for/jupyter/).
 
 “Curvenote fundamentally changes who can participate in scientific discussions. Someone can look at your Jupyter Notebook in Curvenote and comment on it, without actually having to open or install Jupyter,” said Lindsey. “I can just save my Jupyter Notebook to Curvenote, and then I send them a link! So I'm really excited to see what sort of opportunities this opens up within science.”
+
+![](#research-workflow-cards)

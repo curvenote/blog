@@ -1,21 +1,13 @@
 ---
 title: Creating Open Educational Resources
 description: 'How to integrate open source and reproducibility practices into presenting educational materials.'
-date: 2021-08-13T18:53:00.000Z
-name: creating-open-educational-resources
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/OIFQeZMQX6tHycyhWFQ7
+date: 2021-08-13
 tags:
   - interview
 thumbnail: thumbnails/creating-open-educational-resources.png
 ---
 
-# Creating Open Educational Resources
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/VrRl1P3dCchBq4hszTk5.1"}
-
-> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/fbD9x9lvsz7sQEqsFV1v)
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/qgDkgvQMFJrYQKMX4Mdm.1"}
+> Part of a series on Research Workflows using Curvenote, interviewing Dr. Lindsey Heagy. [Start at Part 1.](./research-workflows.md)
 
 As a professor, Lindsey aims to constantly improve and supplement her teaching practices. She’s currently focused on integrating her open source and reproducibility practices into how she presents educational materials. Specifically, she’s working with a team to create interactive educational courses, and their main project is a geophysics course aimed at engineers and geologists.
 
@@ -42,3 +34,5 @@ And again, Curvenote’s features make it easy for the team to involve other exp
 
 Creating educational resources in Curvenote. View the [geophysics course sample](https://geosci-inversion.curve.space).
 ```
+
+![](#research-workflow-cards)

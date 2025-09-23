@@ -26,7 +26,7 @@ Curvenote sponsored SciPy2024 and worked throughout the week to showcase the Sci
 
 ## Elevating the SciPy Proceedings
 
-The highlight of our involvement was our role in supporting the [SciPy Proceedings](https://proceedings.scipy.org). This year, we implemented significant enhancements to the entire process. From automated submission systems with GitHub integrations to a new, user-friendly journal website, we worked hard to make this year's proceedings seamless and interactive. You can read more about these improvements in our announcement of [Curvenote's partnership with NumFocus](https://curvenote.com/news/curvenote-sponsors-scipy-proceedings-2024).
+The highlight of our involvement was our role in supporting the [SciPy Proceedings](https://proceedings.scipy.org). This year, we implemented significant enhancements to the entire process. From automated submission systems with GitHub integrations to a new, user-friendly journal website, we worked hard to make this year's proceedings seamless and interactive. You can read more about these improvements in our announcement of [Curvenote's partnership with NumFocus](./news/curvenote-sponsors-scipy-proceedings-2024.md).
 
 :::{figure} images/scipy2024-proceedings-talk-rowan.png
 :label: scipy2024-proceedings-team-rowan

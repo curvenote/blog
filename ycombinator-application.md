@@ -30,7 +30,7 @@ thumbnail: thumbnails/ycombinator-application.png
 ```{note}
 The following is an excerpt from our application to YCombinator, which is the premier startup accelerator in Silicon Valley. We were selected as one of 8 Canadian companies with over 16,000 global applications. From January to March 2021, we went through their Winter 21 accelerator program.
 
-Read the press release on [Curvenote's acceptance into Y Combinator](https://curvenote.com/news/curvenote-accepted-into-ycombinator).
+Read the press release on [Curvenote's acceptance into Y Combinator](./news/curvenote-accepted-into-ycombinator.md).
 ```
 
 ### What does Curvenote do?
