@@ -21,8 +21,6 @@ tags:
 thumbnail: thumbnails/future-of-research-communication-and-collaboration.png
 ---
 
-+++ {"oxa":"oxa:Jui5IMQsraql3nB2AwWQ/nKAYTyJZS9PznTLxNED2.6"}
-
 **April 20, 2022**
 
 ```{iframe} https://www.youtube-nocookie.com/embed/uSbjpiUsdT0
@@ -43,8 +41,6 @@ We will discuss these recommendations in the context of (a) the ExecutableBooks 
 > “This vision moves away from the paper-centric model of the scholarly literature, towards a more distributed network-centric model” that “vastly improves knowledge transfer and \[has a\] far wider impact.”\
 > {cite:p}`bourne_improving_2011`
 
-+++ {"oxa":"oxa:Jui5IMQsraql3nB2AwWQ/GU2rq2Q2TTAaL7zqxxq3.1"}
-
 ## Bio
 
 ```{figure} images/Jui5IMQsraql3nB2AwWQ-0Mgf1kLI8G6amlQjhTAS-v1.png
@@ -52,8 +48,6 @@ We will discuss these recommendations in the context of (a) the ExecutableBooks 
 ```
 
 Rowan completed his PhD in Geophysics at the University of British Columbia, Canada, in 2017. His PhD laid out a [framework for geophysical inversions](https://phd.row1.ca/phd/framework) (SimPEG!) and applied it to [large-scale](https://phd.row1.ca/phd/richards), [vadose-zone groundwater flow](https://phd.row1.ca/phd/applications). Currently, Rowan works at [Curvenote](http://curvenote.com/), a company that sits at the intersection of scientific collaboration, publishing, and technology and provides tools for writing and collaborating on technical documents. Rowan founded Curvenote in 2020, with the mission to help get scientific communication out of PDFs and onto the web — the way we communicate scientific knowledge should evolve past the status quo of print-based publishing and all the limitations of paper. He is a core team member of the ExecutableBooks community, which supports MyST Markdown and JupyterBook.
-
-+++ {"oxa":"oxa:Jui5IMQsraql3nB2AwWQ/dUnDM4EBsMFf1nVsDZMO.1"}
 
 ### Slides
 

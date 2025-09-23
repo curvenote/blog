@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-07-11-thumbnails-and-meeting-in-person.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/ibc8mO9GSNjrtz3juwmN.1","tags":[]}
-
 This week we’ve been busy on publishing directly from the Curvenote web-app, we will be able to tell you more next week. Meanwhile, we shipped some changes to meta tag information for Curvenote websites including adding thumbnails for social images and previews when you paste or share a link.
 
 By default, Curvenote will look for and use the first image from your Article or Notebook and use that as the thumbnail, but you can also override that by specifying a `thumbnail` field in the page or project [Frontmatter](https://curvenote.com/docs/web/frontmatter) when working locally, or by uploading a thumbnail image via the Article settings when working in [curvenote.com](http://curvenote.com).

@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2021-06-07-thumbnails-when-you-share-articles.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/YHjdbzwGyZAsyEZmDfGA.1","tags":[]}
-
 ### Thumbnails when you share! 🖼️ ❤️
 
 When you share a link on social media, Slack etc. the link will now “unfurl” with information about the article, notebook, project, or your profile. This will only happen when your project is publicly visible.

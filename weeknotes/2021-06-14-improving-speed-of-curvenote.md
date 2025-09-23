@@ -12,8 +12,6 @@ tags:
 thumbnail: thumbnails/2021-06-14-improving-speed-of-curvenote.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/S4xExTZeFE7kFip8hFre.3","tags":[]}
-
 Initial page load of Curvenote is **50% faster** ⚡⚡⚡
 
 This week we improved the speed of Curvenote by moving our `api` onto the same domain as the app, which avoids `Preflight-Requests`. These each took \~80ms, and without them each **request is about 30% faster**!

@@ -16,8 +16,6 @@ tags:
 thumbnail: thumbnails/2021-07-05-export-templates-and-jtex.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/PgcXwNIvmzC7JNtMZdeZ.2","tags":[]}
-
 This week released our export templates and have released this for PDFs. It has been a long-awaited feature that we've been heads down on, but the first glimpse of our new export facility is here and available in the app.
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-EJ2usc4pvd43ZuaUSCgK-v1.png

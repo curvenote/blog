@@ -18,8 +18,6 @@ authors:
 thumbnail: thumbnails/jupytercon2023.png
 ---
 
-+++ {"oxa":"oxa:s0vIbUCEymZc7EKf23vc/4ax0WeTzPYJoKy8gKrS2.5","tags":[]}
-
 A week ago the Curvenote team headed to Paris for JupyterCon 2023!
 
 ```{image}./images/jupytercon-2023-paris.jpeg

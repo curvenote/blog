@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-06-27-themes-and-interactive-computing.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/jko1iMxDkCz5UTUob2lw.1","tags":[]}
-
 There was a lot happening behind the scenes at Curvenote this week, we have started gearing up for publishing directly from the Curvenote app to a website, which should make it really easy for scientists to create, manage and update academic sites. We have also been working on bringing our documentation and blogs directly into [curvenote.com](https://curvenote.com), which has meant a concerted effort to improve templates for our website as well as aggregating content from multiple Curvenote sites into a single browsing experience for a user. We see a lot of parallels to the work we are doing here to creating custom journals or internal company portals for sharing technical informations (e.g. knowledge bases).
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-jGALgdIr4UySHDdi8cB1-v1.png

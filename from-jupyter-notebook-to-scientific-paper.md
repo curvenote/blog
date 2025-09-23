@@ -36,8 +36,6 @@ tags:
 
 # From Jupyter Notebook to Scientific Paper
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/mjZ6q0dAwQHbdwmctsN0.11"}
-
 Jupyter Notebooks are a perfect tool for exploratory data analysis, data cleanup, and visualization. Jupyter is fantastic in creating rich, interactive visualizations, which are very different outputs than how most of science is communicated today — through PDFs, PPT Slides and WordDocs. This disconnect of how modern science is _completed_, using data analysis tools and high performance computing, and the way we _communicate_ that work means it can be very difficult to share and to collaborate with stakeholders, especially if those stakeholders aren’t familiar with Jupyter!
 
 At Curvenote, our mission is to help transition science out of PDFs — bringing science communication into the web: where data can be dynamic, linked to computation, and kept up to date. That vision is still a ways off, with most of science being communicated in PDFs (and still even behind paywalls!), and this disconnect is what we will address in this article: **_How to create a scientific paper using Jupyter Notebooks?_**
@@ -64,15 +62,11 @@ Curvenote connects research, writing, collaboration, and communication across a 
 
 Curvenote presents a new streamlined approach to transition your Jupyter notebook into a paper, while maintaining the interactivity and direct connection between research and communication. Within this blog we will step through the creation of Steve Purves’ paper, [La Palma Seismicity 2021](https://curvenote.com/oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp.8) and explore the various technical writing and collaboration tools provided. The paper is based on recent analysis of [openly available earthquake data](https://www.ign.es/web/resources/volcanologia/tproximos/canarias.html) (provided by Instituto Geográphico Nacional) from the island of La Palma in the Canary Islands, Spain, which is currently experiencing an ongoing volcanic eruption.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/DmspzDkFD6122NtwteHr.8"}
-
 # Getting Started
 
 Curvenote is [based around projects](https://curvenote.com/docs/overview/projects). Each project contains articles, notebooks, blocks, references, that can be organized, shared, referenced, and published. From your personal or team profile, you can create a new project based on a starter template - such as the Paper template which provides some example content to guide you.
 
 You can invite your collaborators on your project, via their existing Curvenote username or an invitation email. Your collaborators can view, create, edit, comment, and save new versions of articles and notebooks. As the project owner you retain access to project administration.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/9gcvG2PrtfjCKfvEx9kt.11"}
 
 # Jupyter Notebooks & Curvenote
 
@@ -92,8 +86,6 @@ The Jupyter extension also embeds this persistent identifier into the metadata f
 
 When any collaborator saves a new version of their notebook using Curvenote, all other collaborators immediately have access to those changes. The extension also adds features to Jupyter that anyone can take advantage of, even when working alone, such as inline diffs for cells and sharing notebooks via Curvenote profiles.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Jj50GrmsBjwYbyi2LCsg.6"}
-
 ## Results and Figures from Jupyter
 
 With your Jupyter notebooks saved, versioned, and linked through Curvenote, you can now easily include your figures from Jupyter within your manuscript. Rather than a typical copy-paste of a figure, you will copy the OXA Link for that figure in Jupyter then paste it into the necessary location within your paper.
@@ -105,8 +97,6 @@ With your Jupyter notebooks saved, versioned, and linked through Curvenote, you 
 ```
 
 The OXA Link is active and any comments made to the figure on either Curvenote or Jupyter are visible and available in all locations, letting you have conversations with your collaborators, suggest changes, and explain updates. When you make updates to your figure in Jupyter and a new version of your notebooks is saved, you can automatically preview changes and update the figure within your manuscript. At any time you can also view and return to previous versions of the cell throughout the many drafts, reviews, and revisions your paper will go through.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/AbOV95kU1OLNqPlosHAm.9"}
 
 # Writing Your Paper
 
@@ -158,8 +148,6 @@ Citations are added to a Curvenote project via either a DOI or uploading a `.bib
 Upload references, then use inline commands to search and add and [format in-text citations](https://curvenote.com/docs/write/citations).
 ```
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Q4r1p5w3SoiupOGBDF4h.8"}
-
 # Communication and Publication
 
 After several iterations of data analysis, drafting, and editing with your collaborators, it is time to share your work with the wider community. If you intend to publish online, you can share your paper and Jupyter notebooks publicly on Curvenote by adjusting the visibility settings of your project.
@@ -174,12 +162,10 @@ Throughout the export process, Curvenote will both suggest and check against the
 Export your paper using a variety of format and professional template options for submission to a preprint or academic journal. Learn more about export to these formats: [Word](https://curvenote.com/docs/export/microsoft-word), [PDF](https://curvenote.com/docs/export/pdf), [LaTeX](https://curvenote.com/docs/export/latex).
 ```
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/6HtM2QzSuQ6sIF0Jkrkf.6"}
-
 Curvenote is designed to improve scientific communication, collaboration and reproducibility, and ultimately make it easier to publish interactive, reproducible scientific articles on the web.
 
 Curvenote maintains an active link between your Jupyter Notebook outputs and written articles that can be worked on with stakeholders who are not familiar with Jupyter. These bi-directional links decrease the time and disconnect between researching and communicating your work.
 
 [Sign up for Curvenote](https://curvenote.com/) for free and start versioning, collaborating, and writing in your project! We’re keen to hear your feedback, suggestions, and help you get the most out of Curvenote.
 
-To learn more about writing a paper based on research from a Jupyter notebook, you can watch a [webinar that Curvenote recently hosted](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/Xw2zhkdzJSTDHC8EVQ4X). Steve Purves steps through the creation of his [La Palma Seismicity 2021](https://curvenote.com/oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp.8) paper, starting with earthquake data collected from the volcanic eruptions, creates visualizations in Jupyter, then demonstrates a how a paper can be brought together and exported to arXiv ready PDF using Curvenote.
+To learn more about writing a paper based on research from a Jupyter notebook, you can watch a [webinar that Curvenote recently hosted](./writing-a-scientific-paper-in-jupyter.md). Steve Purves steps through the creation of his [La Palma Seismicity 2021](https://curvenote.com/oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp.8) paper, starting with earthquake data collected from the volcanic eruptions, creates visualizations in Jupyter, then demonstrates a how a paper can be brought together and exported to arXiv ready PDF using Curvenote.

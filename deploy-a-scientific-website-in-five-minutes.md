@@ -30,11 +30,9 @@ thumbnail: thumbnails/deploy-a-scientific-website-in-five-minutes.png
 
 # Creating & Sharing Scientific Websites
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/9NhlFdURPgqqpox69RV3.1"}
-
 We were excited to help support the [Transform 2022 conference](https://transform.softwareunderground.org/) this year, and work to showcase a lot of the amazing science that is going on in the subsurface geoscience community.
 
-We gave two lightning talks at the event, one on a demo of deploying a scientific website in 4.5 minutes ⏲️ , and a talk on some highlights that Steve wanted to share from the [Force11 Conference](https://curvenote.com/oxa:AVQ2dzLNloEd25Io8NbA/B4wmnvPyzVyBNQ8vHZpG) that we sponsored in 2021.
+We gave two lightning talks at the event, one on a demo of deploying a scientific website in 4.5 minutes ⏲️ , and a talk on some highlights that Steve wanted to share from the [Force11 Conference](./force11-2021.md) that we sponsored in 2021.
 
 ## Create a scientific website in 5 min! ⏱
 

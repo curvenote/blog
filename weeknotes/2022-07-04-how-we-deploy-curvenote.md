@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-07-04-how-we-deploy-curvenote.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/qUSDhJRM9lEGjO2adk54.1","tags":[]}
-
 This week we completely overhauled the [curvenote.com](http://curvenote.com) site to make better use of the new publishing tools that we are developing! The docs, blog, weeknotes, and changelog are all now directly accessible on [curvenote.com](http://curvenote.com) and we have more flexibility in improving and making this content interactive in the future! As part of this we are starting to consolidate all of our open-source repositories into a single monorepo (called [curvenote](https://github.com/curvenote/curvenote)!), which will better allow us to introduce themes and other changes to sites over time!
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-v2kffmUWdLXbZkIbuoK4-v1.png
@@ -47,8 +45,6 @@ When we want to release a new blog article or marketing site change, they can be
 We are updating our site now with new content directly from Curvenote in 5 seconds! Next week we hope that it will be deployed directly from our app as well.
 ```
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/ue4fMHZUijSwZpsevllr.1","tags":[]}
-
 ## Blogs, Conferences and Webinars
 
 This week we’ve been doing a lot of writing and preparing material to go out and share more about what we are doing and the new open-science publishing tools we have been working on. We’ll be posting the blog articles over the next couple of weeks, now that we’ve integrated the [curve.space](http://curve.space) blog back into our main website. 🚀
@@ -56,8 +52,6 @@ This week we’ve been doing a lot of writing and preparing material to go out a
 We have two talks lined up so far and have been prepping materials this week. The first is at [RSECon 2022](https://rsecon2022.society-rse.org/) which is the Research Software Engineering Conference taking place in the UK in early September. We’re doing [a walkthrough session](https://virtual.oxfordabstracts.com/#/event/3101/submission/23) for attendees showing the open research publishing workflow with Curvenote. Research Software Engineering is increasingly getting recognition as an independent discipline with specific challenges of delivering software for research projects. Check out the conference, and if you are attending let us know!
 
 The second is [a webinar with the EAGE Student Organization](https://eage.org/students/webinars/) that we’ll be giving in October (still to be announced). We’re excited to be able to take to an audience of students about open research and how our tools can help provide an easy route to publishing their research material. We’re happy to do the same for other student groups too and plan to set up more of these.
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/XkfUdOuFkkt93IirhiJy.1","tags":[]}
 
 ## Canada 🇨🇦
 

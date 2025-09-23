@@ -31,8 +31,6 @@ thumbnail: thumbnails/version-control-for-scientists.png
 
 # Version Control for Scientists
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/o6hBWuwPwpnQXULGngvX.2"}
-
 Version control systems allow people to work iteratively on content, code, and materials with the confidence that their work won’t be lost and that earlier work can be easily revisited and reproduced. These systems also allow advanced collaboration: with distributed teams working on parts of larger systems at the same time and having the confidence that they can “merge” all the changes back together in the future.
 
 The most advanced and flexible version control systems come from software engineering and decades of development there have resulted in mature, distributed version control systems. Git (<https://git-scm.com/>) being the most prevalent and GitHub (<https://github.com>) being the best known and most widely used platform for hosting git repositories.
@@ -44,8 +42,6 @@ These version control systems were designed for software development workflows. 
 > Writing is different than programming.
 
 At Curvenote we are exploring version control and collaboration workflows that are designed specifically for the research workflow. We are thinking about what a “unit of content” is for these workflows, how that content is updated, modified and reused in other documents and presentations.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/1Sq8jpjspC7sJwwo3eJY.5"}
 
 ## The push for git
 
@@ -62,27 +58,19 @@ Successful collaboration with git often requires many steps including pulling lo
 
 In the rest of this post, we are going to go through some of the basic concepts we have introduced in Curvenote’s version control system in our online, [collaborative editor](http://curvenote.com/) and our [Jupyter Chrome Extension](https://curvenote.com/for/jupyter/).
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/amt0gQgD3mbD1sw8AggV.3"}
-
 ## Version control for {strike}`scientists` humans
 
 ### Blocks
 
 Curvenote content is organized in blocks, whether that be a block of text, code, an image, or a Jupyter notebook output. For the moment, we’ll think of blocks of text as you would create in our online editor. If you go to any existing Curvenote article and select a block you’ll be able to see the version history for that block in its entirety. Just like the block shown below.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/PblR5aNNakTXRP304tyN.2"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-PblR5aNNakTXRP304tyN-v2.png
 :name: PblR5aNNakTXRP304tyN
 ```
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Ld1t3HLLbgKC7Sq7sXNA.2"}
-
 Each version of this block is a complete snapshot of the content at the point in time the content was saved. Versions are saved as whole blocks (rather than changesets), are immutable, and can be stepped back to at any time.
 
 That’s clear enough, but what happens when we are editing a block and have yet to save a new version? This is where `Drafts` come in.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/eDawg4eRA6S41W2H0sim.3"}
 
 ### Drafts
 
@@ -98,17 +86,11 @@ A new block has been created along with an initial draft. Drafts are updated in 
 
 As we iterate on our writing, we create drafts and close them each time that we save and all the changes are _flattened back into a consistent snapshot_ and stored in the next version. `merging` and `locking` of drafts is some internal terminology that you may see crop up in places. New drafts are always created on top of the latest block.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/COWnPN0iqCar9zGtjpal.3"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-COWnPN0iqCar9zGtjpal-v3.png
 :name: COWnPN0iqCar9zGtjpal
 ```
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Ets1jivsY94D21SVxsOP.1"}
-
 All of the individual blocks in Curvenote behave in this way and practically all content you see in Curvenote are represented by blocks; text, images, citations as well as Jupyter code and output blocks. Even Articles and Notebooks themselves are blocks.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/uYwne53T0vBerRZ85zON.4"}
 
 ### Articles
 
@@ -122,25 +104,17 @@ Articles are containers that group together a collection of other blocks (childr
 
 The children blocks of an article can evolve independently, potentially also changing elsewhere, and are likely to be various different versions, whilst the article itself has its own version history. Articles are like manifests detailing the current versions of their children blocks.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/W7lZnEfu91THNR9Kmk2r.3"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-W7lZnEfu91THNR9Kmk2r-v3.png
 :name: W7lZnEfu91THNR9Kmk2r
 ```
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/tUl36K6LTNR1RdYOUsKQ.3"}
 
 This base data structure makes for a very powerful and flexible way to represent and track documents as we work on them supporting things like selective editing, insertion, removal, reverting, and updating of blocks as well as being able to share and reuse blocks between multiple articles (and notebooks!) and easily keep them up to date.
 
 As we work collaboratively on Articles, they also have drafts of their own which track child blocks, versions, and drafts as we collaboratively edit. This may seem a little complex but it fits well with how we write in practice: thinking about a paragraph, figure, or an equation as a unit of content.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/vrjtxqoIBnOoMB2s1BnI.3"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-vrjtxqoIBnOoMB2s1BnI-v3.png
 :name: vrjtxqoIBnOoMB2s1BnI
 ```
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/zwzuBWCLLEy9S5sQDjiE.4"}
 
 ### Notebooks
 
@@ -161,13 +135,9 @@ When working in Jupyter however, using the Curvenote Chrome Extension you of cou
 - There is no draft - when we save we immediately save a new version of the notebook and blocks.
 - It is possible to revert to an earlier version of a notebook, make changes and save a new version — effectively “leap-frogging” changes into a new and most recent version. (This is a little like a rebase in git).
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QB0DnH3h8JDgzlm7y1Tg.2"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-QB0DnH3h8JDgzlm7y1Tg-v2.png
 :name: QB0DnH3h8JDgzlm7y1Tg
 ```
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/TNPq9OMKjyMRpVVHtYqH.5"}
 
 ### What’s next
 

@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2021-07-19-hover-effects-and-search-engines.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/i43JjnEtUZ3vlaOfQp01.4","tags":[]}
-
 This week half of the Curvenote team is busy in grant application mode, a good step back, take stock, and plan exercise which we're happy about but also are keen to be done with and back developing.
 
 Looking at some recent features we now have cards appearing when people hover over internal links. This lets you look ahead and get context readily and the hover function is something that we'd like to use for figures, equations and citations too rather than click.

@@ -18,8 +18,6 @@ tags:
 thumbnail: thumbnails/introducing-curvenote-pro.png
 ---
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QUfCBnBsEPAZzKLwSe9w.1"}
-
 As we continue to add new features, improvements and templates we are introducing [Curvenote Pro](https://curvenote.com/pricing), which includes additional private projects, advanced publishing, and export to any professional template (including Word in the coming months!). Curvenote Pro has a two-week free trial for you to explore all the options, you can find out more [here](https://curvenote.com/pricing).
 
 For the fantastic community members that have supported us along our journey so far, we are offering an additional six months free on our annual plan, you can claim that any time in the next month by visiting your settings in Curvenote. Also, for the coming two months we will offer 25% off both the monthly and annual price for all users.

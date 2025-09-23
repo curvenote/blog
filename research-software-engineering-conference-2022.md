@@ -29,8 +29,6 @@ license:
 
 # Research Software Engineering Conference 2022
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/gJmbWmlgMMCF2DBU4QzK.4"}
-
 On Wednesday 7th September, we will be presenting a walkthrough of Curvenote’s publishing capabilities at RSECon 2022, in Newcastle upon Tyne. The event, running from 6-8th September is the sixth annual conference of the [Society of Research Software Engineering](https://society-rse.org/) (SocRSE), an active society supporting Research Software Engineers primarily in the UK.
 
 The [program for the three-day event](https://virtual.oxfordabstracts.com/#/event/public/3101) is a mix of talks, walkthroughs, workshops, and poster sessions on all aspects of building research software from; Open data, citations and licensing, metadata through to the software development process, GPU computing, tools, and infrastructure.

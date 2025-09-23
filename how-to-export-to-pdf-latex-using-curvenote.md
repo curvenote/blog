@@ -21,13 +21,9 @@ tags:
 
 # How to export to PDF & LaTeX using Curvenote
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/4PqdCTBdJNTFA0FCv4UA.4"}
-
 Writing up research for submission to a particular conference, journal, or preprint service is a major task. Researchers need to prepare their hypothesis, methods, data, results, and conclusions to best represent their research, its outcome, and impacts. On top of this, they need to deal with the formatting and layout requirements of the organization where they are publishing that work. The task of formatting and layout is not a core part of research work yet it can be a major effort and time sink because of factors like strict requirements, uncooperative tools, or additional learning curves — like having to learn $\LaTeX$ while _writing in the context of a specific template_.
 
 Formatting and finalizing a publication should be easy and [Curvenote](https://curvenote.com/why) aims to be a writing environment where researchers can move from their day-to-day notes, notebooks, and reports into their manuscripts with a minimum of rework. Curvenote lets you [write a manuscript](https://curvenote.com/for/writing), share it and gather feedback and then export it to multiple different formats. From conference abstract to a preprint through to a journal article, Curvenote aims to let you export your work to the formats you need as your research evolves.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/gXT81ZLeSGYwmyxH5pxi.4"}
 
 ## Open source LaTeX templates
 
@@ -43,8 +39,6 @@ Still, working with a template, especially larger templates with many features c
 ```
 
 If you are writing or planning to start a paper, report, or thesis and want to do your writing in Curvenote — you can [open an issue](https://github.com/curvenote/templates/issues) or [pull request](https://github.com/curvenote/templates/pulls) on this repo and we will make sure your template gets integrated.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/YC7KoWWLqIMoqg90lOM9.4"}
 
 ## Export to PDF or $\LaTeX$
 
@@ -62,8 +56,6 @@ But that is not our goal!
 
 We want to be able to export submission-ready PDF documents directly from Curvenote — to avoid building $\LaTeX$ locally at all. We’ve made this possible through _Template Options_ and _Tagged Blocks_. Setup on a per template basis, these allow you to provide additional information and any specific content required via the user interface during export.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wBCNCHUwBpSova9ff7DD.4"}
-
 ## Template Options
 
 Once you’ve selected a template, the next screen you are shown is a dynamic form showing the options for that template. When integrating the template we look at the author guidelines, nominating required and optional items appropriately — so you’ll need to meet the required options before you can export.
@@ -75,8 +67,6 @@ Here’s an example of options for the [AGU 2019 template](https://curvenote.com
 ```
 
 We are able to proceed once we’ve entered the required information. This template has relatively few options — other templates have more and/or conditional options that only appear based on the value of certain fields, a typical case being additional options for different journals based on the _Journal Name_ you select.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5kjFX2TqJA07y3OyxaRc.4"}
 
 ## Tagged Blocks
 
@@ -114,8 +104,6 @@ Now when we head back to export, we can see we’ve provided our abstract and ca
 ```
 
 We can of course provide information in any of the optional fields too, and this will be added appropriately, by the template.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/R5f0Ll9LUgrcctZ6qB1K.4"}
 
 ## Write once, export to any format
 

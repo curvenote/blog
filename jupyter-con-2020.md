@@ -20,8 +20,6 @@ tags:
 thumbnail: thumbnails/jupyter-con-2020.png
 ---
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/GHuAHExcAItxYyaE3tvQ.2"}
-
 ```{important}
 Below is our submission for JupyterCon 2020, augmented with some screenshots!
 
@@ -34,8 +32,6 @@ See [curvenote.com/for/jupyter](https://curvenote.com/for/jupyter/) for more inf
 ```{iframe} https://www.youtube-nocookie.com/embed/WAyiDTt9DnQ
 :width: 100
 ```
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/bOy9uV36QW1q7421uDnI.3"}
 
 ## Abstract
 
@@ -55,15 +51,11 @@ Curvenote provides a plugin to Jupyter to allow syncing and versioning of notebo
 
 The content of the figures below is from a collection of [educational notebooks](https://courses.geosci.xyz/gwb2020) we helped develop for [locating groundwater in Myanmar](https://medium.com/gwb-myanmar) using geophysical methods, the project was in partnership with Geoscientists Without Borders.
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/FU0beNKpOjMxadKN1W9G.2"}
-
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-QJZarBDql2BzqZqTo89w-v1.png
 :name: 40dec9aa
 
 Chrome extension for Jupyter. Easily add version control and real-time commenting at both a cell and notebook level. Notebooks and cells can be reused, modified and extended in Curvenote.
 ```
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/SOr1Wpz0h9KWHdxLCweP.2"}
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-tJtQXVtDQkfJfcPnBoTW-v1.png
 :name: 3d5fc836

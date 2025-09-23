@@ -18,13 +18,9 @@ license:
   code: MIT
 ---
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/QfMbOBEtLQq6HjSBlzKT.2"}
-
 We recently [released the first version of the Curvenote command-line tools](oxa:AVQ2dzLNloEd25Io8NbA/mdBajFyoGAFAQGWjmpWf 'Curvenote on the Command Line') to work locally with content from Curvenote. You can read the documentation here: <https://curvenote.com/docs/cli>. With the CLI, you can easily export an article to MyST Markdown, a new Markup language designed by [Executable Books](https://executablebooks.org/en/latest/) (we are on the [team](https://executablebooks.org/en/latest/team.html)!) to create publication-quality, computational documents written entirely in Markdown.
 
 Stay tuned for new ways to share and manage publication quality content on Curvenote. 🚀
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/ltiAraONBGBFtGbWejP1.5"}
 
 ## Markedly Structured Text (MyST)
 
@@ -68,8 +64,6 @@ Directly copy any block as MyST Markdown
 ## Next Steps
 
 Curvenote is currently helping lead an effort on standardizing and documenting some of the efforts behind the MyST language (aptly called [myst-spec](https://github.com/executablebooks/myst-spec)) as well as a new library to bring these capabilities into Javascript (called [mystjs](https://executablebooks.github.io/mystjs/)). These open-source technologies are some of what is powering our new sites and this blog!
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/IPY03LtvtMhOekmrRj1k.1"}
 
 ### MyST Playground
 

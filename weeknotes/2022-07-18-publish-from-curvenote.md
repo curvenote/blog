@@ -14,8 +14,6 @@ tags:
 thumbnail: thumbnails/2022-07-18-publish-from-curvenote.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/3EcwCbbxdnC2dM8uiAVf.1","tags":[]}
-
 This week we released a feature where you can directly publish from Curvenote using the Publish button in the top right of any project. You will be prompted to setup subdomains, which are hosted on `*.curve.space`, and can have the form of `username.curve.space` or `username-project.curve.space`.
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-BjufEsOFvDZkP51m41Dr-v1.png

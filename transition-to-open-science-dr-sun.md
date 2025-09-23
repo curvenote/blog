@@ -18,8 +18,6 @@ tags:
 thumbnail: thumbnails/transition-to-open-science-dr-sun.png
 ---
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/YczUV6ohq8Qh3udoiHpp.1"}
-
 Open science is fundamentally changing how scientists and researchers approach scholarly communication and collaboration, from publishing preprints and interactive research results in new formats, to sharing methods, code, or data, and having open research meetings and seminars. At Curvenote we strive to support scientists as they conduct their research, compose and develop their findings, and share ideas with collaborators and the world. There can be many benefits to working more openly, however, this can be both daunting and complex for researchers who are adopting these practices.
 
 To better understand how Curvenote can help in the transition towards open science, we are constantly talking to researchers who have transitioned their own work to practicing more in the open, and understanding what Curvenote can do to help in this transition.
@@ -45,8 +43,6 @@ As we continued to discuss education, Dr. Sun mentioned that the field of geosci
 Dr. Sun remarked, “On the other side, if you look at the machine learning community, \[it\] has been exploding! One thing that they have is a really good community that are willing to share. If you look at the papers published in top machine learning conferences almost all of them share their code on GitHub so you can immediately follow up, reproduce, and improve upon their work.”
 
 Open science is an opportunity to get engagement and detailed constructive feedback. By sharing our own contributions we provide resources for fellow scientists, and by allowing others to provide feedback we can help to foster a community. These conversations can lead to collaboration on a global scale, working to move science and discovery forward. Given these ideas, Dr. Sun continued with a call for increased and continued openness in the geosciences with a “mindset of collaboration and sharing.”
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/La8QBUdev7R0uGfmIY8B.1"}
 
 ## Accelerate Research
 

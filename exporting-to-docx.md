@@ -20,8 +20,6 @@ thumbnail: thumbnails/exporting-to-docx.png
 
 # Curvenote Microsoft Word Export
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/O0rqTIqak2wT0YH7Ydcx.3"}
-
 ## Word or $\LaTeX$
 
 Microsoft Word (`docx`) or LaTeX is a question that is debated daily in both academic circles and [#AcademicTwitter](https://twitter.com/search?q=%23AcademicTwitter). There are proponents of both schools with various arguments either way — from control and precision to ease of use and shallow learning curves.
@@ -29,8 +27,6 @@ Microsoft Word (`docx`) or LaTeX is a question that is debated daily in both aca
 Ongoing debate aside, both Word and LaTeX represent the vast majority of formats accepted (or required) for conferences, workshops, and journal or thesis submissions at universities and major academic and professional institutions.
 
 But really your writing and work should be independent of these formats. You should be able to write in an editor made for technical and scientific content, that’s a pleasure to use, and be able to move your writing to any format you need to — when you need to — and that is what we are really interested in at [Curvenote](https://curvenote.com). In addition to our [editor](https://curvenote.dev/), we are building infrastructure to power that interchange, and the `docx` format is our latest export endpoint.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wy7KRoi5x3UWA82LYPZC.3"}
 
 ## Export to Word (docx)
 

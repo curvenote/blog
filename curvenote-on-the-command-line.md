@@ -33,8 +33,6 @@ license:
 
 # Curvenote on the Command Line
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/82oRYfpgGvE7G2qNPo4G.9"}
-
 Over the past few months, we've been busy building an [open source Command Line Interface](https://github.com/curvenote/curvenote) (CLI) that sits on top of our content translation schemas and talks to the Curvenote API. We've put a lot of time and care into the design of the Curvenote CLI to make it easy to use and so you can get results quickly. In this post, we will dive into the main capabilities of the Curvenote CLI.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-ccfeL3kOZ4evwjxVsL2w-v1.png

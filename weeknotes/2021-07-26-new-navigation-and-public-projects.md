@@ -16,11 +16,7 @@ tags:
 thumbnail: thumbnails/2021-07-26-new-navigation-and-public-projects.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/XExErFBg6aQDluDQdcB4.2","tags":[]}
-
 This week we take a look at our freshly released, much more usable Navigation panel. We’ve removed the unlisted section, made the interactions better, added popups so you can see what other items are about and established the toolbar at the bottom of the panel, and more! here is the relevant block from our release notes 👇
-
-+++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/Alwb1BUIaL5VGsrSF9WW.3","tags":[]}
 
 ## Jul 28, 2021 - Navigation changes
 
@@ -52,8 +48,6 @@ If you have chosen to not make all articles in a project public, the ones that y
 - Image are now loaded when there is less network traffic from first load of the page (waiting a few seconds) or are loaded if they are in the viewport. ⚡
   - This also helps with numbering issues in CSS if you are at the bottom of an article. 🔢
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/Z9OoKGHmTBnf3lo4dQiJ.2","tags":[]}
-
 ## Showcasing Public projects
 
 As we promised last week we take a look through some of the public projects that people have published on Curvenote.
@@ -82,8 +76,6 @@ We’re mapping all of these for search engine submission but soon hope to be ab
 
 Here are just a few of the examples:
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/zhooGw44oyQlaeRnpI7V.1","tags":[]}
-
 #### Notebooks
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-wzT2ijvgORu7i2CEKl02-v1.png
@@ -91,8 +83,6 @@ Here are just a few of the examples:
 :align: center
 :width: 70%
 ```
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/ikyvL9AYmbWe994rqUKw.1","tags":[]}
 
 #### Books
 
@@ -102,8 +92,6 @@ Here are just a few of the examples:
 :width: 70%
 ```
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/DIILFinPGUafE7lMnxqK.1","tags":[]}
-
 #### Interactive Figures
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-eECeSpQmq7QtnIvmApxd-v1.png
@@ -111,8 +99,6 @@ Here are just a few of the examples:
 :align: center
 :width: 70%
 ```
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/VeRNadbMywinlahnBECj.1","tags":[]}
 
 #### Seminar - Announcements and Write-ups
 

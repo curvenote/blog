@@ -13,8 +13,6 @@ tags:
 thumbnail: thumbnails/2022-08-08-orcid-integration.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/etDvkHOkvhRcAArKTIGF.5","tags":[]}
-
 ORCID (Open Researcher and Contributor ID, by [orcid.org](https://orcid.org/)) is a free, persistent identifier (PID) for individual researchers to use throughout the scholarly ecosystem as you develop and communicate your work, from journals, societies, funders, universities — and now Curvenote as well. Your ORCID distinguishes you from every other researcher, and your ORCID profile keeps a record of your work and activities that can be updated from many different sources. Since day one the Curvenote user profile has had ORCID support, but required you to manually enter the ID as a string (e.g. [0000-0002-7859-8394](https://orcid.org/0000-0002-7859-8394)), which is classed as “unverified” by ORCID. This week we added a direct integration to connect your ORCID account to Curvenote, which goes through their authentication process. Among other things, this verifies that the field is filled out correctly. You can find the ORCID integration in your [user profile](https://curvenote.com/profile?settings=true&tab=profile-general&subtab=general) settings.
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-TzYbdhWmNOtsOcx5efCz-v1.png

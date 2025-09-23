@@ -20,8 +20,6 @@ license:
 
 # One Click Publishing for Open Research Websites
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/xkQ3x6spX6FBCVK4SL0C.3"}
-
 In this webinar, we walked through our one-click publishing features in Curvenote’s visual scientific editor which is accessible via your web browser at <https://curvenote.com>.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-2UbgVpIpVaCBM09auSYA-v1.png

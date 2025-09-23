@@ -21,11 +21,7 @@ license:
 
 # Share research online in 60 seconds
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/zuWLnoGmnZx7Sy7oG0hh.5"}
-
 Today we are launching a new way to easily share scientific content online — we are calling it the [Curvenote Launchpad](https://curvenote.com/demos/publish-from-github) and it is free and [open-source](https://github.com/curvenote/curvenote). All you need to start is GitHub or GitLab repository.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/WD9u8dQN4GkOV3CdG3WM.5"}
 
 ## Curvenote Launchpad
 
@@ -49,8 +45,6 @@ It’s easy to configure your repository and publish your content, with no expir
 Read more [in our documentation](https://curvenote.com/docs/web/launchpad).
 
 :::
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/0Lk9o9w7LdmWOgKMzFGd.6"}
 
 ## Awesome by default
 
@@ -101,8 +95,6 @@ Setting up frontmatter to show on your articles, including organization informat
 ### Homepage
 
 The first page of the website produced is taken in priority order from `index.md`, `readme.md`, `main.md`, `*.md`, `index.ipynb`, `readmd.ipynb`, `readme.ipynb`, or `*.ipynb` (not case sensitive) and usually, you will have a `README.md` at least. You can override that as the homepage by adding an `index.md` to your repo before launching.
-
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/ouqQeH2zesSbMwX9s2j2.4"}
 
 ## What’s next
 

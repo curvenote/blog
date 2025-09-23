@@ -21,8 +21,6 @@ tags:
 thumbnail: thumbnails/2021-05-24-version-control-and-layout.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/NMF3mKVo0ZjXjzl028wY.2","tags":[]}
-
 This week we’re thinking about [version control for scientists](https://curvenote.com/blog/version-control-for-scientists). Curvenote’s version control system is very different from that of Git, based around blocks there are subtleties around how changesets are handled, and when they are collapsed back to full copies of the content and how diffing is handled.
 
 ```{figure} images/GTGiJ4YqK38DEbx5hX9m-FxY2lj9Y6dfIrAtRvjxR-v1.png
@@ -34,8 +32,6 @@ This week we’re thinking about [version control for scientists](https://curven
 Curvenote aims to support version control that is friendly to scientists and their collaborators, we need to introduce additional features around the base that we have but plan to do so in a scientist-friendly way without some of the complexity that working with the Git and GitHub models bring. This is challenging to even talk about, as we often finding ourselves describing those features in terms of the language established by git, but we are clear that there are ways to do this which are as much about the UI/UX we put in place around the core versioning tech as it grows.
 
 Steve wrote a blog post outlining [version control for scientists](https://curvenote.com/blog/version-control-for-scientists), which is worth a read! We also improved the layout of the app and released a number of improvements for the Jupyter extension.
-
-+++ {"oxa":"oxa:9Kv3iYv0uCgaG0zl4WDZ/jngG2GoTDTCubvfSg7vO.3","tags":[]}
 
 ## May 28, 2021
 

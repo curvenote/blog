@@ -19,8 +19,6 @@ tags:
 thumbnail: thumbnails/2021-08-16-permissions-tables-figures-diffs.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/nwdsh3ULGOQm6yjiUpve.4","tags":[]}
-
 This week we take a look at [Alastair McClymount's latest article](https://curvenote.com/@alastair/holocaust-archaeology/mila18-processing) on their Holocaust Archeology project which leads us to point on some of the subtleties of the current permissions model. Curvenote block-level permissions are fine-grained but need some more UX to help communicate the model.
 
 ## Website
@@ -41,9 +39,7 @@ The SimPEG community regularly use Curvenote for [their meeting notes](https://c
 
 We recently added the export template for the MDPI Journals, which is a huge template with a lot of features supporting 300+ journals. Right now it’s hardcoded for the Energies Journal but will open up when we add our template user options. Porting this template now is has helped identify a bunch of features that we’ll add as options, which will help to fully support other journals like SEG, AGU, etc….
 
-[Read more about the MDPI template](https://curvenote.com/oxa:9Kv3iYv0uCgaG0zl4WDZ/wiXpYocjoMv8kaVijqu7.1)
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/tutkQvt9cpim7kh6AlBo.1","tags":[]}
+[Read more about the MDPI template](../data-driven-latex-templates.md)
 
 ### LaTeX Diffs
 

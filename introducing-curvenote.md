@@ -20,8 +20,6 @@ thumbnail: thumbnails/introducing-curvenote.png
 
 # Introducing Curvenote
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/eRD8318BzgaueLrKEbAl.1"}
-
 Today we are thrilled to announce a new brand and website for Curvenote. Our team has been hard at work over the past eight months, and for those of you following our journey, you know a lot has changed. We wanted our new identity to represent and showcase the core ideas of reuse and modularity behind Curvenote as well as lean into and embrace the dualities in scientific communication. From creative exploration to structured communication; simple and complex; individual and collective. Our goal is to give scientists and researchers the creative freedom to explore ideas, while also ensuring compatibility with scientific standards.
 
 ```{figure} images/AVQ2dzLNloEd25Io8NbA-01DL7m3opLI6M2KnxC0T-v1.png

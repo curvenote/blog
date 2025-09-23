@@ -25,8 +25,6 @@ Read the press release on [Curvenote Accepted into Creative Destruction Lab](./n
 
 # Creative Destruction Lab
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/PSrJkDAIRbJoe4LfIF82.3"}
-
 We are excited to announce that Curvenote was chosen to participate in a science & technology innovation program called Creative Destruction Lab (CDL). CDL is a nonprofit that delivers an objectives-based program for science and technology based companies. They run their program in ten locations across North America and Europe and split the participating companies into streams (energy, health, climate, quantum, space and many more). From the titles of the streams you can imagine that this the program is targeted primarily at helping commercialize scientific ventures that have come from a university lab or similar. Although we aren’t building new hardware or sending things into space — Curvenote is already been used to write papers about [satellite payloads](https://curvenote.com/oxa:XPaFkgC4BgNW2X8DMb5p/4QPSxOngFjpFmj1Hz7vj), so we feel right at home with these deep-tech startups. 🚀
 
 The CDL program is also a bit different than some other innovation accelerators out there, each session is about eight weeks apart and you present your progress and objectives to a team of mentors, scientists and MBA students. At the end of the session the mentors, who are investors, founders, and operators, vote to keep you in the program for the next eight week sprint and provide their time and connections to help us hit your goals! If they don’t vote you along, then you’re out.

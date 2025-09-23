@@ -22,8 +22,6 @@ thumbnail: thumbnails/creating-an-open-research-website.png
 
 # Creating an Open Research Website
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/I3TCvOq94nabWUHerDuq.2"}
-
 In this webinar we took the group through using the Curvenote CLI to create a local Markdown based authoring experience. This lets you work with local files and notebooks to customize settings, update and add content whilst having instant feedback via a preview of the website.
 
 **To get started:**

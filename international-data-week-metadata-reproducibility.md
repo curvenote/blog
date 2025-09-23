@@ -24,8 +24,6 @@ thumbnail: thumbnails/international-data-week-metadata-reproducibility.png
 
 # Metadata and Reproducibility
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/LrcAHz6xC1ulXMh8fqdy.1"}
-
 Curvenote participated in a BoF session on building enhanced FAIR Workflows through use of PIDs within and between interoperable research tools.
 
 ### Abstract - [RDA Website](https://www.rd-alliance.org/building-enhanced-fair-workflows-through-use-pids-within-and-between-interoperable-research-tools)

@@ -22,13 +22,10 @@ thumbnail: thumbnails/code-mark.png
 
 # Creating Inline Code in a WYSIWYG Editor
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/ureXp2XQW8IRbqtujRQ7.2"}
-
 ```{important}
 Try a demo of this article here:
 
 <https://curvenote.github.io/prosemirror-codemark/>
-
 ```
 
 One of the biggest frustrations in using what you see is what you get (WYSIWYG) editors when coming from knowing Markdown is how they deal with inline code. This is something that I do very often in writing technical documents, and in Markdown this is super easy, you simply wrap a word in back-ticks (e.g. `` `code` ``). In many ways, the other “marks”, like **bold**, _italic_, {u}`underline` are all easier in applications like Word, Google Docs, Notion, Confluence, etc. because almost everyone knows the shortcut to make something **_stop_** being bold/italic/underlined. This is not the case for inline code, which are similar but no one knows the shortcut to stop something from looking like code. Additionally, every editor application does something subtly different.

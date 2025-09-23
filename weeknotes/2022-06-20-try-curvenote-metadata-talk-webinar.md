@@ -12,8 +12,6 @@ tags:
 thumbnail: thumbnails/2022-06-20-try-curvenote-metadata-talk-webinar.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/4Hr3wvbol6TUeqyNShyq.1","tags":[]}
-
 ## Try Curvenote
 
 We’ve been putting a lot of work into website publishing via the Curvenote CLI recently and this week we launched a new service at [try.curvenote.com](https://try.curvenote.com) that leverages our publishing infrastructure to let you deploy a website in less than 60 seconds!

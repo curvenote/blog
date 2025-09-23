@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-08-15-one-click-publishing-webinar.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/t5ZzG0yjHeDDhMSbB68m.2","tags":[]}
-
 This week on Thursday, we hosted a webinar to take people through [our latest publishing capabilities](https://curvenote.com/blog/one-click-publishing-for-open-research).
 
 ## Scientific publishing with Curvenote

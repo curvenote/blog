@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-05-30-metadata-analytics-docs.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/d6s26pCaSiFCYICziarh.1","tags":[]}
-
 ## Metadata, metadata, metadata
 
 This week in Curvenote we were focused on scholarly metadata. We completely overhauled our forms in a Curvenote project to be able to collect this information and finished up the upgrade to the header section of articles, to accommodate it. This includes licenses, DOIs, arXiv links, open access statements, binder & GitHub links, and more.

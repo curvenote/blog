@@ -15,8 +15,6 @@ tags:
 thumbnail: thumbnails/2022-08-01-hidden-pages-thebe.png
 ---
 
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/Roj3X2FpNvqWW8MEkiPB.1","tags":[]}
-
 ## Hidden Pages
 
 Publishing Curvenote sites became even easier last week when we launched our new publish button in the Curvenote editor. Now we’ve added the ability to hide articles and notebooks within your project so that you can control which of these appear as pages on your published site. This allows you to keep drafts or working material within a project, without it being published to your website.
@@ -57,8 +55,6 @@ This has simplified the install and build experience, and will lead to speeding 
 
 This did mean touching a lot of code to make everything work again!
 ```
-
-+++ {"oxa":"oxa:GTGiJ4YqK38DEbx5hX9m/mviIPboyKx9G8mC4b9Bf.1","tags":[]}
 
 ## Thebe Release Candidate
 

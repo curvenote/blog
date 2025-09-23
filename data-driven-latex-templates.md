@@ -19,8 +19,6 @@ tags:
 thumbnail: thumbnails/data-driven-latex-templates.png
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6Ikye3xJxigOKHSr5fcJ.5"}
-
 As a scientific author today you pick your template _before_ you start writing: what journal, what thesis template, what conference. If your work gets rejected, needs to be submitted somewhere else, or you want to share in another medium like a blog or presentation: these initial choices hold you back and it takes time and effort to migrate your work. At Curvenote we are flipping this idea: _pick your template last_!
 
 We believe in sharing science in different mediums and formats to improve accessibility — in blogs, papers, thesis, presentations, and interactive websites. To do this, you need exacting control over a templating engine that is data-driven and structured, and you need a writing tool that helps you structure your content such that it can be reused in multiple ways. At Curvenote, this is core to what we do.
@@ -65,8 +63,6 @@ For LaTeX, Pandoc provides a [complete default template](https://github.com/jgm/
 
 Pandoc is of course set up for document conversion, so the starting point for rendering a document is a complete document in another format. For example, a Markdown document, when provided alongside a `yaml` file, containing document metadata, will render a document against the default or a custom template. Pandoc does an exceptional job at this conversion task.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BuMJfDRsiRmmP7NiTeMq.4"}
-
 ## Why not Pandoc?
 
 So why not just use Pandoc to power exporting to LaTeX in Curvenote?
@@ -85,8 +81,6 @@ We need to be able to interface with people’s templates and while that might b
 Note: We *are* planning on integrating Pandoc for some of the other conversions we want to provide. Specifically, we plant to support export to [Pandoc’s extended flavour of Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) which will provide an excellent way for people to both archive their Curvenote projects and articles and to hook Curvenote into their own Pandoc driven content and publishing pipelines.
 
 ```
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/tqWTSHSwhuRSyBDC0f6b.7"}
 
 ## Curvenote LaTeX Templates
 
@@ -244,8 +238,6 @@ The `CONTENT_PATH` argument should point to a directory containing the following
 These files will be used to render a LaTeX document at the `OUTPUT_PATH` with either the built-in default template or any other template specified using the `--template-path` or `--template-name` options. `--template-path` uses a local template, while `--template-name` will fetch from the Curvenote API (e.g. here is [AGU2019 template](https://api.curvenote.com/templates/tex/public/agu2019)).
 
 Find out more about the `build` command [in the readme](https://github.com/curvenote/curvenote-template#build).
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/abi4fpgJjXnmY86g8rHQ.6"}
 
 ## Curvenote LaTeX Templates
 
@@ -420,8 +412,6 @@ An example of a document model for the `plain_latex` template [is here](https://
 At the root level there are `doc`, `tagged` and `options` sections where the latter two correspond to the respective configuration sections. The `doc` section is set by Curvenote and provides key data fields related to the article itself including the title, authors list and date.
 
 When developing Curvenote templates we can stub out data structures like this in a yaml file and use them with `jtex build` to test our template as we go.
-
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/1Suv2G4TBk1oMqe6duMd.3"}
 
 ## Create a data driven template
 

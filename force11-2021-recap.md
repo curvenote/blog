@@ -24,8 +24,6 @@ thumbnail: thumbnails/force11-2021-recap.png
 Read the press release on [Curvenote Sponsors FORCE11 to Promote Open Science and Reproducibility](./news/curvenote-sponsors-force11-2021.md).
 ```
 
-+++ {"oxa":"oxa:AVQ2dzLNloEd25Io8NbA/Zh8aKj5gkYZkHlx1pY8I.3"}
-
 This past week, the Curvenote team attended FORCE11’s 2021 Annual Conference. We were proudly able to be a Gold Sponsor for this year’s free virtual gathering of over 1,300 participants focused on the advancement of research communication.
 
 Our Co-founder and CEO, Rowan Cockett started out the community presentations on Tuesday. He gave an overview of our mission at Curvenote, to bridge the gap between data science and open, reproducible, research communication while posing an important question for the future - how do we move scientific communication out of PDFs when every system we use creates PDFs?
