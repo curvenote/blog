@@ -5,11 +5,8 @@ title: >-
 description: >-
   We show off an example of an archeology article, a sneak peek and the new
   website, and discuss creating LaTeX diffs for pdfs.
-short_title: ''
 subtitle: Week of August 16, 2021
 date: 2021-08-16
-name: 2021-08-16-permissions-tables-figures-diffs
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/OLvhBjwBxBNJY4RTDzxg
 tags:
   - website
   - tables

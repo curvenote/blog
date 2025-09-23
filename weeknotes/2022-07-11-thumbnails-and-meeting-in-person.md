@@ -3,11 +3,8 @@ title: Thumbnails & Meeting in Person
 description: >-
   We added thumbnails to the article frontmatter, as well as met up with the
   whole Curvenote team in person for the first time!
-short_title: ''
 subtitle: Week of July 11, 2022
 date: 2022-07-11
-name: 2022-07-11-thumbnails-and-meeting-in-person
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/DJHYp3mhaVSnVgUxvrpl
 tags:
   - cli
   - seo

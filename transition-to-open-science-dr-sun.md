@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: transition-to-open-science-dr-sun
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/CiiIBJwoseITCYomIzlw
 tags:
   - interview
 thumbnail: thumbnails/transition-to-open-science-dr-sun.png

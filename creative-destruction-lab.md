@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: creative-destruction-lab
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/pqZtoOhdfTxTF1PR8COr
 thumbnail: thumbnails/creative-destruction-lab.png
 tags:
   - update

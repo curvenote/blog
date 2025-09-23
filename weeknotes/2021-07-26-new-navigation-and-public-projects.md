@@ -3,11 +3,8 @@ title: New navigation panel & public projects
 description: >-
   This week we released an update of our Navigation panel we also showcase some
   of the public projects that are being developed on Curvenote.
-short_title: ''
 subtitle: Week of July 26, 2021
 date: 2021-07-26
-name: 2021-07-26-new-navigation-and-public-projects
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/pfZM9gyG9cxZpb1UHPAr
 tags:
   - public-projects
   - feature

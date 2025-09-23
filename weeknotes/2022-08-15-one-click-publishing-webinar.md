@@ -3,11 +3,8 @@ title: 'Webinar: One Click Publishing'
 description: >-
   This week we hosted a webinar showing off our new publishing in-app no-code
   publishing features
-short_title: ''
 subtitle: Week of Aug 15, 2022
 date: 2022-08-15
-name: 2022-08-15-one-click-publishing-webinar
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/w6taeYgzZlgB0AZmBKSD
 tags:
   - webinar
   - publishing

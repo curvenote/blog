@@ -13,11 +13,8 @@ authors:
     affiliations:
       - Curvenote
 date: 2022-08-16
-name: research-software-engineering-coference-2022
 subject: Events
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/xIPx4f6xs1HuL437WIQv
 subtitle: A walk-though of publishing open research with Curvenote
-short_title: ''
 tags:
   - conference
   - presentation

@@ -20,9 +20,6 @@ authors:
     affiliations:
       - Curvenote
 date: 2022-07-21
-name: curvenote-on-the-command-line
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/mdBajFyoGAFAQGWjmpWf
-short_title: ''
 tags:
   - cli
 thumbnail: thumbnails/curvenote-on-the-command-line.png

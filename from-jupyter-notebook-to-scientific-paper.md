@@ -27,8 +27,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: from-jupyter-notebook-to-scientific-paper
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/m2K31HsBqvCglJacduZU
 thumbnail: thumbnails/from-jupyter-notebook-to-scientific-paper.png
 tags:
   - tutorial

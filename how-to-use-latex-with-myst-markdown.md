@@ -10,7 +10,6 @@ authors:
     affiliations:
       - Curvenote
       - Executable Books
-oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 thumbnail: thumbnails/how-to-use-latex-with-myst-markdown.png
 tags:
   - LaTeX

@@ -1,11 +1,8 @@
 ---
 title: Connecting ORCID and Curvenote
 description: "An\_orcid.org\_is a persistent digital identifier for researchers which is widely used. You can now conenct your ORCID account directly to your Curvenote profile."
-short_title: ''
 subtitle: Week of Aug 8, 2022
 date: 2022-08-08
-name: 2022-08-08-orcid-integration
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/Ti8mizcY1nONkgPeHONC
 tags:
   - orcid
   - integration

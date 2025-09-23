@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: force11-2021-recap
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/3ZQ7JYxPZoCIiWNTiuhR
 tags:
   - update
   - open-science

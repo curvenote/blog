@@ -2,10 +2,8 @@
 title: Metadata and Reproducibility
 description: Enhancing FAIR Data Workflows through use of PIDs in Curvenote and beyond.
 date: 2022-06-23T21:29:22.221Z
-name: international-data-week-metadata-reproducibility
 open_access: true
 subject: International Data Week 2022
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/wBJ7TWftJqsMHemOBIfe
 subtitle: Tactics to improve informal research communication
 authors:
   - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3

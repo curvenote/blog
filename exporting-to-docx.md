@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: exporting-to-docx
-oxa: oxa:DOHMeg040aVXqR51yjBy/544kxF9tADUPDVyMYwS2
 tags:
   - update
 thumbnail: thumbnails/exporting-to-docx.png

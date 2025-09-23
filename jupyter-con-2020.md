@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: jupyter-con-2020
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/VS2G14V3Wo0Dcq4GlvM2
 tags:
   - presentation
   - open-source

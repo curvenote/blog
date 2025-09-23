@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: reusing-and-remixing-science
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/06XSsLQEXXpTh9tHMwea
 tags:
   - article
   - open-science

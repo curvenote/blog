@@ -4,11 +4,8 @@ description: >-
   This week we released improvements to our metadata and tagging to show
   thumbnails when you share an article. We also went through some of the recent
   changes and fixes in the Curvenote app and extension.
-short_title: ''
 subtitle: Week of June 7, 2021
 date: 2021-06-07
-name: 2021-06-07-thumbnails-when-you-share-articles
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/L2TJKZa2CBmi5vj9QhUH
 tags:
   - seo
   - weeknote

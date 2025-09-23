@@ -21,8 +21,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: version-control-for-scientists
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/DoBfrtUoipuqQkB5VvrN
 tags:
   - article
   - open-science

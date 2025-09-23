@@ -19,7 +19,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: deprecating-the-curvenote-chrome-extension
 tags:
   - update
   - chrome-extension

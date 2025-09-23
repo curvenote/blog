@@ -3,11 +3,8 @@ title: Hover effects, ranking on search engines
 description: >-
   This week we released new hover popovers for links as well as improved the SEO
   for users articles.
-short_title: ''
 subtitle: Week of July 19, 2021
 date: 2021-07-19
-name: 2021-07-19-hover-effects-and-search-engines
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/JCKZZvJ4YuBbKwmFlz4X
 tags:
   - feature
   - seo

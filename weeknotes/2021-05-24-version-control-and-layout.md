@@ -3,7 +3,6 @@ title: Version control for scientists & layout improvements
 description: >-
   This week we're talking about version control via Curvenote - the current
   workflows and thoughts on future changes.
-short_title: ''
 subtitle: Week of May 24, 2021
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
@@ -13,8 +12,6 @@ authors:
     roles: []
     affiliations: []
 date: 2021-05-24
-name: 2021-05-24-version-control-and-layout
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/EiFSaHUP3vMRdJmqhY4m
 tags:
   - version-control
   - weeknote

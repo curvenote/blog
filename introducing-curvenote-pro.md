@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: introducing-curvenote-pro
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/Ya7vPOdevsksLpT1oD57
 tags:
   - update
 thumbnail: thumbnails/introducing-curvenote-pro.png

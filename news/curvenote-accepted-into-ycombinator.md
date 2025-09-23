@@ -4,7 +4,6 @@ title: >-
   discovery
 description: Curvenote, a platform for building, remixing, sharing, and exploring scientific content, has been accepted into the prestigious Y Combinator accelerator program for Winter 2021.
 date: 2021-03-18
-name: ycombinator
 thumbnail: ./images/ycombinator.png
 tags: ['press', 'company']
 ---

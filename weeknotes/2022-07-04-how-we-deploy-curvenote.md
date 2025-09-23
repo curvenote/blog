@@ -3,11 +3,8 @@ title: How we Deploy Curvenote
 description: >-
   We overhauled the curvenote.com site to make better use of the new publishing
   tools and CLI.
-short_title: ''
 subtitle: Week of July 4, 2022
 date: 2022-07-04
-name: 2022-07-04-how-we-deploy-curvenote
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/C48QVhqEUepqwVmX6ANb
 tags:
   - publishing
   - cli

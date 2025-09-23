@@ -20,8 +20,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: transform2022-deploy-a-website
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/WVBZ8Dpso2q46IAjFdmg
 tags:
   - presentation
   - conference

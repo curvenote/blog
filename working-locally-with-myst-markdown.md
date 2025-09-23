@@ -5,9 +5,6 @@ description: >-
   MyST Markdown is a new specification of Markdown that allows you to write
   professional documents, books and websites.
 date: 2022-07-21
-name: working-locally-with-myst-markdown
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/sJUUaICKGzXalbdD7xmy
-short_title: ''
 tags:
   - MyST
   - cli

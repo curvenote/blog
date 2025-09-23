@@ -3,11 +3,8 @@ title: Themes & Interactive Computing
 description: >-
   We integrated the open-source thebe-core with the JupyterLite project allowing
   Python based notebooks to be executed in-browser.
-short_title: ''
 subtitle: Week of June 27, 2022
 date: 2022-06-27
-name: 2022-06-27-themes-and-interactive-computing
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/yxuBODMK3JiIsAAQkhym
 tags:
   - interactive
   - marketing

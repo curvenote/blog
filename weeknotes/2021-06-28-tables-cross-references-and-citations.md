@@ -3,7 +3,6 @@ title: Tables, Cross-References & Citations
 description: >-
   This week we introduced changes for internal cross-referencing of content and
   citation management improvements.
-short_title: ''
 subtitle: Week of June 28, 2021
 date: 2021-06-28
 tags:

@@ -4,10 +4,8 @@ description: >-
   A Curvenote webinar taking attendees through publishing and updating research
   websites directly from the Curvenote visual editor
 date: 2022-08-19
-name: one-click-publishing-for-open-research
 subject: Webinar
 subtitle: Fast, continuous publishing workflows for modern continuous science
-short_title: ''
 tags:
   - webinar
   - publishing

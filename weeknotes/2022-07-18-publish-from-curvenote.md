@@ -3,11 +3,8 @@ title: Publish from Curvenote
 description: >-
   You can now publish directly from the Curvenote platform, including setting
   domains in the project settings.
-short_title: ''
 subtitle: Week of July 18, 2022
 date: 2022-07-19
-name: 2022-07-18-publish-from-curvenote
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/wtkGCtknBUmsaKK2PfZ7
 tags:
   - publishing
   - weeknote

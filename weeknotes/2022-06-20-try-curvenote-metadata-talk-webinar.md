@@ -1,11 +1,8 @@
 ---
 title: Try Curvenote, Metadata Talk, Webinar!
 description: We released try.curvenote.com to make it easier to create a Curvenote site!
-short_title: ''
 subtitle: Week of June 20, 2022
 date: 2022-06-20
-name: 2022-06-20-try-curvenote-metadata-talk-webinar
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/sTq3VDtldhuTVSTuIxup
 tags:
   - presentation
   - weeknote

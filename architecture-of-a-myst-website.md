@@ -16,7 +16,6 @@ authors:
     affiliations:
       - Curvenote
 date: 2023-01-22
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/h2RAELuGOMcW9OzzRTEB
 subtitle: On the importance of structured data
 tags:
   - MyST

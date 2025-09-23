@@ -3,11 +3,8 @@ title: Hidden pages & Thebe Release
 description: >-
   Publishing Curvenote sites became even easier last week when we launched our
   new publish button in the Curvenote editor.
-short_title: ''
 subtitle: Week of Aug 1, 2022
 date: 2022-08-01
-name: 2022-08-01-hidden-pages-thebe
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/1005gi6cXfI31KcyGAzI
 tags:
   - thebe
   - publishing

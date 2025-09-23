@@ -12,8 +12,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: communicating-science
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/qejlAHZA1c1plMBozBGl
 tags:
   - article
   - open-science

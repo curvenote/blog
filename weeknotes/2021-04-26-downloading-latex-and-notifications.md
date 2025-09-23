@@ -3,11 +3,8 @@ title: Download,  captions, and notifications
 description: >-
   We are working on exporting Curvenote articles as LaTeX and PDF, as well as
   improving image and figure captioning and referencing.
-short_title: ''
 subtitle: Week of April 26, 2021
 date: 2021-04-26
-name: 2021-04-26-downloading-latex-and-notifications
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/H8nSGGRIyhujXTilc3MB
 tags:
   - latex
   - weeknote

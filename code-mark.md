@@ -13,8 +13,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: code-mark
-oxa: oxa:AVQ2dzLNloEd25Io8NbA/Zbimp4EZAt9Q6d3E5eaU
 tags:
   - open-source
 thumbnail: thumbnails/code-mark.png

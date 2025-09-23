@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: configurable-latex-exports
-oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 thumbnail: thumbnails/how-to-export-to-pdf-latex-using-curvenote.png
 tags:
   - tutorial

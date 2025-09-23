@@ -11,8 +11,6 @@ authors:
     roles: null
     affiliations:
       - Curvenote
-name: building-data-driven-latex-templates-for-curvenote
-oxa: oxa:DOHMeg040aVXqR51yjBy/ea0jxy5eSPndzWVUXhi2
 tags:
   - open-source
   - LaTeX

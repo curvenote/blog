@@ -3,11 +3,8 @@ title: Export Templates & JTEX
 description: >-
   This week we released export templates and dive into details of the templating
   mini-language, jtex, that we're defining.
-short_title: ''
 subtitle: Week of July 5, 2021
 date: 2021-07-05
-name: 2021-07-05-export-templates-and-jtex
-oxa: oxa:GTGiJ4YqK38DEbx5hX9m/pqdEusnYBIeKOWZ6zRmx
 tags:
   - jtex
   - templates
