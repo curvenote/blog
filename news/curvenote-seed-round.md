@@ -3,7 +3,7 @@ title: Curvenote Raises $1.4M Seed Round to Power the Future of Modular Scientif
 description: YC-backed company is building sustainable, interoperable tools for open science with a focus on reusable interactive content, computational workflows, and long-term infrastructure.
 date: 2025-07-02
 thumbnail: ./images/curvenote-brand.png
-tags: ['press', 'company', 'investment']
+tags: ['news', 'company', 'investment']
 ---
 
 **YC-backed company is building sustainable, interoperable tools for open science with a focus on reusable interactive content, computational workflows, and long-term infrastructure.**

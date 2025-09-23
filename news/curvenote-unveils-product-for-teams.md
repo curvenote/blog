@@ -3,7 +3,7 @@ title: Curvenote Unveils Product for Teams
 description: Curvenote, a company revolutionizing scientific communication and collaboration, is excited to announce the launch of Curvenote Teams. This new product offering builds upon the success of Curvenote Pro, providing teams and organizations with an additional layer of collaboration.
 subtitle: For Enhanced Collaboration and Access Control in Research and Data Science
 date: 2022-02-01
-tags: ['press', 'product']
+tags: ['news', 'product']
 thumbnail: ./images/curvenote-for-teams.png
 ---
 

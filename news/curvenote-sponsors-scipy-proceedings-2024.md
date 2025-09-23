@@ -3,7 +3,7 @@ title: Curvenote Sponsors SciPy 2024 and supports the SciPy Proceedings
 description: Curvenote is hosting the SciPy proceedings and is a Gold-level sponsor of the SciPy 2024 conference. The new proceedings, hosted by Curvenote, are web-first and interactive. Curvenote is supporting the 2024 proceedings from automated submission, through to hosting and metadata preparation including submission to scholarly infrastructure providers like CrossRef and ORCID.
 date: 2024-04-09
 thumbnail: ./images/scipy-2024.png
-tags: ['press', 'sponsorship', 'journal']
+tags: ['news', 'sponsorship', 'journal']
 ---
 
 Curvenote is excited to announce its role as both the host for the SciPy proceedings and a Gold-level sponsor of the SciPy 2024 conference. Curvenote's partnership with NumFocus to support the SciPy Proceedings underscores Curvenote's commitment to fostering innovation and sharing knowledge within the scientific community. Rowan Cockett, CEO & Co-founder of Curvenote, expressed excitement about the collaboration: "We are thrilled to bring our interactive features, scientific publishing platform and web-first design to the forefront of scientific communication, facilitating deeper engagement with the research presented at SciPy." Jim Weiss, Director of Events and Resources at NumFocus, expressed his enthusiasm for Curvenote's contributions: "Curvenote's commitment to enhancing the accessibility and interactivity of the SciPy Proceedings aligns perfectly with our mission to foster open scientific communication. We are excited to see how these advancements will enrich the SciPy 2024 Proceedings experience for both authors and reviewers."

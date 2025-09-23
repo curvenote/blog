@@ -2,7 +2,7 @@
 title: Curvenote Hires Mike Morrison to Redesign Science Communication
 description: Curvenote hires Mike Morrison as their newest team member focused on user experience research. Mike is a well-known science communication advocate with a background in UX design and a PhD in psychology.
 date: 2023-04-01
-tags: ['press', 'company', 'team']
+tags: ['news', 'company', 'team']
 thumbnail: ./images/mike-morrison-joins-curvenote.png
 ---
 

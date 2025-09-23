@@ -2,7 +2,7 @@
 title: Curvenote Sponsors FORCE11 to Promote Open Science and Reproducibility
 description: Curvenote, a leading provider of tools for collaborative scientific writing, is proud to announce its gold sponsorship of the FORCE11 2021 conference.
 date: 2021-11-16
-tags: ['press', 'sponsorship']
+tags: ['news', 'sponsorship']
 thumbnail: ./images/force11-2021.png
 ---
 

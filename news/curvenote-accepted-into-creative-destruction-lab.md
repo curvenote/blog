@@ -3,7 +3,7 @@ title: Curvenote Accepted into Creative Destruction Lab
 description: Curvenote, a platform for collaborative writing, has been accepted into the prestigious Creative Destruction Lab (CDL), a nonprofit organization that offers an objectives-based program for science and technology-based companies.
 date: 2021-11-11
 thumbnail: ./images/creative-destruction-lab.png
-tags: ['press', 'company']
+tags: ['news', 'company']
 ---
 
 Curvenote, a platform for collaborative writing, has been accepted into the prestigious Creative Destruction Lab (CDL), a nonprofit organization that offers an objectives-based program for science and technology-based companies. The CDL program is designed to help commercialize deep-tech ventures that have come from a university lab or similar, with a focus on streams such as energy, health, climate, quantum, and space.

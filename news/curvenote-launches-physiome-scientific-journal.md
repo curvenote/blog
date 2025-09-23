@@ -2,7 +2,7 @@
 title: Curvenote Launches New Scientific Journal with the Physiome Project
 description: Curvenote, a new publishing platform and writing tool designed for scientists in the age of open science, has launched their first scientific journal with the Physiome Project. The open access journal focuses on mathematical models of physiological processes.
 date: 2023-04-19
-tags: ['press', 'journal', 'product']
+tags: ['news', 'journal', 'product']
 thumbnail: ./images/physiome-tag-line.png
 ---
 

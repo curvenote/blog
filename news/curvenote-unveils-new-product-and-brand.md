@@ -3,7 +3,7 @@ title: Curvenote Unveils New Product & Brand
 description: Curvenote, a company dedicated to improving scientific communication and collaboration, has launched a new brand and a product called Curvenote Pro. Curvenote Pro comes with professional templates & private projects.
 subtitle: Curvenote Pro comes with professional templates & private projects.
 date: 2021-08-30
-tags: ['press', 'brand', 'product']
+tags: ['news', 'brand', 'product']
 thumbnail: ./images/curvenote-brand.png
 ---
 
