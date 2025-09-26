@@ -12,7 +12,7 @@ thumbnail: thumbnails/2021-08-02-arxiv-templates-curvenote-rebrand.png
 ---
 
 ```{note} Press Release
-Read the press release on [Curvenote Unveils New Product & Brand](./news/curvenote-unveils-new-product-and-brand.md).
+Read the press release on [Curvenote Unveils New Product & Brand](../news/curvenote-unveils-new-product-and-brand.md).
 ```
 
 This week we look at some of the new export templates that have been added to Curvenote recently and the templating command-line tool that we have just pushed to pypi. Curvenote now has single and two column templates suitable for preprints on [arXiv](https://arxiv.org/) and [EarthArXiv](https://eartharxiv.org/) and the full template for the [Volcanica Journal](http://www.jvolcanica.org/ojs/index.php/volcanica).

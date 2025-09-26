@@ -9,7 +9,7 @@ authors:
     - Executable Books
 tags:
   - article
-  - MyST
+  - myst
   - open-source
 keywords:
   - MyST Markdown

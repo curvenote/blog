@@ -6,9 +6,9 @@ authors:
   - rowan
 thumbnail: thumbnails/how-to-use-latex-with-myst-markdown.png
 tags:
-  - LaTeX
+  - latex
   - tutorial
-  - MyST
+  - myst
   - editor
 keywords:
   - LaTeX Parser

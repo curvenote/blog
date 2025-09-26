@@ -7,7 +7,7 @@ subtitle: Week of June 27, 2022
 date: 2022-06-27
 tags:
   - interactive
-  - marketing
+  - brand
   - weeknote
 thumbnail: thumbnails/2022-06-27-themes-and-interactive-computing.png
 ---

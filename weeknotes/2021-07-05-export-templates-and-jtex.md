@@ -6,9 +6,9 @@ description: >-
 subtitle: Week of July 5, 2021
 date: 2021-07-05
 tags:
-  - jtex
+  - latex
   - templates
-  - feature
+  - product
   - weeknote
 thumbnail: thumbnails/2021-07-05-export-templates-and-jtex.png
 ---

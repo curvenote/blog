@@ -6,7 +6,7 @@ description: >-
 subtitle: Week of Sept 13, 2021
 date: 2021-09-13
 tags:
-  - marketing
+  - brand
   - interactive
   - weeknote
 thumbnail: thumbnails/2021-09-08-marketing-and-jupyterlite.png

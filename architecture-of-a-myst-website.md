@@ -10,7 +10,7 @@ authors:
 date: 2023-01-22
 subtitle: On the importance of structured data
 tags:
-  - MyST
+  - myst
   - cli
 thumbnail: thumbnails/architecture-of-a-myst-website.png
 ---

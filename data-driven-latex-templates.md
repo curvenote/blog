@@ -6,7 +6,7 @@ authors:
   - steve
 tags:
   - open-source
-  - LaTeX
+  - latex
   - editor
 thumbnail: thumbnails/data-driven-latex-templates.png
 ---

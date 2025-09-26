@@ -5,7 +5,7 @@ description: 'Mike Morrison, the designer of the #betterposter movement, is join
 date: 2023-04-12
 tags:
   - update
-  - '#betterscience'
+  - team
 authors:
   - mike
 thumbnail: thumbnails/mike-morrison-joins-curvenote.png

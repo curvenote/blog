@@ -10,7 +10,7 @@ tags:
   - chrome-extension
   - cli
   - jupyter
-  - draft
+  - hidden
 thumbnail: thumbnails/deprecating-chrome-extension.png
 ---
 

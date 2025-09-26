@@ -6,8 +6,7 @@ description: >-
 subtitle: Week of July 19, 2021
 date: 2021-07-19
 tags:
-  - feature
-  - seo
+  - product
   - weeknote
 thumbnail: thumbnails/2021-07-19-hover-effects-and-search-engines.png
 ---

@@ -7,7 +7,7 @@ authors:
 thumbnail: thumbnails/how-to-export-to-pdf-latex-using-curvenote.png
 tags:
   - tutorial
-  - LaTeX
+  - latex
   - editor
 ---
 

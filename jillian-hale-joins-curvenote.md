@@ -8,6 +8,7 @@ authors:
   - rowan
 tags:
   - update
+  - team
 ---
 
 **Welcoming product visionary Jillian Hale as we build a modular, dynamic future for research.**

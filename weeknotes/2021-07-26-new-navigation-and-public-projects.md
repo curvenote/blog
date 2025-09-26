@@ -6,9 +6,7 @@ description: >-
 subtitle: Week of July 26, 2021
 date: 2021-07-26
 tags:
-  - public-projects
-  - feature
-  - nav
+  - product
   - weeknote
 thumbnail: thumbnails/2021-07-26-new-navigation-and-public-projects.png
 ---

@@ -15,9 +15,9 @@ venue:
   url: https://paperpile.com/
 thumbnail: thumbnails/paperpile.png
 tags:
-  - citations
   - tutorial
   - editor
+  - partnership
 ---
 
 +++

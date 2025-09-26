@@ -6,7 +6,7 @@ description: >-
 subtitle: Week of June 13, 2022
 date: 2022-06-13
 tags:
-  - feature
+  - product
   - weeknote
 thumbnail: thumbnails/2022-06-13-document-outline-and-documentation.png
 ---

@@ -7,7 +7,7 @@ date: 2023-01-18
 subtitle: Join the upcoming tutorial webinar to learn more and get started
 tags:
   - webinar
-  - MyST
+  - myst
   - cli
   - editor
 thumbnail: thumbnails/writing-a-scientific-paper-faster-myst-markdown.png
