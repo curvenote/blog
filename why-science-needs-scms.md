@@ -1,5 +1,5 @@
 ---
-title: 'From Fragmented to Connected: Why Science Needs SCMS'
+title: 'From Fragmented to Connected: Why Science Needs an SCMS'
 description: Explore why science needs Scientific Content Management Systems (SCMS) to solve the "messy middle" problem in research. Learn how SCMS transforms fragmented workflows into connected, reusable building blocks that preserve credit and enable faster collaboration.
 date: 2025-09-23
 thumbnail: ./thumbnails/why-science-needs-scms.png

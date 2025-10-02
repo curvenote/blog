@@ -47,4 +47,4 @@ Publish
 
 An SCMS transforms how research is organized, connected, and shared. It frees up time for researchers to focus on the science itself—time they used to spend searching for files or recreating figures. It also makes it easier for teams and institutions to collaborate—science can be shared earlier, and more often, speeding up the time it takes from discovery to draft to distribution. And it transforms sharing and publishing into a rich, connected experience where readers can interact with the live findings for a deeper understanding of the discovery.
 
-Curious to learn more? See the story behind the SCMS here → [LINK TO CATEGORY SCMS LEAP FORWARD BLOG]
+Curious to learn more? See the [story behind the SCMS](./why-science-needs-scms.md).
