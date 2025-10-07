@@ -193,8 +193,7 @@ project:
 site:
   title: Curvenote Blog
   domains:
-    # - blog.curvenote.com
-    - rowanc1-cnblog.curve.space
+    - blog.curvenote.com
   options:
     logo: public/logo.svg
     logo_text: Curvenote
