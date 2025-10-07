@@ -6,6 +6,7 @@ tags:
   - update
   - scms
 date: 2025-10-07
+thumbnail: ./images/curvenote-debuts-platform-for-connected-publishing.png
 ---
 
 _With connected publishing at its core, Curvenote’s Scientific Content Management System (SCMS) gives research teams a reliable, audit-ready workflow for the age of open science._
