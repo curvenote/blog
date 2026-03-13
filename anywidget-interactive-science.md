@@ -91,7 +91,7 @@ Widget support in Curvenote is at our fifth iteration, and there's so much more 
 
 There's deep thinking in the widget and binding frameworks that Idyll, Observable, and the anywidget community have developed over the years, and we're drawing on all of it as we design the model linking and event passing. We think we have the pieces now — inline components, parameters, blocks, and anywidgets — to start **scaling** the kind of reactive scientific documents we've been building since 2014.
 
-If you want to try it, the [example-widgets repo](https://github.com/jupyter-book/example-js-anywidget) has small demos to get started, and the [opensci.dev blog](https://opensci.dev) has live examples using scientific datasets. Come show us what you build on the [Curvenote Discord](https://discord.curvenote.com) — we can't wait to see it.
+If you want to try it, the [example-widgets repo](https://github.com/jupyter-book/example-js-anywidget) has small demos to get started, and the [opensci.dev blog](https://opensci.dev) has live examples using scientific datasets. Come show us what you build on the [Curvenote Discord](https://discord.curvenote.dev) — we can't wait to see it.
 
 ## Acknowledgements
 
