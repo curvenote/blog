@@ -44,7 +44,7 @@ The analogy between scientific publishing and software releases is imperfect and
 The conversation highlighted the potential for redefining peer review in a continuous science model. Rowan Cockett differentiated between what he called _uppercase_ and _lowercase_ peer review. Uppercase _{sc}`Peer Review`™_, he explained, is the traditional, formal journal review process, while lowercase _peer review_ resembles the shorter, more dynamic, iterative feedback that open source developers might receive through pull requests or even private collaborative interaction from colleagues.
 Arfon Smith, founder of [the Journal of Open Source Software](https://joss.theoj.org) and currently Director of Product–AI at GitHub, reflected that the JOSS community looked to the best aspects of open-source software collaboration when designing their own peer review process, which has often been hailed as a collaborative, corrective and a _refreshingly pleasant_ experience by JOSS authors and editors.
 
-> “Open source communities have developed roles, playbooks, even 'dance moves' to perform continuous improvement in software.
+> Open source communities have developed roles, playbooks, even 'dance moves' to perform continuous improvement in software.
 >
 > -- Lorena Barba
 
