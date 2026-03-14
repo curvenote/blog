@@ -62,7 +62,7 @@ The module can be a URL to a shared, hosted widget or a local file bundled with 
 
 ## What This Looks Like in Practice
 
-The part that excites us most is what researchers are already building with this. A few examples from the past few weeks give a sense of the range.
+The part that excites us most is what researchers are already building with this. A few examples from users of Curvenote over the last year give a sense of the range.
 
 **Microscopy data exploration.** Using a [vizarr widget](https://cn-testing.curve.space/articles/cn-testing-idr-images), researchers can pan and zoom through massive OME-Zarr microscopy datasets directly in an article — the same kind of GPU-accelerated, multiscale image viewing you'd normally need specialized desktop software for, now running client-side in the browser. No server, no downloads, just point at a cloud-hosted Zarr store and explore.
 
@@ -77,9 +77,9 @@ These aren't demos. They're real research outputs, shared in context, connected 
 
 ## Why This Matters for Education
 
-This is where the impact compounds. One of the things we've seen consistently over the years is that the boundary between research communication and education is blurry — and it _should_ be. A well-explained research paper is a teaching tool. A good lecture draws on the latest findings. **The feedback loop between learning and discovery should be tight.**
+One of the things we've seen consistently over the years is that the boundary between research communication and education is blurry — and it _should_ be. A well-explained research paper is a teaching tool. A good lecture draws on the latest findings. **The feedback loop between learning and discovery should be tight.**
 
-Interactive widgets collapse the distance between _reading about_ something and _experiencing_ it. A student doesn't just see a plot of [how an electron beam focuses](https://cbl.curve.space/research#physical-computational-ideas) — they can adjust parameters and watch it change. A probability model isn't an equation on a page — it's something you can push and pull to build intuition. A microscopy dataset isn't a panel of cropped screenshots labeled _A_ through _F_ — it's something you can zoom into, just like Google Maps.
+Interactive widgets collapse the distance between _reading about_ something and _experiencing_ it. A student doesn't just see a plot of [how an electron beam focuses](https://cbl.curve.space/research#physical-computational-ideas) — they can adjust parameters and watch it change. A probability model isn't an equation on a page — it's something you can push and pull to build intuition. A microscopy dataset isn't a panel of cropped screenshots labeled `A` through `F` — it's something you can zoom into, just like Google Maps.
 
 For educators building courses with Curvenote, `anywidget` means you can create these experiences without standing up server infrastructure. A lecturer in control of their own content stack can go from static textbook to interactive, computational learning environment — and share it with students as a URL.
 
