@@ -5,7 +5,6 @@ date: 2026-03-13
 authors:
   - rowan
 tags:
-  - article
   - open-science
   - podcast
   - draft
