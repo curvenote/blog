@@ -7,15 +7,13 @@ authors:
 tags:
   - open-science
   - podcast
-  - draft
 thumbnail: thumbnails/data-engineering-podcast.png
 ---
 
 I recently joined the Data Engineering Podcast to talk about Curvenote, open science, and why the way we share research needs to change. The conversation covered a lot of ground — from my background in geoscience visualization to the socio-technical challenges of making science more reproducible and reusable.
 
 ```{note} Listen to the full episode
-:class: dropdown
-🎙️ [Listen to the full episode on the Data Engineering Podcast →](#)
+🎙️ [Listen to the full episode on the Data Engineering Podcast →](https://www.dataengineeringpodcast.com/episodepage/beyond-the-pdf-rowan-cockett-on-reproducible-composable-science)
 ```
 
 ## From Geoscience to Scientific Publishing
