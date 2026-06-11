@@ -17,7 +17,7 @@ thumbnail: thumbnails/paperpile.png
 tags:
   - tutorial
   - editor
-  - partnership
+  - partnerships
 ---
 
 +++

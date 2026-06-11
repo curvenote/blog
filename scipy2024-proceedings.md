@@ -10,6 +10,7 @@ authors:
 tags:
   - conference
   - proceedings
+  - partnerships
 ---
 
 Last week, Curvenote had the incredible opportunity to participate in SciPy2024, not just as attendees but as key contributors to the event. Curvenote proudly sponsored the [Scientific Python Proceedings](https://proceedings.scipy.org), which encourages any presenter at the SciPy conference to write an article on their contribution, for example, a new scientific python package, community standard, case-study or algorithmic approach. Curvenote is hosting the proceedings and sharing our expertise in scientific publishing and computational articles to elevate the proceedings. At the event we showcased Curvenote, met with authors, and further developed MyST Markdown during the week as well as at the conference sprints on the weekend.
