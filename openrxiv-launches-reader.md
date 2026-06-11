@@ -8,7 +8,6 @@ tags:
   - reader
   - partnerships
   - news
-  - draft
 thumbnail: thumbnails/openrxiv-launches-reader.png
 ---
 
