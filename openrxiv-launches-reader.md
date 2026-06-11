@@ -27,6 +27,18 @@ Anyone can hover over citations and drill as deep as they want pulling other ope
 >
 > -- Tracy Teal, CEO openRxiv
 
+:::{important} Try Curvenote Reader on all of bioRxiv Today
+
+You can visit **<https://reader.openrxivlabs.org>** to search for any bioRxiv preprint and try the new reading experience.
+
+**See preprints in Curvenote Reader:**
+
+- Abstract links to a fully reproducible Curvenote version! ([Qiu et al, 2026](https://reader.openrxivlabs.org/content/10.64898/2026.04.07.717039v2))
+- A preprint about bioRxiv ([Sever et al, 2026](https://reader.openrxivlabs.org/content/10.1101/833400v2))
+- Preprint number 26, from 13 years ago [Berg & Coop, 2013](https://reader.openrxivlabs.org/content/10.1101/000026v1)
+
+:::
+
 ## Modern experiences, existing infrastructure
 
 Transforming scientific platforms at this scale is not a small challenge or something done quickly.
@@ -38,6 +50,10 @@ The Curvenote team translated the existing corpus into a new reading interface b
 > “Scientific infrastructure is hard. Repositories are maintaining massive systems under real operational and funding constraints, which makes upgrading risky by default. We built Curvenote Reader to work with the systems institutions already rely on, not force them into painful rebuilds. The best infrastructure partners move science forward alongside repositories, not against them.”
 >
 > -- Rowan Cockett, Co-founder & CEO, Curvenote
+
+:::{figure #reader .framed} images/curvenote-reader.mp4
+Curvenote Reader in action for a bioRxiv preprint, you can [try this preprint here](https://reader.openrxivlabs.org/content/10.64898/2026.06.04.730096v1) (CC-BY-4.0).
+:::
 
 ## Built with repository workflows in mind
 
