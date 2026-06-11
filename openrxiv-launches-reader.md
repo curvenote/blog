@@ -13,7 +13,7 @@ thumbnail: thumbnails/openrxiv-launches-reader.png
 
 Half a million preprints, easier to explore.
 
-We partnered with [openRxiv](https://openrxiv.org) to launch the first [Curvenote Reader](https://curvenote.com/products/reader), layering a more connected reading experience across 460,282 preprints from [bioRxiv](https://www.biorxiv.org), without requiring repository teams to rebuild infrastructure, redesign workflows, or disrupt production operations. The 103,863 preprint versions from [medRxiv](https://www.medrxiv.org) are next.
+We partnered with [openRxiv](https://openrxiv.org) to launch the first [Curvenote Reader](https://curvenote.com/products/reader), layering a more connected reading experience across 460,282 preprint versions from [bioRxiv](https://www.biorxiv.org), without requiring repository teams to rebuild infrastructure, redesign workflows, or disrupt production operations. The 103,863 preprint versions from [medRxiv](https://www.medrxiv.org) are next.
 
 That scale matters.
 
