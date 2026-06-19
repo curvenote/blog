@@ -72,13 +72,6 @@ Our goal at Curvenote, and why we are investing heavily in the <xref:docs#term-m
 
 We see a lot of potential in educational content, where you can embed glossary terms, equations and content across community resources. Here is an example of embedding from Curvenote's product glossary, all of the hover-references and links continue to work!
 
-:::{prf:example} Curvenote's Product Glossary
-
-Example of pulling a term out of Curvenote's product glossary, note that all of the cross-references are still actively linked to the original resource. This is enabled by the syntax `![](xref:docs#term-curvenote-platform)` in MyST.
-
-![](xref:docs#term-curvenote-platform)
-:::
-
 There is still a lot of work to understand the best patterns around the user experience, and ensuring that the embedded content is distinct and shows the licensing and attribution if that is the goal of the author. These are exciting questions that these features enable us to ask and unlock the potential of working with and reusing structured data.
 
 To learn more about MyST Markdown, see the documentation on [references](https://mystmd.org/guide/external-references#myst-xref) and [embedding](https://mystmd.org/guide/embed#embed-from-external-myst-projects). To start a journal, preprint server, or lab-group website [contact Curvenote for a demo](https://curvenote.com/demo).
